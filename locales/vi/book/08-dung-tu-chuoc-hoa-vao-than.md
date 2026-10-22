@@ -284,7 +284,7 @@ Các mục trong phần này chia theo chủ đề thành mấy khối dưới �
 - Ghi chú: Chỉ tham khảo TQ: Trang khuyến cáo chính thức của Tổng cục Hải quan và Bộ Công an về việc này không mở được, nên mục này chỉ trích trang của Cục Lãnh sự Bộ Ngoại giao. Nguyên văn cũng chỉ đưa nguyên tắc, không nêu điều luật, nên đặt mức B. Nhận hộ hàng chuyển phát trong nước cũng vậy, nhất là loại bảo bạn ứng tiền trước, hoàn tiền sau.
 
 ### 30. Nuôi chó phải dắt dây: không dây mà có chuyện là trách nhiệm không lỗi (có lỗi hay không đều phải đền), đền tới cùng
-<!-- tags: money=0 time=low will=some gain=high scope=money -->
+<!-- tags: money=low time=mid will=some gain=high scope=money -->
 - Chi phí: Một sợi dây dắt chó vài chục nhân dân tệ. Phần khó là lần nào ra ngoài cũng phải nhớ dắt.
 - Nói dễ hiểu: Chó làm người bị thương, dù bạn có lỗi hay không cũng phải đền. Chỉ khi chứng minh bên kia cố ý hay có lỗi nặng mới có thể đền ít hoặc không đền. Không dắt dây thì chỉ còn lý do "bên kia cố ý" để giảm; chó dữ bị cấm nuôi cắn người thì không được miễn.
 - Lợi ích: Vật nuôi trong nhà làm người khác bị thương thì người nuôi hoặc người đang trông nó phải đền; luật gọi là chịu trách nhiệm xâm phạm quyền. Chỉ khi chứng minh được người bị thương tự cố ý trêu chọc, hoặc có lỗi nặng, thì mới được không đền hoặc đền ít. Còn nếu vi phạm quy định quản lý, không có biện pháp an toàn, ví dụ đáng lẽ phải dắt dây mà không dắt, thì chỉ còn đúng một lý do để giảm là "người bị xâm quyền cố ý". Chó dữ bị cấm nuôi mà làm người bị thương thì không có lý do miễn trách nào

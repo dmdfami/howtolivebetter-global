@@ -23,7 +23,7 @@ Phần này đo bằng tỷ lệ tử vong và tiền. Sau khi bạn phát hiệ
 - Ghi chú: Chỉ tham khảo TQ: Bạn phải làm cả hai việc. Trước hết bạn đăng ký bệnh mạn tính đặc thù ở nơi tham gia bảo hiểm, rồi đăng ký khám ngoại tỉnh. 5 loại bệnh mới thêm đã mở tới bước nào, tiến độ mỗi nơi một khác, nên bạn lấy công bố của cơ quan bảo hiểm y tế địa phương làm chuẩn.
 
 ### 3. Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ
-<!-- tags: money=low time=low will=some gain=mid scope=health -->
+<!-- tags: money=low time=low will=some gain=low scope=health -->
 - Chi phí: Mỗi lần kiểm tra tốn vài chục đến vài trăm nhân dân tệ. Bạn đi bệnh viện một lượt và chờ kết quả thì mất một chút thời gian. Phần khó là cách một quãng lại phải đi một lần, nên dễ trì hoãn mãi.
 - Nói dễ hiểu: Với bệnh mạn tính, điều cần xem là chỉ số đổi thế nào trong một khoảng thời gian, vì một lần đo thì không đủ. Bạn ghi ngày, chỉ số, thuốc đang uống và liều vào cùng một quyển sổ. Bạn đổi bệnh viện thì mang sổ ra, khỏi xét nghiệm lại và khỏi trả thêm một lần.
 - Lợi ích: Với bệnh mạn tính, cần xem con số đổi thế nào trong một khoảng thời gian, vì chỉ nhìn một lần là không đủ. Bạn ghi vào cùng một chỗ thì còn một lợi nữa: khi đổi bệnh viện, bạn không phải xét nghiệm lại, cũng không phải trả tiền lại.
