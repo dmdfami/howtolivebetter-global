@@ -1,0 +1,15 @@
+{
+  "name": "howtolivebetter-global",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "upstream": "node tools/fetch-upstream.mjs",
+    "status": "node tools/status.mjs",
+    "translate": "node tools/translate.mjs",
+    "build": "node tools/build.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.1.0",
+    "marked": "^18.1.1"
+  }
+}

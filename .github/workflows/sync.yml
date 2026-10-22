@@ -1,0 +1,48 @@
+name: Sync with upstream
+
+# Every day: fetch the Chinese original, translate new and changed items with
+# Claude, and open (or update) a pull request for review.
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max items to translate per locale (blank = all)'
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency: sync
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run upstream
+      - run: npm run status
+      - name: Translate
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          for loc in $(ls locales); do
+            node tools/translate.mjs "$loc" ${{ inputs.limit && format('--limit {0}', inputs.limit) || '' }} || echo "::warning::$loc had failures, they will be retried next run"
+          done
+      - run: npm run build
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: sync/upstream
+          title: 'Đồng bộ bản gốc'
+          commit-message: 'Sync translations with upstream'
+          body: |
+            Tự động dịch các mục mới và mục đã đổi trong bản gốc tiếng Trung.
+            Xem diff từng mục trước khi merge. Mục dịch lỗi sẽ được thử lại ở lần chạy sau.
+          delete-branch: true

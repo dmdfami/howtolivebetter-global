@@ -1,0 +1,47 @@
+{
+  "lang": "vi",
+  "name": "Tiếng Việt",
+  "country": "Việt Nam",
+  "siteTitle": "Cẩm nang sống đáng giá",
+  "tagline": "Dùng ít tiền, thời gian và sức lực nhất, đổi về nhiều tuổi thọ, tiền bạc và tự do nhất",
+  "backLink": "[← Mục lục](../README.md)",
+  "fields": {
+    "成本": "Chi phí",
+    "说人话": "Nói dễ hiểu",
+    "收益": "Lợi ích",
+    "证据等级": "Mức chứng cứ",
+    "来源": "Nguồn",
+    "备注": "Ghi chú"
+  },
+  "seedCredit": "<a href=\"https://github.com/chuanman2707/HowToLiveBetter\">bản dịch đầu tiên của chuanman2707</a>",
+  "cnOnlyMarker": "Chỉ tham khảo TQ:",
+  "disputedMarker": "Tranh cãi",
+  "refStyle": "phần N, mục M",
+  "tags": {
+    "money": { "label": "Tiền", "0": "Không tốn", "low": "Ít", "high": "Nhiều" },
+    "time": { "label": "Thời gian", "low": "Ít", "mid": "Vừa", "high": "Nhiều" },
+    "will": { "label": "Ý chí", "no": "Không cần", "some": "Chút ít", "high": "Nhiều" },
+    "gain": { "label": "Lợi ích", "high": "Lớn", "mid": "Vừa", "low": "Nhỏ" },
+    "scope": { "label": "Loại lợi ích", "health": "Sức khỏe, tuổi thọ", "money": "Tiền", "time": "Thời gian", "freedom": "Tự do, an toàn pháp lý" },
+    "who": { "label": "Dành cho", "35plus": "Từ 35 tuổi", "60plus": "Từ 60 tuổi", "women": "Phụ nữ", "infant": "Trẻ nhỏ", "child": "Trẻ em", "pregnancy": "Mang thai", "elderly": "Người già" }
+  },
+  "ui": {
+    "search": "Tìm mục…",
+    "allSections": "Tất cả các phần",
+    "items": "mục",
+    "evidence": "Chứng cứ",
+    "listen": "Nghe",
+    "readMore": "Xem chi tiết",
+    "source": "Bản gốc tiếng Trung",
+    "license": "Nội dung theo giấy phép CC BY 4.0, dịch và bản địa hóa từ",
+    "translatedFrom": "Dịch từ bản gốc, đồng bộ tới commit",
+    "cnOnly": "Chỉ áp dụng ở Trung Quốc",
+    "filters": "Lọc",
+    "clear": "Bỏ lọc",
+    "noResults": "Không có mục nào khớp.",
+    "prev": "Mục trước",
+    "next": "Mục sau",
+    "section": "Phần",
+    "item": "Mục"
+  }
+}
