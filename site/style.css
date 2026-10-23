@@ -1,21 +1,15 @@
 :root {
-  --bg: #fbfaf7; --surface: #ffffff; --text: #1d1d1f; --muted: #6b6b70; --line: #e6e3dc;
-  --accent: #1f6f5c; --accent-soft: #e3f1ec; --warn: #9a5b13; --warn-soft: #fbefdc;
-  --a: #1f6f5c; --b: #3b5ba5; --c: #8a6d3b;
-  --radius: 12px; --max: 760px;
+  --bg: #fdfaf2; --surface: #ffffff; --text: #1c2340; --muted: #5b6285; --line: #e4dcc6;
+  --accent: #b8392a; --accent-soft: #fbe9e2; --warn: #8a5a12; --warn-soft: #fbefdc;
+  --a: #1f6f5c; --b: #3b5ba5; --c: #8a6d3b; --gold: #b58a2e; --sky: #dff0f5;
+  --radius: 14px; --max: 760px;
   font-family: "Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #121314; --surface: #1b1c1e; --text: #ececec; --muted: #9a9aa0; --line: #2c2d30;
-    --accent: #6cc7ac; --accent-soft: #1d3a32; --warn: #e9b46b; --warn-soft: #3a2c19;
-    --a: #6cc7ac; --b: #8ea8ec; --c: #d8b77a;
-  }
-}
 :root[data-theme="dark"] {
-  --bg: #121314; --surface: #1b1c1e; --text: #ececec; --muted: #9a9aa0; --line: #2c2d30;
-  --accent: #6cc7ac; --accent-soft: #1d3a32; --warn: #e9b46b; --warn-soft: #3a2c19;
-  --a: #6cc7ac; --b: #8ea8ec; --c: #d8b77a;
+  --bg: #131830; --surface: #1b2142; --text: #f1ead6; --muted: #aab0cf; --line: #2e3560;
+  --accent: #f0705a; --accent-soft: #3a2230; --warn: #e9b46b; --warn-soft: #3a2c19;
+  --a: #6cc7ac; --b: #8ea8ec; --c: #d8b77a; --gold: #e0b552; --sky: #25365a;
+  color-scheme: dark;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -72,3 +66,7 @@ dd.f-来源 { font-size: 14px; color: var(--muted); }
 .hits { color: var(--muted); font-size: 14px; }
 .foot { max-width: var(--max); margin: 0 auto; padding: 24px 16px 48px; color: var(--muted); font-size: 13px; border-top: 1px solid var(--line); }
 @media (max-width: 520px) { .brand { font-size: 15px; } body { font-size: 16px; } .item { padding: 14px 14px 6px; } }
+
+.navlink { color: var(--text); text-decoration: none; font-weight: 600; font-size: 15px; white-space: nowrap; }
+.navlink:hover { color: var(--accent); }
+.hero h1, .sec-title, h1.item-title { font-family: "Fraunces", Georgia, serif; font-weight: 600; letter-spacing: -.02em; }

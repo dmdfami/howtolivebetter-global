@@ -32,7 +32,7 @@ function linkRefs(html, loc, nn) {
     .replace(/\u0000(\d+)\u0000/g, (m, i) => held[i]);
 }
 
-function page({ loc, L, title, desc, path, body, crumbs = [], alternates = [] }) {
+function page({ loc, L, title, desc, path, body, crumbs = [], alternates = [], extraCss = [], extraJs = [] }) {
   const url = `${BASE}/${path}`;
   return `<!doctype html>
 <html lang="${loc}">
@@ -46,12 +46,16 @@ ${alternates.map(a => `<link rel="alternate" hreflang="${a.lang}" href="${BASE}/
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(desc.slice(0, 300))}">
 <meta property="og:type" content="article">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,400&display=swap">
 <link rel="stylesheet" href="/assets/style.css">
+${extraCss.map(c => `<link rel="stylesheet" href="/assets/${c}.css">`).join('\n')}
 <script>try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch{}</script>
 </head>
 <body>
 <header class="top">
   <a class="brand" href="/${loc}/">${esc(L.siteTitle)}</a>
+  ${L.landing ? `<a class="navlink" href="/${loc}/game/">${esc(L.landing.game.title)}</a>` : ''}
   <form class="search" action="/${loc}/search/" role="search"><input name="q" type="search" placeholder="${esc(L.ui.search)}" aria-label="${esc(L.ui.search)}"></form>
   <button class="theme" type="button" aria-label="Theme">◐</button>
 </header>
@@ -59,6 +63,7 @@ ${crumbs.length ? `<nav class="crumbs">${crumbs.map(c => c.href ? `<a href="${c.
 <main>${body}</main>
 <footer class="foot">${esc(L.ui.license)} <a href="${UPSTREAM}">${esc(L.ui.source)}</a> (eternity4719)${L.seedCredit ? ` · ${L.seedCredit}` : ''}. ${esc(L.ui.translatedFrom)} <code>${esc(L._commit)}</code>.</footer>
 <script src="/assets/app.js" defer></script>
+${extraJs.map(j => `<script src="/assets/${j}.js" defer></script>`).join('\n')}
 </body>
 </html>`;
 }
@@ -96,6 +101,8 @@ for (const loc of locales()) {
   const L = readJson(resolve(localeDir(loc), 'locale.json'));
   const sync = readJson(resolve(localeDir(loc), 'sync.json'));
   L._commit = sync.commit.slice(0, 7);
+  const landingPath = resolve(localeDir(loc), 'landing.json');
+  if (existsSync(landingPath)) L.landing = readJson(landingPath);
   const audioPath = resolve(localeDir(loc), 'audio.json');
   const audio = existsSync(audioPath) ? readJson(audioPath) : {};
   const book = readBookDir(resolve(localeDir(loc), 'book'));
@@ -104,11 +111,46 @@ for (const loc of locales()) {
   const index = [];
 
   // Home
-  const home = `<section class="hero"><h1>${esc(L.siteTitle)}</h1><p class="lead">${esc(L.tagline)}</p>
-<p class="count">${total} ${esc(L.ui.items)} · ${sections.length} ${esc(L.ui.section).toLowerCase()}</p></section>
-<ol class="sections">${sections.map(([nn, ch]) => `<li><a href="/${loc}/${nn}/"><span class="num">${ch.number}</span><span class="t">${esc(ch.title)}</span><span class="c">${ch.items.length}</span></a></li>`).join('')}</ol>`;
-  write(loc, page({ loc, L, title: `${L.siteTitle} · ${L.tagline}`, desc: L.tagline, path: `${loc}/`, body: home }));
+  const tocList = `<ol class="sections">${sections.map(([nn, ch]) => `<li><a href="/${loc}/${nn}/"><span class="num">${ch.number}</span><span class="t">${esc(ch.title)}</span><span class="c">${ch.items.length}</span></a></li>`).join('')}</ol>`;
+  let home, homeCss = [], homeJs = [];
+  if (L.landing) {
+    const H = L.landing;
+    const secTitle = nn => sections.find(([k]) => k === nn)?.[1].title ?? nn;
+    home = `<section class="lhero" id="lhero">
+  <svg class="land" viewBox="0 0 1200 400" preserveAspectRatio="none" aria-hidden="true"><g class="layer" data-d="6"><path d="M0 220C150 120 260 200 400 150S650 90 800 170 1000 120 1200 200V400H0Z" opacity=".10"/></g><g class="layer" data-d="14"><path d="M0 280C160 190 300 270 460 220S760 170 900 250 1100 210 1200 270V400H0Z" opacity=".18"/></g><g class="layer" data-d="26"><path d="M0 340C200 280 380 330 560 300S900 260 1200 330V400H0Z" opacity=".30"/></g></svg>
+  <div class="sun" aria-hidden="true"></div>
+  <div class="lin"><div class="kick">${esc(H.hero.kicker)}</div><h1>${H.hero.title}</h1><p class="sub">${esc(H.hero.sub)}</p>
+  <div class="cta"><a class="btn seal" href="/${loc}/game/">${esc(H.hero.start)}</a><a class="btn" href="#toc">${esc(H.hero.read)}</a></div></div>
+  <div class="seal-mark" aria-hidden="true">生</div>
+</section>
+<section class="idea"><h2>${esc(H.idea.title)}</h2><p>${esc(H.idea.text)}</p></section>
+<section class="acts"><h2>${esc(H.acts.title)}</h2><div class="actgrid">${H.acts.items.map(a => `<article class="act"><div class="lv">${esc(a.lv)}</div><h3>${esc(a.title)}</h3><p>${esc(a.text)}</p><div class="srcs">${a.sections.map(nn => `<a href="/${loc}/${nn}/">${Number(nn)}. ${esc(secTitle(nn))}</a>`).join('')}</div></article>`).join('')}</div></section>
+<section class="toc" id="toc"><h2>${esc(H.toc.title)}</h2><p class="lead">${esc(H.toc.text)}</p><p class="count">${total} ${esc(L.ui.items)} · ${sections.length} ${esc(L.ui.section).toLowerCase()}</p>${tocList}</section>`;
+    homeCss = ['landing']; homeJs = ['landing'];
+  } else {
+    home = `<section class="hero"><h1>${esc(L.siteTitle)}</h1><p class="lead">${esc(L.tagline)}</p>
+<p class="count">${total} ${esc(L.ui.items)} · ${sections.length} ${esc(L.ui.section).toLowerCase()}</p></section>${tocList}`;
+  }
+  write(loc, page({ loc, L, title: `${L.siteTitle} · ${L.tagline}`, desc: L.tagline, path: `${loc}/`, body: home, extraCss: homeCss, extraJs: homeJs }));
   sitemap.push(`${loc}/`);
+
+  // Game: cards are generated from the book's own cost/benefit tags.
+  if (L.landing) {
+    const G = L.landing.game;
+    const cards = [];
+    for (const [nn, ch] of sections) for (const it of ch.items) {
+      const { plainLine, cnOnly, evidence } = itemParts(L, it);
+      if (cnOnly || !it.tags.scope || !it.tags.gain) continue;
+      cards.push({ k: `${nn}/${it.n}`, t: it.title, p: plain(plainLine).slice(0, 240), g: it.tags, e: evidence[0] ?? 'B' });
+    }
+    writeFileSync(resolve(DIST, loc, 'cards.json'), JSON.stringify({ cards, tags: L.tags }));
+    const body = `<section class="gameapp" data-loc="${loc}" data-strings="${esc(JSON.stringify(G))}">
+<h1>${esc(G.title)}</h1><p class="lead">${esc(G.intro)}</p>
+<div id="game"><button class="btn seal" id="begin" type="button">${esc(G.begin)}</button></div>
+<p class="count">${esc(G.note)}</p></section>`;
+    write(`${loc}/game`, page({ loc, L, title: `${G.title} · ${L.siteTitle}`, desc: G.intro, path: `${loc}/game/`, body, crumbs: [{ text: L.siteTitle, href: `/${loc}/` }, { text: G.title }], extraCss: ['landing'], extraJs: ['game'] }));
+    sitemap.push(`${loc}/game/`);
+  }
 
   for (const [nn, ch] of sections) {
     const crumbs = [{ text: L.siteTitle, href: `/${loc}/` }, { text: `${ch.number}. ${ch.title}` }];

@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "kicker": "Cuốn sách cho người mới vào đời",
+    "title": "Bạn đã vào <em>ván chơi</em> từ ngày chào đời.",
+    "sub": "Không ai phát cho bạn luật chơi. Cuốn sách này là cuốn luật chơi ấy: mỗi việc ghi rõ bạn tốn gì, được gì, và chứng cứ mạnh đến đâu.",
+    "start": "Chơi ván đời",
+    "read": "Đọc sách"
+  },
+  "idea": {
+    "title": "Thắng không phải là giàu nhất. Thắng là còn trong ván đủ lâu, đủ khỏe, đủ tự do.",
+    "text": "Trò chơi đời người không có nút chơi lại, không cho chọn nhân vật, và điểm số thật là một cuộc sống yên ổn. Vì vậy sách đi từ \"đừng chết sớm\" đến \"đừng chết từ từ\", rồi mới tới tiền, thời gian và những chặng lớn của đời."
+  },
+  "acts": {
+    "title": "Bảy chặng của ván chơi",
+    "items": [
+      { "lv": "Chặng 1", "title": "Đừng chết sớm", "text": "Tai nạn, hỏa hoạn, vaccine, tín hiệu cơ thể. Những ngày đầu quyết định ván cờ.", "sections": ["01"] },
+      { "lv": "Chặng 2", "title": "Đừng chết từ từ", "text": "Thói quen nhỏ lặp lại mỗi ngày làm hao mòn cơ thể nhiều hơn một biến cố lớn.", "sections": ["02"] },
+      { "lv": "Chặng 3", "title": "Đừng lãng phí", "text": "Sức lực, thời gian và tiền là ba chỉ số tụt dần khi bạn không để ý.", "sections": ["03", "04", "05"] },
+      { "lv": "Chặng 4", "title": "Tránh bẫy", "text": "Lừa đảo, vi phạm pháp luật, tự chuốc họa vào thân, những cái bẫy dễ giẫm nhất.", "sections": ["06", "08", "09", "11"] },
+      { "lv": "Chặng 5", "title": "Các chặng đời", "text": "Yêu, cưới, mang thai, nuôi con, thuê và mua nhà, bệnh mạn tính, người già.", "sections": ["10", "15", "16", "17", "18", "27"] },
+      { "lv": "Chặng 6", "title": "Khi biến cố ập đến", "text": "Tình huống khẩn cấp, mất người thân, sau cú sốc lớn.", "sections": ["13", "25", "29"] },
+      { "lv": "Chặng 7", "title": "Về đích", "text": "Thư giãn, học kỹ năng, đi khám đúng cách và những con đường sau tuổi mười tám.", "sections": ["22", "23", "24", "31"] }
+    ]
+  },
+  "toc": { "title": "Đọc từng phần", "text": "Sách vẫn đọc như bản gốc, sạch và sáng. Game chỉ là lớp tùy chọn phủ lên." },
+  "game": {
+    "title": "Ván đời",
+    "intro": "Mỗi lượt bạn rút một việc từ chính cuốn sách. Làm hay bỏ qua, chi phí và lợi ích đều lấy từ các mục thật. Chơi xong, bạn sẽ thấy mình đã bỏ lỡ mục nào để đọc.",
+    "begin": "Bắt đầu",
+    "do": "Làm việc này",
+    "skip": "Bỏ qua",
+    "next": "Lượt tiếp",
+    "again": "Chơi ván mới",
+    "round": "Lượt",
+    "stats": { "health": "Sức khỏe", "money": "Tiền", "time": "Thời gian", "mind": "Tỉnh táo" },
+    "costLine": "Bạn trả",
+    "gainLine": "Bạn được",
+    "evidenceHit": "Chứng cứ vững, lợi ích đến đúng như sách nói.",
+    "evidenceMiss": "Chứng cứ yếu hơn, lần này lợi ích không đến, chỉ còn chi phí.",
+    "skipSafe": "Bạn bỏ qua, và may mắn không có chuyện gì.",
+    "skipHit": "Bạn bỏ qua việc này và rủi ro đã xảy ra.",
+    "readItem": "Đọc mục này",
+    "endTitle": "Hết ván",
+    "endLose": "Một chỉ số của bạn về 0. Trong đời thật, điều này đáng sợ hơn nhiều, nên cuốn sách mới tồn tại.",
+    "endWin": "Bạn còn trong ván. Dưới đây là các mục bạn đã bỏ qua, nên đọc lại.",
+    "missed": "Những mục có lợi ích lớn bạn đã bỏ qua",
+    "none": "Bạn không bỏ qua mục lớn nào.",
+    "note": "Đây là mô hình đơn giản để học, không phải lời khuyên y tế hay tài chính."
+  }
+}
