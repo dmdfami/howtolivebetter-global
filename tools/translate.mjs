@@ -4,8 +4,13 @@
 //
 //   node tools/translate.mjs <locale> [--only 05,13] [--limit 20] [--dry-run]
 //
-// Needs ANTHROPIC_API_KEY (or another credential the SDK resolves). Items
-// that fail validation keep their old sync hash, so the next run retries them.
+// Backend is chosen by environment variables:
+//   TRANSLATE_API_FORMAT  openai (default when TRANSLATE_API_BASE is set) | anthropic
+//   TRANSLATE_API_BASE    e.g. https://router.example.com/v1  (OpenAI: POST <base>/chat/completions)
+//   TRANSLATE_API_KEY     bearer token for that endpoint
+//   TRANSLATE_MODEL       model name the endpoint understands
+// With none of them set it uses the Anthropic API (ANTHROPIC_API_KEY).
+// Items that fail validation keep their old sync hash, so the next run retries them.
 import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
@@ -22,7 +27,10 @@ const dryRun = args.includes('--dry-run');
 const loc = args.find(a => !a.startsWith('--'));
 if (!loc) { console.error('usage: translate.mjs <locale> [--only NN,NN] [--limit N] [--dry-run]'); process.exit(2); }
 
-const MODEL = process.env.TRANSLATE_MODEL ?? 'claude-opus-5-5';
+const { TRANSLATE_API_BASE, TRANSLATE_API_KEY = '' } = process.env;
+const FORMAT = process.env.TRANSLATE_API_FORMAT ?? (TRANSLATE_API_BASE ? 'openai' : 'anthropic');
+const MODEL = process.env.TRANSLATE_MODEL ?? (FORMAT === 'anthropic' ? 'claude-opus-5-5' : null);
+if (!MODEL) { console.error('set TRANSLATE_MODEL for the openai format'); process.exit(2); }
 const CONCURRENCY = Number(process.env.TRANSLATE_CONCURRENCY ?? 6);
 const dir = localeDir(loc);
 const locale = readJson(resolve(dir, 'locale.json'));
@@ -51,8 +59,35 @@ const upText = (book, key) => {
 const todo = plan.entries.filter(e => (e.kind === 'changed' || e.kind === 'new') && (!only || only.includes(e.key.slice(0, 2)))).slice(0, limit);
 console.log(`${loc}: ${todo.length} entries to translate with ${MODEL}${dryRun ? ' (dry run)' : ''}`);
 
-const client = dryRun ? null : new Anthropic();
+const client = dryRun || FORMAT !== 'anthropic' ? null : new Anthropic(TRANSLATE_API_BASE ? { baseURL: TRANSLATE_API_BASE, apiKey: TRANSLATE_API_KEY } : {});
 const system = [{ type: 'text', text: guide, cache_control: { type: 'ephemeral' } }];
+
+// One request → the model's text, or null when it refused.
+async function complete(userText) {
+  if (FORMAT === 'openai') {
+    const res = await fetch(`${TRANSLATE_API_BASE.replace(/\/$/, '')}/chat/completions`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', ...(TRANSLATE_API_KEY && { Authorization: `Bearer ${TRANSLATE_API_KEY}` }) },
+      body: JSON.stringify({ model: MODEL, temperature: 0.2, messages: [{ role: 'system', content: guide }, { role: 'user', content: userText }] }),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
+    const text = (await res.json()).choices?.[0]?.message?.content;
+    // Some models wrap output in a code fence or a <think> block.
+    return text?.replace(/<think>[\s\S]*?<\/think>/g, '').replace(/^```\w*\n|\n```$/g, '').trim() ?? null;
+  }
+  const res = await client.beta.messages.stream({
+    model: MODEL,
+    max_tokens: 32000,
+    thinking: { type: 'adaptive' },
+    output_config: { effort: 'high' },
+    betas: ['server-side-fallback-2026-07-01'],
+    fallbacks: 'default',
+    system,
+    messages: [{ role: 'user', content: userText }],
+  }).finalMessage();
+  if (res.stop_reason === 'refusal') return null;
+  return res.content.filter(b => b.type === 'text').map(b => b.text).join('').trim();
+}
 
 function prompt(e) {
   const fresh = upText(up, e.key);
@@ -89,18 +124,8 @@ async function run(e) {
   let lastErr;
   for (let attempt = 0; attempt < 2; attempt++) {
     const msg = prompt(e) + (lastErr ? `\n\nYour previous answer was rejected: ${lastErr}. Fix that.` : '');
-    const res = await client.beta.messages.stream({
-      model: MODEL,
-      max_tokens: 32000,
-      thinking: { type: 'adaptive' },
-      output_config: { effort: 'high' },
-      betas: ['server-side-fallback-2026-07-01'],
-      fallbacks: 'default',
-      system,
-      messages: [{ role: 'user', content: msg }],
-    }).finalMessage();
-    if (res.stop_reason === 'refusal') { lastErr = 'refusal'; continue; }
-    const text = res.content.filter(b => b.type === 'text').map(b => b.text).join('').trim();
+    const text = await complete(msg);
+    if (text === null) { lastErr = 'refusal'; continue; }
     try { return validate(e, text); } catch (err) { lastErr = err.message; }
   }
   throw new Error(lastErr);

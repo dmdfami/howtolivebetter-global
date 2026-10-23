@@ -35,7 +35,18 @@ node tools/translate.mjs vi --only 01 --limit 5   # dịch thử 5 mục của p
 npm run build                            # tạo dist/
 ```
 
-`translate.mjs` cần `ANTHROPIC_API_KEY`. Model mặc định là `claude-opus-5-5`, đổi bằng biến `TRANSLATE_MODEL`.
+`translate.mjs` chọn backend bằng biến môi trường:
+
+| Biến | Ý nghĩa |
+|---|---|
+| `TRANSLATE_API_BASE` | Endpoint của bạn, ví dụ `https://router.example.com/v1`. Gọi `POST <base>/chat/completions` (kiểu OpenAI). |
+| `TRANSLATE_API_KEY` | Token của endpoint đó. |
+| `TRANSLATE_MODEL` | Tên model endpoint hiểu. Bắt buộc với kiểu OpenAI. |
+| `TRANSLATE_API_FORMAT` | `openai` (mặc định khi có `TRANSLATE_API_BASE`) hoặc `anthropic` (endpoint kiểu Anthropic Messages). |
+
+Không đặt biến nào thì dùng thẳng API Anthropic với `ANTHROPIC_API_KEY` (model mặc định `claude-opus-5-5`). Dù dùng model nào, bản dịch phải qua kiểm tra: đủ các trường, đúng số mục, giữ nguyên URL nguồn. Mục không đạt sẽ thử lại một lần, rồi để lại cho lần chạy sau.
+
+Trong GitHub Actions: đặt `TRANSLATE_API_BASE`, `TRANSLATE_MODEL` ở Settings → Variables, và `TRANSLATE_API_KEY` ở Secrets.
 
 ### Audio
 
