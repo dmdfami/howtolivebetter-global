@@ -17,7 +17,7 @@ Phần này chỉ tính sổ thời gian. Bạn nhìn mỗi ngày, mỗi tuần,
 <!-- tags: money=0 time=low will=some gain=high scope=time -->
 - Chi phí: Không tốn tiền. Lúc bắt tay, bạn mất 5 phút để viết rõ "tới ngày nọ tháng kia chưa đạt chỉ tiêu nào thì dừng". Phần khó là tới ngày đó bạn phải nhận, và dừng tay trước mặt người khác thì hơi mất mặt.
 - Nói dễ hiểu: Trước khi bắt tay, bạn viết sẵn một câu: tới ngày nọ tháng kia vẫn chưa đạt chỉ tiêu nào thì dừng. Khi gộp nhiều nghiên cứu lại tính, kiểu viết này thật sự giúp người rút khỏi việc vốn không làm xong được. Thời gian bạn tiết kiệm là toàn bộ phần bạn vốn còn tiếp tục đổ vào.
-- Lợi ích: Khi gộp nhiều nghiên cứu về ý định thực hiện lại tính, kết quả là câu "nếu... thì..." định trước cũng giúp người rút khỏi việc vốn không làm xong được. Nguyên văn gọi là disengagement from failing courses of action. Thời gian tiết kiệm được chính là phần bạn vốn còn tiếp tục đầu tư vào.
+- Lợi ích: Khi gộp nhiều nghiên cứu về ý định thực hiện lại tính, câu "nếu... thì..." định trước cũng giúp người rút khỏi việc vốn không làm xong được. Nguyên văn gọi là disengagement from failing courses of action. Thời gian tiết kiệm được chính là phần bạn vốn còn tiếp tục đầu tư vào.
 - Mức chứng cứ: B
 - Nguồn: Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119. <https://doi.org/10.1016/S0065-2601(06)38002-1>
 - Ghi chú: Bạn phải đặt điều kiện rút lui lúc mới bắt tay, khi cảm xúc còn bình tĩnh. Nếu bạn đặt sau, chi phí đã đổ vào sẽ kéo bạn lệch. Lúc phán đoán, bạn chỉ nhìn đầu tư tương lai và hồi báo tương lai, xem mục 3. Ngoài ra, "chịu rút lui" chỉ là một kết luận phụ trong phần tổng hợp nhiều nghiên cứu, chưa ai tính riêng nó tiết kiệm được bao nhiêu thời gian.
@@ -70,7 +70,7 @@ Phần này chỉ tính sổ thời gian. Bạn nhìn mỗi ngày, mỗi tuần,
 ### 8. Việc không có hạn chót bên ngoài thì tự đặt cho nó một ngày
 <!-- tags: money=0 time=low will=some gain=high scope=time -->
 - Chi phí: Không tốn tiền. Phần khó là đã đặt thì bạn phải nhận. Tới ngày đó bạn coi như không có chuyện gì thì bằng chưa đặt.
-- Nói dễ hiểu: Khi người khác đặt hạn chót, 80,6% sinh viên làm xong được trước hạn đó. Chỉ 38,7% người xong đúng theo thời gian mình dự tính. Khi nào bạn xong gần như do hạn chót quyết định, liên quan tới tự mình ước không lớn. Việc không có hạn chót thì bạn tự đặt một ngày, và nhận.
+- Nói dễ hiểu: Khi người khác đặt hạn chót, 80,6% sinh viên làm xong được trước hạn đó. Chỉ 38,7% người xong đúng theo thời gian mình dự tính. Khi nào bạn xong gần như theo hạn chót, liên quan tới tự mình ước không lớn. Việc không có hạn chót thì bạn tự đặt một ngày, và nhận.
 - Lợi ích: Sinh viên có hạn chót bên ngoài thì 80,6% xong trước hạn. Chỉ 38,7% người xong trong thời gian mình dự tính. Khi nào xong gần như chạy theo hạn chót, hệ số tương quan r = 0,82. Số này càng gần 1 thì bám càng sát. Với dự tính của bản thân chỉ liên hệ rất yếu.
 - Mức chứng cứ: B
 - Nguồn: Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the "planning fallacy": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366–381. <https://doi.org/10.1037/0022-3514.67.3.366>
@@ -79,7 +79,7 @@ Phần này chỉ tính sổ thời gian. Bạn nhìn mỗi ngày, mỗi tuần,
 ### 9. Coi trì hoãn là đang tránh cảm giác khó chịu, đừng coi là chưa đủ cố gắng
 <!-- tags: money=0 time=low will=some gain=mid scope=time -->
 - Chi phí: Không tốn tiền. Bạn chỉ đổi hướng phán đoán: trước hỏi việc này chỗ nào khiến bạn khó chịu, rồi mới nghĩ cách.
-- Nói dễ hiểu: Trì hoãn ít liên quan tới lười và tính cách. Ba thứ cho thấy ai trì hoãn rõ nhất: việc làm bạn khó chịu cỡ nào, bạn thấy mình làm được không, và bạn dễ bị thứ trước mắt cuốn cỡ nào. Có ích là làm việc bớt khó chịu, thu nhỏ bước đầu, chứ không mắng mình rồi gượng.
+- Nói dễ hiểu: Việc làm bạn khó chịu cỡ nào, bạn có thấy mình làm được không, bạn dễ bị thứ trước mắt cuốn đi cỡ nào, và tự kiểm soát mạnh hay yếu, là những thứ liên quan nhất tới trì hoãn. Tính cách như hay lo âu hoặc thích tìm kích thích chỉ liên quan rất ít tới trì hoãn. Vì vậy bạn có thể trước hết làm việc bớt khó chịu, thu nhỏ bước đầu, đừng chỉ mắng mình rồi gượng làm.
 - Lợi ích: Một phân tích gộp 691 hệ số tương quan cho thấy mấy thứ liên hệ mạnh và ổn định với trì hoãn. Đó là mức việc khiến người ta chán ghét, khoảng cách tới hạn chót, cảm giác tự hiệu lực (thấy mình làm được), tính bốc đồng, và tính tận tâm. Dưới tính tận tâm còn có tự kiểm soát, dễ phân tâm, tính ngăn nắp và động cơ thành tựu. Còn tính dễ xúc động tiêu cực, tính nổi loạn và tìm cảm giác mạnh chỉ liên hệ rất yếu với trì hoãn. Tác giả dùng lý thuyết động cơ thời gian để giải thích nhóm kết quả này. Sức hút hiện tại của một việc nhanh chóng nhỏ lại khi hồi báo xa dần.
 - Mức chứng cứ: A
 - Nguồn: Steel P (2007). The nature of procrastination: a meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1), 65–94. <https://doi.org/10.1037/0033-2909.133.1.65>
@@ -101,7 +101,7 @@ Phần này chỉ tính sổ thời gian. Bạn nhìn mỗi ngày, mỗi tuần,
 - Lợi ích: Một thử nghiệm ngẫu nhiên trên 2.538 người của Mỹ chia ngẫu nhiên nhân viên cùng người thân và bạn bè của họ vào bốn phương án khuyến khích hoặc chăm sóc thường quy. Kiểu thưởng (làm được thì cho khoảng 800 đô la) có tỷ lệ tiếp nhận 90,0%. Kiểu đặt cọc (nộp trước 150 đô la, cộng thêm 650 đô la thưởng) có tỷ lệ tiếp nhận 13,7%. Tỷ lệ cai thuốc duy trì sáu tháng của bốn phương án khuyến khích từ 9,4% đến 16,0%, còn chăm sóc thường quy là 6,0%. Kiểu thưởng là 15,7%, kiểu cọc là 10,2%. Nhưng trong 13,7% người "hai kiểu đều chịu tham gia", kiểu cọc có tỷ lệ cai thuốc sáu tháng cao hơn kiểu thưởng 13,2 điểm phần trăm (95% CI 3,1 đến 22,8, đây là khoảng tin cậy).
 - Mức chứng cứ: A
 - Nguồn: Halpern SD, French B, Small DS, et al. (2015). Randomized trial of four financial-incentive programs for smoking cessation. New England Journal of Medicine, 372(22), 2108–2117. <https://doi.org/10.1056/NEJMoa1414293>
-- Ghi chú: Thử nghiệm này đo việc cai thuốc. Đem sang viết luận văn hay tập thể dục, đây là suy rộng ra, nên mức lợi ích ghi "vừa". Khi chọn phương án, trước hết bạn xem mình có thật sự dùng nó không. Cách mà đa số người không chịu tiếp nhận thì hiệu quả mạnh cỡ nào cũng vô dụng với những người đó. Vì thế bạn nên chọn trước kiểu mình chịu tiếp nhận, đặt nhỏ một chút cũng hơn không đặt. Riêng việc cai thuốc thì cai thế nào, bạn xem phần 2, mục 3 (thuốc cai thuốc).
+- Ghi chú: Thử nghiệm này đo việc cai thuốc. Đem sang viết luận văn hay tập thể dục, đây là suy rộng ra, nên mức lợi ích ghi "vừa". Khi chọn phương án, trước hết xem mình có thật sự dùng nó không, chứ đừng chỉ xem nó hiệu quả cỡ nào. Cách mà đa số người không chịu tiếp nhận thì hiệu quả mạnh cỡ nào cũng vô dụng với những người đó. Vì thế bạn nên chọn trước kiểu mình chịu tiếp nhận, đặt nhỏ một chút cũng hơn không đặt. Riêng việc cai thuốc thì cai thế nào, bạn xem phần 2, mục 3 (thuốc cai thuốc).
 
 ### 12. Thói quen mới tính theo tháng, đừng tính "21 ngày"
 <!-- tags: money=0 time=low will=high gain=mid scope=time -->
@@ -115,7 +115,7 @@ Phần này chỉ tính sổ thời gian. Bạn nhìn mỗi ngày, mỗi tuần,
 ### 13. Trì hoãn đã ảnh hưởng cuộc sống thì dùng tài liệu tự giúp có thử nghiệm ngẫu nhiên chống đỡ, không nhất thiết tìm nhà trị liệu
 <!-- tags: money=0 time=mid will=some gain=mid scope=time -->
 - Chi phí: Một quyển sách tự giúp vài chục nhân dân tệ, có loại miễn phí. Bạn phải bỏ khoảng mười tuần, mỗi tuần đọc một phần và làm một lần bài tập.
-- Nói dễ hiểu: Trì hoãn nặng tới mức khiến người đau khổ là chữa được. Luyện theo tài liệu tự giúp nhận thức hành vi mười tuần, dù có người dẫn hay tự làm, đều tốt hơn rõ rệt so với không làm gì. Có người dẫn hay không thì không thấy khác nhau, nên bạn tự theo làm cũng có hiệu quả.
+- Nói dễ hiểu: Trì hoãn nặng tới mức khiến người đau khổ là có thể cải thiện. Luyện theo tài liệu tự giúp nhận thức hành vi mười tuần, dù có người dẫn hay tự làm, đều tốt hơn rõ rệt so với không làm gì. Có người dẫn hay không thì không thấy khác nhau, nên bạn tự theo làm cũng có hiệu quả.
 - Lợi ích: 150 người được chia ngẫu nhiên thành ba nhóm: tự giúp có nhà trị liệu hướng dẫn, tự giúp không hướng dẫn, và đối chiếu danh sách chờ. Mười tuần sau, độ lớn hiệu ứng giữa các nhóm trên thang trì hoãn thuần là nhóm có hướng dẫn d = 0,70 (95% CI 0,29–1,10, đây là khoảng tin cậy), nhóm không hướng dẫn d = 0,50 (0,10–0,90). Trên thang trì hoãn phi lý thì lần lượt 0,81 (0,40–1,22) và 0,69 (0,29–1,09). Tỷ lệ đạt cải thiện có ý nghĩa lâm sàng: nhóm có hướng dẫn 31,3% đến 40,0%, nhóm không hướng dẫn 24,0% đến 36,0%. Nhóm có hướng dẫn và nhóm không hướng dẫn không khác nhau có ý nghĩa ở bất kỳ kết quả nào.
 - Mức chứng cứ: A
 - Nguồn: Rozental A, Forsell E, Svensson A, Andersson G, Carlbring P (2015). Internet-based cognitive-behavior therapy for procrastination: A randomized controlled trial. Journal of Consulting and Clinical Psychology, 83(4), 808–824. <https://doi.org/10.1037/ccp0000023>
@@ -133,7 +133,7 @@ Phần này chỉ tính sổ thời gian. Bạn nhìn mỗi ngày, mỗi tuần,
 ### 15. Đặt giới hạn cứng cho video ngắn và lướt màn hình không mục đích
 <!-- tags: money=0 time=low will=high gain=high scope=time -->
 - Chi phí: Không tốn tiền. Động tác chỉ vài phút: bạn tắt đẩy thông báo, xóa app, hoặc đặt cho app một giới hạn thời gian mỗi ngày. Phần khó là bạn quản được tay và nhịn không bấm mở.
-- Nói dễ hiểu: Người Trung Quốc trung bình mỗi ngày lên mạng 5 giờ 37 phút. Riêng người có lên mạng trong ngày thì là 6 giờ 3 phút. Năm 2018 cùng cách tính vẫn chỉ 2 giờ 42 phút. Đây là mục có số lớn nhất của phần này, mỗi ngày bạn cắt một giờ thì một năm nhiều ra 365 giờ.
+- Nói dễ hiểu: Năm 2024, người Trung Quốc trung bình mỗi ngày lên mạng 5 giờ 37 phút. Riêng người có lên mạng trong ngày thì là 6 giờ 3 phút. Năm 2018 cùng cách tính vẫn chỉ 2 giờ 42 phút. Đây là mục có số lớn nhất của phần này, mỗi ngày bạn cắt một giờ thì một năm nhiều ra 365 giờ.
 - Lợi ích: Cư dân Trung Quốc lên mạng mỗi ngày trung bình 5 giờ 37 phút. Chỉ tính người trong ngày đó thật sự lên mạng thì trung bình 6 giờ 3 phút. Người trong ngày đó có dùng mạng chiếm 92,9%. Đây đều là số liệu năm 2024. Năm 2018, cùng cách tính chỉ 2 giờ 42 phút. Đây là mục có con số lớn nhất của phần này. Mỗi ngày cắt đi một giờ trong đó thì bằng mỗi năm nhiều ra 365 giờ. Ngoài ra, theo Trung tâm thông tin mạng Internet Trung Quốc, tới tháng 6 năm 2025, dân mạng trung bình mỗi tuần lên mạng 30,6 giờ, nhiều hơn nửa năm trước 1,9 giờ. Người dùng video ngắn có 1,068 tỷ người, chiếm 95,1% dân mạng.
 - Mức chứng cứ: C
 - Nguồn: 国家统计局 (2024). 第三次全国时间利用调查公报（第二号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>；国家统计局 (2019). 2018年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>；中国互联网络信息中心 (2025). 第 56 次《中国互联网络发展状况统计报告》. <https://www.cnnic.net.cn/NMediaFile/2025/0730/MAIN1753846666507QEK67ZS9DH.pdf>
@@ -142,7 +142,7 @@ Phần này chỉ tính sổ thời gian. Bạn nhìn mỗi ngày, mỗi tuần,
 ### 16. Không xem TV và tin cuộn, thông tin cần thiết xem tập trung theo giờ cố định
 <!-- tags: money=0 time=low will=some gain=high scope=time -->
 - Chi phí: Không tốn tiền. Phần khó là bạn bỏ thói quen thuận tay mở ra, và còn có thể lỡ một số tin tức thời.
-- Nói dễ hiểu: Người Mỹ từ 15 tuổi trở lên mỗi ngày xem 2,6 giờ TV, chiếm một nửa toàn bộ thời gian rảnh. Người Trung Quốc trung bình mỗi ngày xem 1 giờ 40 phút, người già 75 đến 84 tuổi xem 3 giờ 16 phút. Bạn đổi thông tin sang xem tập trung theo giờ thì tiết kiệm cả khối này.
+- Nói dễ hiểu: Người Mỹ từ 15 tuổi trở lên mỗi ngày xem 2,6 giờ TV, chiếm một nửa toàn bộ thời gian rảnh. Năm 2018, người Trung Quốc trung bình mỗi ngày xem 1 giờ 40 phút, người già 75 đến 84 tuổi xem 3 giờ 16 phút. Bạn đổi thông tin sang xem tập trung theo giờ thì phần tiết kiệm được nằm trong khối thời gian này.
 - Lợi ích: Người Mỹ từ 15 tuổi trở lên mỗi ngày xem TV 2,6 giờ. Toàn bộ thời gian giải trí của họ là 5,2 giờ, và xem TV chiếm một nửa. Đây là số của năm 2025. Cư dân Trung Quốc xem TV mỗi ngày trung bình 1 giờ 40 phút, người 75 đến 84 tuổi xem 3 giờ 16 phút. Đây là số của năm 2018.
 - Mức chứng cứ: C
 - Nguồn: U.S. Bureau of Labor Statistics (2026). American Time Use Survey — 2025 Results. <https://www.bls.gov/news.release/atus.nr0.htm>；国家统计局 (2019). 2018年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>
@@ -151,16 +151,16 @@ Phần này chỉ tính sổ thời gian. Bạn nhìn mỗi ngày, mỗi tuần,
 ### 17. Dành một lần thời gian học phím tắt và tự động hóa của phần mềm hay dùng
 <!-- tags: money=0 time=mid will=some gain=mid scope=time -->
 - Chi phí: Không tốn tiền. Bạn phải bỏ một lần, từ vài giờ tới vài chục giờ, để học. Phần khó là lúc mới lên tay bạn còn chậm hơn dùng chuột.
-- Nói dễ hiểu: Đa số người dùng Word nhiều năm vẫn bấm biểu tượng thanh công cụ. Trong thí nghiệm so theo nhóm, phím tắt nhanh hơn cả menu lẫn biểu tượng. Học một lần là chi phí một lần, sau đó mỗi ngày mỗi thao tác đều đang hoàn vốn. Việc cùng loại làm càng lâu thì bạn thu về càng nhiều.
+- Nói dễ hiểu: Đa số người quen dùng Word vẫn bấm biểu tượng thanh công cụ. Trong thí nghiệm so theo nhóm, phím tắt nhanh hơn cả menu lẫn biểu tượng. Học một lần là chi phí một lần, sau đó mỗi ngày mỗi thao tác đều đang hoàn vốn. Việc cùng loại làm càng lâu thì bạn thu về càng nhiều.
 - Lợi ích: Nghiên cứu khảo sát 251 người dùng Word có kinh nghiệm. Đa số ít dùng phím tắt dù nó nhanh hơn, và vẫn chủ yếu bấm biểu tượng thanh công cụ. Thí nghiệm so theo nhóm xác nhận rằng trong ba cách menu, biểu tượng và phím tắt thì phím tắt nhanh nhất. Thời gian tiết kiệm được tích lũy từng chút theo số lần thao tác mỗi ngày. Người làm cùng một loại việc lâu dài thì lợi nhiều nhất.
 - Mức chứng cứ: B
 - Nguồn: Lane, D. M., Napier, H. A., Peres, S. C., & Sándor, A. (2005). Hidden costs of graphical user interfaces: Failure to make the transition from menus and icon toolbars to keyboard shortcuts. International Journal of Human-Computer Interaction. <https://doi.org/10.1207/s15327590ijhc1802_1>
-- Ghi chú: Bạn chỉ học thao tác mỗi ngày dùng từ mười lần trở lên. Học quá đầy đủ là một kiểu lãng phí khác. Thí nghiệm đó chỉ có 6 người tham gia, và phần tóm tắt cũng không cho số giây tiết kiệm mỗi lần thao tác.
+- Ghi chú: Bạn chỉ học thao tác mỗi ngày dùng từ mười lần trở lên. Học quá đầy đủ là một kiểu lãng phí khác. Ngoài ra, thí nghiệm đó chỉ có 6 người tham gia, và phần tóm tắt cũng không cho số giây tiết kiệm mỗi lần thao tác.
 
 ### 18. Chọn chỗ ở thì đặt thời gian đi làm lên trước, rút ngắn đường đi làm một chiều
 <!-- tags: money=high time=mid will=no gain=high scope=time -->
 - Chi phí: Chi phí cao. Bạn có thể phải trả tiền thuê cao hơn, hoặc đổi sang căn nhỏ hơn. Chuyển nhà cũng mất thời gian.
-- Nói dễ hiểu: Người đi làm đường càng xa thì tự thấy sống càng không tốt. Khoản thiệt này không được bù lại trên lương hay nhà ở. Một chiều ít đi 30 phút thì một tuần bạn tiết kiệm ra 5 giờ.
+- Nói dễ hiểu: Trong dữ liệu theo dõi ở Đức, người đi làm đường càng xa thì tự thấy sống càng không tốt. Khoản thiệt này không được bù lại trên lương hay nhà ở. Một chiều ít đi 30 phút thì một tuần bạn tiết kiệm ra 5 giờ.
 - Lợi ích: Cư dân Trung Quốc mỗi ngày tiêu vào giao thông trung bình 50 phút. Chỉ tính người trong ngày đó có ra ngoài thì là 1 giờ 2 phút. Đây là số của năm 2024. Số liệu Đức theo dõi dài hạn cùng một nhóm người cho thấy người có đường đi làm càng xa thì cảm giác hạnh phúc chủ quan (tự thấy sống tốt hay không) ổn định thấp hơn. Khoản thiệt này không được bù trên thu nhập hay nhà ở. Tổng quan gom nhiều nghiên cứu lại cũng xác nhận rằng thời gian đi làm càng dài thì người càng không hài lòng với đường đi làm, bất kể đi bằng phương tiện nào. Một chiều ít đi 30 phút thì mỗi tuần tiết kiệm khoảng 5 giờ.
 - Mức chứng cứ: B
 - Nguồn: Stutzer, A., & Frey, B. S. (2008). Stress that doesn't pay: The commuting paradox. Scandinavian Journal of Economics, 110(2), 339–366. <https://doi.org/10.1111/j.1467-9442.2008.00542.x>；Chatterjee, K., et al. (2020). Commuting and wellbeing: A critical overview of the literature with implications for policy and future research. Transport Reviews, 40(1), 5–34. <https://doi.org/10.1080/01441647.2019.1649317>；国家统计局 (2024). 第三次全国时间利用调查公报（第二号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>
