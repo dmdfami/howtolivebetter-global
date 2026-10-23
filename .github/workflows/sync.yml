@@ -31,6 +31,13 @@ jobs:
       - run: npm run status
       - name: Translate
         env:
+          # Own endpoint (OpenAI-compatible router): set TRANSLATE_API_BASE and
+          # TRANSLATE_MODEL as repository variables, TRANSLATE_API_KEY as a secret.
+          # Leave them empty to use the Anthropic API with ANTHROPIC_API_KEY.
+          TRANSLATE_API_BASE: ${{ vars.TRANSLATE_API_BASE }}
+          TRANSLATE_API_FORMAT: ${{ vars.TRANSLATE_API_FORMAT }}
+          TRANSLATE_MODEL: ${{ vars.TRANSLATE_MODEL }}
+          TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           for loc in $(ls locales); do
