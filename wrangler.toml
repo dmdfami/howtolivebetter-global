@@ -1,0 +1,4 @@
+# Cloudflare Pages: build with `npm ci && npm run build`, output in dist/.
+name = "howtolivebetter-global"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-10-01"

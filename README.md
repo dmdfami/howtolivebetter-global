@@ -68,6 +68,12 @@ Mỗi mục thành một file MP3 (`audio-out/vi/NN/N.mp3`). Mục nào nội du
 
 Đồng bộ tự động (`.github/workflows/sync.yml`) cần secret `ANTHROPIC_API_KEY` trong Settings → Secrets → Actions, và quyền "Allow GitHub Actions to create pull requests".
 
+## Cài đặt một lần (checklist)
+
+1. **Cloudflare Pages**: Create → Pages → Connect to Git → repo này. Build command `npm ci && npm run build`, output `dist`, biến `NODE_VERSION=22` và `SITE_URL=https://<domain>`. Repo đã có `wrangler.toml` và `.nvmrc`, không cần file cấu hình nào khác.
+2. **Đồng bộ tự động**: Settings → Secrets and variables → Actions. Variables: `TRANSLATE_API_BASE`, `TRANSLATE_MODEL` (ví dụ Haiku 5.5 qua endpoint kiểu OpenAI). Secret: `TRANSLATE_API_KEY`. Settings → Actions → General → bật "Allow GitHub Actions to create pull requests". Workflow `Sync with upstream` chạy mỗi ngày lúc 01:00 UTC, hoặc chạy tay từ tab Actions.
+3. Không đưa khóa vào repo, commit, PR hay prompt. Chỉ để trong Secrets.
+
 ## Thêm một ngôn ngữ
 
 Tạo `locales/<lang>/locale.json` (nhãn trường, chữ giao diện) và `locales/<lang>/guide.md` (quy tắc dịch và bản địa hóa), ghi `{"commit": null, "items": {}}` vào `sync.json`, rồi chạy `translate.mjs <lang>`.
