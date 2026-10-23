@@ -2,3 +2,4 @@ node_modules/
 .upstream/
 dist/
 audio-out/
+tools/jules/state.json
