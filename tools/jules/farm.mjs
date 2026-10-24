@@ -33,7 +33,7 @@ const save = () => writeFileSync(STATE, JSON.stringify(state, null, 1));
 const today = () => new Date().toISOString().slice(0, 10);
 const call = async (k, method, path, body) => {
   const res = await fetch(`${API}/${path}`, { method, headers: { 'X-Goog-Api-Key': keys[k], 'Content-Type': 'application/json' }, body: body && JSON.stringify(body) });
-  if (!res.ok) throw new Error(`${method} ${path}: HTTP ${res.status}`);
+  if (!res.ok) throw new Error(`${method} ${path}: HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
   return res.json();
 };
 const ACTIVE = new Set(['QUEUED', 'PLANNING', 'IN_PROGRESS', 'AWAITING_PLAN_APPROVAL', 'AWAITING_USER_FEEDBACK', 'PAUSED']);
@@ -45,6 +45,7 @@ function scopeOk(task, pr) {
 }
 
 async function tick() {
+  const full = new Set();
   for (const t of tasks) {
     const s = state[t.id] ??= { status: 'todo', tries: 0 };
     if (s.status === 'running') {
@@ -70,7 +71,7 @@ async function tick() {
   for (const t of tasks) {
     const s = state[t.id];
     if (s.status !== 'todo') continue;
-    const k = keys.findIndex((_, i) => load[i] < CONCURRENT && started[i] < DAILY);
+    const k = keys.findIndex((_, i) => load[i] < CONCURRENT && started[i] < DAILY && !full.has(i));
     if (k < 0) break;
     try {
       const r = await call(k, 'POST', 'sessions', {
@@ -80,7 +81,7 @@ async function tick() {
       });
       Object.assign(s, { status: 'running', key: k, session: r.id, url: r.url, day: today(), tries: s.tries + 1 });
       load[k]++; started[k]++;
-    } catch (e) { console.error('start', t.id, e.message); }
+    } catch (e) { console.error('start', t.id, k, e.message); full.add(k); }
   }
   save();
   const c = {}; for (const s of Object.values(state)) c[s.status] = (c[s.status] ?? 0) + 1;
