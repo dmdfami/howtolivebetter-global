@@ -24,7 +24,7 @@ const MAX_RETRIES = Number(process.env.JULES_MAX_RETRIES ?? 3);
 const POLL_MS = Number(process.env.JULES_POLL_SECONDS ?? 300) * 1000;
 const REPO = process.env.JULES_REPO ?? 'dmdfami/howtolivebetter-global';
 const API = 'https://jules.googleapis.com/v1alpha';
-const STATE = new URL('./state.json', import.meta.url).pathname;
+const STATE = tasksPath.replace(/\.json$/, '.state.json');
 const NO_ASK = 'Do not ask me anything and do not wait for approval. If something is unclear, pick the most reasonable reading, finish the whole task, and open the pull request. If a command fails, fix it or work around it yourself.';
 
 const tasks = JSON.parse(readFileSync(tasksPath, 'utf8'));
