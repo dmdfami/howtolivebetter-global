@@ -1,0 +1,82 @@
+{
+  "lang": "en",
+  "name": "English",
+  "country": "",
+  "siteTitle": "The Cost-Effective Life Guide",
+  "tagline": "Spend the least money, time and effort, gain the most lifespan, money and freedom",
+  "backLink": "[← Contents](../README.md)",
+  "fields": {
+    "成本": "Cost",
+    "说人话": "Plain language",
+    "收益": "Benefit",
+    "证据等级": "Evidence level",
+    "来源": "Sources",
+    "备注": "Notes"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "China only:",
+  "disputedMarker": "Disputed",
+  "refStyle": "section N, item M",
+  "tags": {
+    "money": {
+      "0": "Free",
+      "label": "Money",
+      "low": "Low",
+      "high": "High"
+    },
+    "time": {
+      "label": "Time",
+      "low": "Little",
+      "mid": "Moderate",
+      "high": "A lot"
+    },
+    "will": {
+      "label": "Willpower",
+      "no": "None needed",
+      "some": "Some",
+      "high": "High"
+    },
+    "gain": {
+      "label": "Benefit",
+      "high": "Large",
+      "mid": "Moderate",
+      "low": "Small"
+    },
+    "scope": {
+      "label": "Benefit type",
+      "health": "Health, lifespan",
+      "money": "Money",
+      "time": "Time",
+      "freedom": "Freedom, legal safety"
+    },
+    "who": {
+      "label": "Suitable for",
+      "35plus": "Age 35+",
+      "60plus": "Age 60+",
+      "women": "Women",
+      "infant": "Infants",
+      "child": "Children",
+      "pregnancy": "Pregnancy",
+      "elderly": "Older adults"
+    }
+  },
+  "ui": {
+    "search": "Search entries…",
+    "allSections": "All sections",
+    "items": "items",
+    "evidence": "Evidence",
+    "listen": "Listen",
+    "readMore": "Read more",
+    "source": "Original Chinese text",
+    "license": "Content under CC BY 4.0, translated from",
+    "translatedFrom": "Translated from the original, synced to commit",
+    "cnOnly": "Applies in China only",
+    "filters": "Filter",
+    "clear": "Clear filters",
+    "noResults": "No matching entries.",
+    "prev": "Previous entry",
+    "next": "Next entry",
+    "section": "Section",
+    "item": "Entry"
+  }
+}

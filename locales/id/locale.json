@@ -1,0 +1,82 @@
+{
+  "lang": "id",
+  "name": "Bahasa Indonesia",
+  "country": "",
+  "siteTitle": "Panduan Hidup Hemat dan Bernilai",
+  "tagline": "Gunakan biaya, waktu, dan tenaga sesedikit mungkin, dapatkan umur panjang, kekayaan, dan kebebasan sebanyak mungkin",
+  "backLink": "[← Daftar Isi](../README.md)",
+  "fields": {
+    "成本": "Biaya",
+    "说人话": "Bahasa sederhana",
+    "收益": "Manfaat",
+    "证据等级": "Tingkat bukti",
+    "来源": "Sumber",
+    "备注": "Catatan"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "Khusus Tiongkok:",
+  "disputedMarker": "Diperdebatkan",
+  "refStyle": "bagian N, butir M",
+  "tags": {
+    "money": {
+      "0": "Gratis",
+      "label": "Uang",
+      "low": "Sedikit",
+      "high": "Banyak"
+    },
+    "time": {
+      "label": "Waktu",
+      "low": "Sedikit",
+      "mid": "Sedang",
+      "high": "Banyak"
+    },
+    "will": {
+      "label": "Tekad",
+      "no": "Tidak perlu",
+      "some": "Sedikit",
+      "high": "Banyak"
+    },
+    "gain": {
+      "label": "Manfaat",
+      "high": "Besar",
+      "mid": "Sedang",
+      "low": "Kecil"
+    },
+    "scope": {
+      "label": "Jenis manfaat",
+      "health": "Kesehatan, umur panjang",
+      "money": "Uang",
+      "time": "Waktu",
+      "freedom": "Kebebasan, keamanan hukum"
+    },
+    "who": {
+      "label": "Diperuntukkan",
+      "35plus": "Usia 35 ke atas",
+      "60plus": "Usia 60 ke atas",
+      "women": "Perempuan",
+      "infant": "Bayi",
+      "child": "Anak-anak",
+      "pregnancy": "Kehamilan",
+      "elderly": "Lansia"
+    }
+  },
+  "ui": {
+    "search": "Cari butir…",
+    "allSections": "Semua bagian",
+    "items": "butir",
+    "evidence": "Bukti",
+    "listen": "Dengarkan",
+    "readMore": "Baca selengkapnya",
+    "source": "Teks asli bahasa Mandarin",
+    "license": "Konten berlisensi CC BY 4.0, diterjemahkan dan disesuaikan dari",
+    "translatedFrom": "Diterjemahkan dari teks asli, disinkronkan hingga commit",
+    "cnOnly": "Hanya berlaku di Tiongkok",
+    "filters": "Filter",
+    "clear": "Hapus filter",
+    "noResults": "Tidak ada butir yang cocok.",
+    "prev": "Butir sebelumnya",
+    "next": "Butir berikutnya",
+    "section": "Bagian",
+    "item": "Butir"
+  }
+}

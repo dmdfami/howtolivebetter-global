@@ -72,3 +72,5 @@ dd.f-来源 { font-size: 14px; color: var(--muted); }
 .hero h1, .sec-title, h1.item-title { font-family: "Fraunces", Georgia, serif; font-weight: 600; letter-spacing: -.02em; }
 .local { margin-top: 32px; padding: 16px; border: 1px solid var(--line); border-radius: 8px; }
 .local h2 { margin-top: 0; }
+
+.langsel { background: var(--bg, transparent); color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 4px 6px; font: inherit; font-size: 14px; max-width: 120px; }

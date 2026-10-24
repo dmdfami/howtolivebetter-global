@@ -1,0 +1,82 @@
+{
+  "lang": "pt",
+  "name": "Português (Brasil)",
+  "country": "",
+  "siteTitle": "Guia para uma vida que vale a pena",
+  "tagline": "Gaste o mínimo de dinheiro, tempo e esforço e ganhe o máximo em longevidade, dinheiro e liberdade",
+  "backLink": "[← Índice](../README.md)",
+  "fields": {
+    "成本": "Custo",
+    "说人话": "Em palavras simples",
+    "收益": "Benefício",
+    "证据等级": "Nível de evidência",
+    "来源": "Fontes",
+    "备注": "Observações"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "Apenas China:",
+  "disputedMarker": "Controverso",
+  "refStyle": "seção N, item M",
+  "tags": {
+    "money": {
+      "0": "Sem custo",
+      "label": "Dinheiro",
+      "low": "Baixo",
+      "high": "Alto"
+    },
+    "time": {
+      "label": "Tempo",
+      "low": "Pouco",
+      "mid": "Moderado",
+      "high": "Muito"
+    },
+    "will": {
+      "label": "Força de vontade",
+      "no": "Não é preciso",
+      "some": "Um pouco",
+      "high": "Muita"
+    },
+    "gain": {
+      "label": "Benefício",
+      "high": "Grande",
+      "mid": "Moderado",
+      "low": "Pequeno"
+    },
+    "scope": {
+      "label": "Tipo de benefício",
+      "health": "Saúde, longevidade",
+      "money": "Dinheiro",
+      "time": "Tempo",
+      "freedom": "Liberdade, segurança jurídica"
+    },
+    "who": {
+      "label": "Para quem",
+      "35plus": "A partir de 35 anos",
+      "60plus": "A partir de 60 anos",
+      "women": "Mulheres",
+      "infant": "Bebês",
+      "child": "Crianças",
+      "pregnancy": "Gestantes",
+      "elderly": "Idosos"
+    }
+  },
+  "ui": {
+    "search": "Buscar item…",
+    "allSections": "Todas as seções",
+    "items": "itens",
+    "evidence": "Evidências",
+    "listen": "Ouvir",
+    "readMore": "Ver detalhes",
+    "source": "Original em chinês",
+    "license": "Conteúdo sob licença CC BY 4.0, traduzido e adaptado de",
+    "translatedFrom": "Traduzido do original, sincronizado até o commit",
+    "cnOnly": "Aplica-se apenas na China",
+    "filters": "Filtrar",
+    "clear": "Limpar filtros",
+    "noResults": "Nenhum item corresponde à busca.",
+    "prev": "Item anterior",
+    "next": "Próximo item",
+    "section": "Seção",
+    "item": "Item"
+  }
+}

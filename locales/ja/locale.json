@@ -1,0 +1,82 @@
+{
+  "lang": "ja",
+  "name": "日本語",
+  "country": "",
+  "siteTitle": "コスパ最強の人生ガイド",
+  "tagline": "お金・時間・労力を最小限に抑え、寿命・お金・自由を最大限に手に入れる",
+  "backLink": "[← 目次](../README.md)",
+  "fields": {
+    "成本": "費用",
+    "说人话": "平たく言うと",
+    "收益": "効果",
+    "证据等级": "根拠のレベル",
+    "来源": "出典",
+    "备注": "備考"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "中国のみ：",
+  "disputedMarker": "異論あり",
+  "refStyle": "セクション N、項目 M",
+  "tags": {
+    "money": {
+      "0": "かからない",
+      "label": "お金",
+      "low": "少額",
+      "high": "高額"
+    },
+    "time": {
+      "label": "時間",
+      "low": "少ない",
+      "mid": "ふつう",
+      "high": "多い"
+    },
+    "will": {
+      "label": "意志力",
+      "no": "不要",
+      "some": "少しだけ",
+      "high": "強い"
+    },
+    "gain": {
+      "label": "効果",
+      "high": "大きい",
+      "mid": "ふつう",
+      "low": "小さい"
+    },
+    "scope": {
+      "label": "効果の種類",
+      "health": "健康・寿命",
+      "money": "お金",
+      "time": "時間",
+      "freedom": "自由・法的な安心"
+    },
+    "who": {
+      "label": "対象",
+      "35plus": "35歳以上",
+      "60plus": "60歳以上",
+      "women": "女性",
+      "infant": "乳児",
+      "child": "子ども",
+      "pregnancy": "妊娠中",
+      "elderly": "高齢者"
+    }
+  },
+  "ui": {
+    "search": "項目を検索…",
+    "allSections": "すべてのセクション",
+    "items": "件",
+    "evidence": "根拠",
+    "listen": "聴く",
+    "readMore": "詳しく見る",
+    "source": "中国語の原文",
+    "license": "CC BY 4.0 のもとで公開されているコンテンツを、次から翻訳・現地化：",
+    "translatedFrom": "原文から翻訳、コミット",
+    "cnOnly": "中国国内でのみ適用",
+    "filters": "絞り込み",
+    "clear": "解除",
+    "noResults": "一致する項目はありません。",
+    "prev": "前の項目",
+    "next": "次の項目",
+    "section": "セクション",
+    "item": "項目"
+  }
+}
