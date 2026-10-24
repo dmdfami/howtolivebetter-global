@@ -72,3 +72,5 @@ dd.f-来源 { font-size: 14px; color: var(--muted); }
 .hits { color: var(--muted); font-size: 14px; }
 .foot { max-width: var(--max); margin: 0 auto; padding: 24px 16px 48px; color: var(--muted); font-size: 13px; border-top: 1px solid var(--line); }
 @media (max-width: 520px) { .brand { font-size: 15px; } body { font-size: 16px; } .item { padding: 14px 14px 6px; } }
+.local { margin-top: 32px; padding: 16px; border: 1px solid var(--line); border-radius: 8px; }
+.local h2 { margin-top: 0; }
