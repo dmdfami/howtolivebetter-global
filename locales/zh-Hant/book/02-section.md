@@ -1,0 +1,444 @@
+[← 目錄](../README.md)
+
+# 2. 別慢慢死
+
+本節只收兩類慢性風險：一類對總死亡率影響大，一類證據扎實。有幾條標了「隨機試驗」，意思是把人隨機分成兩組來比，這種結果最可信。其餘數字都來自只追蹤紀錄、不做分組的研究。這類研究算出的 HR、RR 等風險比裡混著兩種干擾：這些人本來就不一樣，有人是先生了病才這麼做。所以這些數字只說明方向和大概多大，不代表照做就能降這麼多。
+
+本節條目按主題分成下面幾塊，括號裡是條號。
+
+**菸、酒、檳榔**：戒菸越早越好（第 1 條），家裡和車裡不抽菸（第 2 條），戒菸先去拿藥（第 3 條），定一個戒菸日（第 4 條），去戒菸門診或撥打 12320（第 5 條），戒不掉再考慮電子菸（第 6 條），不嚼檳榔（第 8 條），少喝或不喝酒（第 19 條），一停就手抖的別自己硬戒（第 20 條），數清一週喝了多少（第 21 條）。
+
+**該少吃少喝的**：不喝含糖飲料（第 7 條），少吃加工肉（第 18 條），少吃超加工食品（第 28 條），不喝滾燙的茶和湯（第 30 條），發了霉整包扔掉（第 46 條），別吃淡水魚蝦做的魚生（第 47 條）。
+
+**可以換著吃、多吃的**：換成低鈉鹽（第 9 條），每天一小把堅果（第 22 條），紅肉換成魚和禽肉（第 23 條），精米白麵換成全穀物（第 24 條），每週喝三次以上茶（第 25 條），每天喝三到四杯咖啡（第 26 條），吃夠 5 份水果蔬菜（第 27 條），每週吃四次以上辣椒（第 33 條），每天喝一兩份奶（第 34 條），雞蛋不用戒（第 35 條）。
+
+**運動和體重**：每天走到 7000–8000 步（第 11 條），打球拍類運動（第 14 條），攢零碎的用力活動（第 15 條），每週做力量訓練（第 16 條），別連著坐太久（第 17 條），把 BMI 控制在 20–25（第 32 條），把每天遛狗算進走路量（第 44 條），查出糖尿病前期（第 45 條）。
+
+**睡覺和夜班**：每晚睡 7 小時左右（第 13 條），午睡控制在半小時內（第 37 條），熬夜之後第二天補覺（第 38 條），上夜班能轉崗就趁早轉（第 39 條）。
+
+**廚房的油與煙**：做飯取暖不燒煤和柴（第 29 條），不買散裝自榨花生油（第 40 條），用植物油代替豬油、奶油（第 41 條），炒菜開抽油煙機（第 42 條）。
+
+**看牙、吃藥和別的習慣**：認真刷牙清牙縫（第 10 條），按醫囑規律吃藥（第 12 條），白天出門曬曬太陽（第 31 條），有條件就泡澡（第 36 條），絕經前後潮熱去評估荷爾蒙治療（第 43 條）。
+
+### 1. 戒菸，越早越好
+<!-- tags: money=0 time=low will=high gain=high scope=health -->
+- 成本: 不花錢，反過來還省錢。一天一包菸約 20–30 元，戒了這筆錢就留下了。難在戒斷期要熬，一般是幾週到幾個月。
+- 白話說明: 美國的研究裡，抽菸的人平均比不抽菸的人少活十年以上。40 歲前戒掉，能把接著抽菸帶來的死亡風險抹掉九成左右。戒得越早，撿回來的越多。骨折以後接著抽，骨頭長不上的機率約是不抽的 2.3 倍，所以骨頭沒長好之前別抽。
+- 收益: 美國一項追蹤一群人的研究（只紀錄、不分組）發現：現在還抽菸的人，比從不抽菸的人預期壽命短 10 年以上。40 歲前戒掉，可以消除繼續抽菸所帶來死亡風險的約 90%。25–34 歲戒菸約多活 10 年，35–44 歲約多活 9 年，45–54 歲約多活 6 年（原文以壽命年報告）。中國的同類研究：2010 年代，城市男性吸菸者的死亡風險是不吸菸者的 1.65 倍（RR 1.65），農村男性是 1.22 倍。主動戒菸滿 10 年後，抽菸帶來的這部分風險接近消失。骨折之後也一樣。19 項只紀錄、不分組的研究合起來算，抽菸的人骨折不癒合（骨頭長不上）的機率約是不吸菸者的 2.3 倍（OR 2.32，95% CI 1.76–3.06，已扣除其他因素）。小腿脛骨骨折和開放性骨折裡同樣偏高。瑞典一項隨機試驗裡，骨折急診手術後參加 6 週戒菸計畫的 50 人，20% 出現至少一種術後併發症。沒參加的 55 人是 38%。提前約好的手術，可以在術前 4 到 8 週開始戒菸，每週有人輔導，配尼古丁替代品。這樣做術後併發症低約 58%（RR 0.42，95% CI 0.27–0.65，2 項試驗、210 人）。
+- 證據等級: A
+- 來源: Jha P 等 (2013). 21st-century hazards of smoking and benefits of cessation in the United States. NEJM. <https://doi.org/10.1056/NEJMsa1211128>；Chen Z 等 (2015). Contrasting male and female trends in tobacco-attributed mortality in China: evidence from successive nationwide prospective cohort studies. Lancet. <https://doi.org/10.1016/S0140-6736(15)00340-2>；Oberg M 等 (2011). Worldwide burden of disease from exposure to second-hand smoke: a retrospective analysis of data from 192 countries. Lancet. <https://doi.org/10.1016/S0140-6736(10)61388-8>（二手烟那两个数字）；Scolaro JA 等 (2014). Cigarette smoking increases complications following fracture: a systematic review. J Bone Joint Surg Am. <https://doi.org/10.2106/JBJS.M.00081>；Nåsell H 等 (2010). Effect of smoking cessation intervention on results of acute fracture surgery: a randomized controlled trial. J Bone Joint Surg Am. <https://doi.org/10.2106/JBJS.I.00627>；Thomsen T 等 (2014). Interventions for preoperative smoking cessation. Cochrane Database Syst Rev. <https://doi.org/10.1002/14651858.CD002294.pub4>（骨折和手术那几个数字）
+- 備註: 吸別人的菸同樣會死人：2004 年全球約有 60.3 萬人死於二手菸，約占當年全球總死亡的 1%。自己不抽，也要躲開別人的菸，尤其別讓孩子吸到。怎麼戒，具體辦法在後面四條：第 3 條（戒菸藥）、第 4 條（定一個戒菸日）、第 5 條（去戒菸門診）、第 6 條（電子菸）。骨不癒合那個數字來自只紀錄、不分組的研究，抽菸的人在別的方面也可能和不抽菸的人不同，沒法全部扣乾淨。骨折後那項戒菸試驗只有 105 人。作者換成比值比又算了一遍，差別就不顯著了（OR 2.51，95% CI 0.96–6.9）。
+
+### 2. 別在家裡和車裡抽菸，也別讓客人在家裡抽
+<!-- tags: money=0 time=low will=some gain=high scope=health -->
+- 成本: 不花錢，也不佔時間。難在要開口，讓家人和客人別在家裡抽菸。
+- 白話說明: 2004 年全球約 60 萬人死於吸別人的菸，其中近三成是孩子。吸到二手菸的人，高血壓、心臟病、中風的風險都高三成上下。在家裡吸到的，比在外面吸到的更傷人。
+- 收益: 2004 年全球有 603,000 人死於二手菸，約占全球死亡的 1.0%，其中 28% 是兒童。把 57 項研究合起來算：吸到二手菸的人得高血壓的機會，約為沒吸到的人的 1.28 倍（比值比）。心臟病是 1.39 倍，心肌梗塞是 1.50 倍，中風是 1.36 倍。在家裡吸到二手菸的風險，高於在家外吸到的。
+- 證據等級: A
+- 來源: Öberg M, Jaakkola MS, Woodward A, Peruga A, Prüss-Ustün A (2011). Worldwide burden of disease from exposure to second-hand smoke: a retrospective analysis of data from 192 countries. Lancet：「603,000 deaths were attributable to second-hand smoke in 2004, which was about 1·0% of worldwide mortality. 47% of deaths from second-hand smoke occurred in women, 28% in children, and 26% in men」，「61% of DALYs were in children」. <https://doi.org/10.1016/S0140-6736(10)61388-8>；(2026). The Associations Between Secondhand Smoke Exposure and Various Cardiovascular Diseases: A Meta-Analysis. Nicotine & Tobacco Research：57 项研究，「hypertension (OR: 1.28, 95% CI: 1.15 to 1.40), heart disease (OR: 1.39, 95% CI: 1.28 to 1.50), myocardial infarction (OR: 1.50, 95% CI: 1.17 to 1.84), stroke (OR: 1.36, 95% CI: 1.18 to 1.54)」「Home exposure has a higher risk of CVD than non-home exposure」. <https://doi.org/10.1093/ntr/ntaf111>
+- 備註: 先管家裡，因為在家待得久，而且多項研究合起來看，在家吸到的二手菸比在家外危害更大。二手菸造成的健康損失裡，61% 落在孩子身上。自己戒菸見本節第 1 條。
+
+### 3. 戒菸別光靠忍，先去拿藥：吃伐尼克蘭的成功率能翻一倍多
+<!-- tags: money=low time=low will=some gain=high scope=health -->
+- 成本: 尼古丁貼片和咀嚼膠是非處方藥，藥局櫃檯就能買。一個療程 8 到 12 週，數百元到一千多元。伐尼克蘭和安非他酮是處方藥，要去戒菸門診或呼吸內科開。這筆錢和同期少買的菸大致抵銷。
+- 白話說明: 吃伐尼克蘭的人戒菸成功的比例，是吃安慰劑的兩倍多。用尼古丁貼片、咀嚼膠這類替代品的，比不用藥的高五成左右。貼片和咀嚼膠一起用，還能再高兩成多。
+- 收益: 41 項隨機試驗、17,395 人合起來算，伐尼克蘭組的戒菸成功率是安慰劑組的 2.32 倍（RR 2.32，95% CI 2.15–2.51，這是可信範圍；高確定性證據）。伐尼克蘭也高於安非他酮（RR 1.36，高約 36%）和單用一種尼古丁替代品（RR 1.25，高約 25%）。尼古丁替代品和不用藥比：133 項試驗、64,640 人，成功率高約 55%（RR 1.55，95% CI 1.49–1.61）。貼片再加一種見效快的劑型（咀嚼膠、含片），比只用一種高約 27%（RR 1.27，95% CI 1.17–1.37，16 項試驗、12,169 人，高確定性證據）。副作用：和安慰劑比，吃伐尼克蘭的人噁心的比例約是 2.6 倍（RR 2.61），失眠的多約 37%（RR 1.37），多夢的也更多。綜述說最常見的是噁心，多數是輕到中度，一般會慢慢消退。美國一種尼古丁貼片的說明書寫的是分三步減量。先用 21 毫克貼 6 週，再用 14 毫克貼 2 週，最後 7 毫克貼 2 週，然後停。
+- 證據等級: A
+- 來源: Livingstone-Banks J, Fanshawe TR, Thomas KH, et al. (2023). Nicotine receptor partial agonists for smoking cessation. Cochrane Database of Systematic Reviews, 5, CD006103. <https://doi.org/10.1002/14651858.CD006103.pub8>；Hartmann-Boyce J, Chepkin SC, Ye W, Bullen C, Lancaster T (2018). Nicotine replacement therapy versus control for smoking cessation. Cochrane Database of Systematic Reviews, 5, CD000146. <https://doi.org/10.1002/14651858.CD000146.pub5>；Theodoulou A, Chepkin SC, Ye W, et al. (2023). Different doses, durations and modes of delivery of nicotine replacement therapy for smoking cessation. Cochrane Database of Systematic Reviews, 6, CD013308. <https://doi.org/10.1002/14651858.CD013308.pub2>；上海市卫生健康委员会 (2021). 选对药物，让戒烟轻松一点：「市场上可见的戒烟药物主要有三种，即尼古丁替代疗法药物、安非他酮、伐尼克兰」，「尼古丁替代疗法药物属于非处方药（OTC），可通过药店柜台购买；而安非他酮、伐尼克兰属于处方药，须到医院戒烟门诊或呼吸内科就诊，凭医师处方经药师调配后才能得到」. <https://wsjkw.sh.gov.cn/jtyx/20211119/df50681e01ba49f896d54f771d8176ae.html>；Haleon (2025). NICODERM CQ (nicotine) patch, extended release. DailyMed 说明书：「use according to the following 10-week schedule: STEP 1 … 21 mg patch/day … Weeks 1-6 … 14 mg … Weeks 7-8 … 7 mg … Weeks 9-10」. <https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=93b2d1b9-83c1-40b5-b6af-90c38c8d6cef>（贴片减量那一句）
+- 備註: 僅限中國大陸：國內在賣的戒菸藥就上面三類，只有尼古丁替代品是非處方藥。伐尼克蘭常見的反應是噁心、多夢、睡不好。有精神科病史的要跟醫生說明，這是作者的建議。尼古丁替代品的療程一般 8 到 12 週，貼片按說明書或醫生說的一步步減量再停。藥只解決戒斷那幾週的難受，不解決「想抽」的場合，所以要和本節第 4 條（定一個戒菸日）、第 5 條（去戒菸門診）一起用。
+
+### 4. 定一個戒菸日，到那天一次停掉，別先慢慢減
+<!-- tags: money=0 time=low will=high gain=mid scope=health -->
+- 成本: 不花錢。就是在日曆上挑一天，提前告訴家裡人和同事。
+- 白話說明: 很多人打算先每天少抽幾根，慢慢減到零。可到了第六個月，定好日子一次停掉的人裡 22% 沒再抽，慢慢減的只有 15.5%。所以定一個日子，到那天一次停掉。
+- 收益: 英國 697 名吸菸者隨機分成兩組。一組在戒菸日當天一次停掉，一組在戒菸日前兩週先把菸量減掉 75%。兩組都有護士的行為支持，戒菸日前後都用尼古丁替代品。第 4 週時，一次停那組 49.0%（95% CI 43.8–54.2，這是可信範圍）沒復吸，慢慢減那組 39.2%（34.0–44.4），相對風險比 0.80（0.66–0.93）。到第 6 個月，一次停那組 22.0%（18.0–26.6），慢慢減那組 15.5%（12.0–19.7），相對風險比 0.71（0.46–0.91）。原本就偏好慢慢減的人，第 4 週的成功率也低於偏好一次停的人（38.3% 對 52.2%）。
+- 證據等級: A
+- 來源: Lindson-Hawley N, Banting M, West R, Michie S, Shinkins B, Aveyard P (2016). Gradual Versus Abrupt Smoking Cessation: A Randomized, Controlled Noninferiority Trial. Annals of Internal Medicine, 164(9), 585–592. <https://doi.org/10.7326/M14-2805>；Theodoulou A, Chepkin SC, Ye W, et al. (2023). Different doses, durations and modes of delivery of nicotine replacement therapy for smoking cessation. Cochrane Database of Systematic Reviews, 6, CD013308（提前用尼古丁替代品那一段）. <https://doi.org/10.1002/14651858.CD013308.pub2>
+- 備註: 爭議。Cochrane 原先有一篇專門比這兩種辦法的綜述，結論是兩者差不多（RR 0.94，95% CI 0.79–1.13，10 項試驗、3,760 人），但那篇已於 2019 年撤回、不再更新。所以眼下最好的證據是上面這項隨機試驗，方向支持一次停。另外那項試驗裡兩組都在戒菸日之前就開始用尼古丁替代品，這個做法本身也有證據：提前用比戒菸日當天才開始，成功率高約 25%（RR 1.25，95% CI 1.08–1.44，9 項試驗、4,395 人，中等確定性證據）。所以合理的排法是先定日子，提前兩週貼上，到日子一次停。
+
+### 5. 去戒菸門診，或者撥打 12320 問當地有沒有戒菸服務
+<!-- tags: money=low time=mid will=some gain=high scope=health -->
+- 成本: 掛一次號幾元到幾十元。行為支持一般是 4 到 8 次面談，每次半小時到一小時，加起來多在 5 小時以內。撥打熱線不花錢。
+- 白話說明: 藥和「有人定期問你」是兩件事，合起來更管用。一邊吃藥一邊有專人跟進的人，戒成功的比例接近只聽一句簡短建議的人的兩倍。電話也算：戒菸熱線多次主動回訪，成功率高約兩成半到近四成。
+- 收益: 52 項試驗、19,488 人合起來算，藥物加行為支持組的戒菸成功率是常規照護或簡短建議組的 1.83 倍（RR 1.83，95% CI 1.68–1.98，這是可信範圍；高品質證據）。在醫療機構招募的那 43 項試驗裡是 1.97 倍（1.79–2.18）。電話諮詢單獨算：在自己打過戒菸熱線的人裡，接受多次主動回訪的比只拿到材料或只談一次的高約 38%（RR 1.38，95% CI 1.19–1.61，14 項試驗、32,484 人）；沒主動打過熱線、由研究方提供電話諮詢的，高約 25%（RR 1.25，95% CI 1.15–1.35，65 項試驗、41,233 人）。兩項都是中等確定性證據。
+- 證據等級: A
+- 來源: Stead LF, Koilpillai P, Fanshawe TR, Lancaster T (2016). Combined pharmacotherapy and behavioural interventions for smoking cessation. Cochrane Database of Systematic Reviews, 3, CD008286. <https://doi.org/10.1002/14651858.CD008286.pub3>；Matkin W, Ordóñez-Mena JM, Hartmann-Boyce J (2019). Telephone counselling for smoking cessation. Cochrane Database of Systematic Reviews, 5, CD002850. <https://doi.org/10.1002/14651858.CD002850.pub4>；中国疾病预防控制中心 (2021). 「中国戒烟平台」微信小程序正式上线：「在健康中国行动控烟行动工作组指导下中国疾病预防控制中心和世界卫生组织驻华代表处联合制作了中国权威戒烟资源库『中国戒烟平台』微信小程序。小程序内容主要包括：戒烟热线、戒烟门诊详细信息，以及线上戒烟服务资源等」；同一站点页脚标注「健康咨询电话：12320」. <https://www.chinacdc.cn/jkyj/yckz/gzdt/202203/t20220310_296389.html>
+- 備註: 僅限中國大陸：國內怎麼找：在微信（WeChat，中國大陸常用的通訊軟體）搜尋「中國戒菸平台」小程式，裡面有各地戒菸熱線和戒菸門診的名單；也可以撥打 12320（中國大陸的衛生健康諮詢熱線）問當地有沒有戒菸門診。上面的試驗多數在國外做，各地戒菸門診的服務強度差別很大，數字只能當方向看。要配的藥見本節第 3 條（戒菸藥）。
+
+### 6. 已經戒不掉再考慮電子菸，本來不抽菸的人別碰
+<!-- tags: money=low time=low will=some gain=mid scope=health -->
+- 成本: 設備加菸彈每月幾十到幾百元。國內只能買菸草口味的，而且只能在有菸草專賣零售許可證的店裡買。
+- 白話說明: 把菸換成含尼古丁的電子菸，戒菸成功的人比用尼古丁替代品多約六成，這個結論很可靠。但長期抽的安全資料還不夠，不能當成無害。這些試驗比的都是想戒菸的人，本來不抽菸的人別碰。
+- 收益: 一份持續更新的綜述納入 80 項隨機試驗、29,861 人。含尼古丁的電子菸和尼古丁替代療法比，戒菸成功率高約 61%（RR 1.61，95% CI 1.23–2.12，這是可信範圍；高確定性證據，11 項試驗、4,114 人）。換成絕對數，大約是每 100 人裡多 4 人戒成（多 1 到 7 人）。嚴重不良事件的發生比例兩組大致相當（風險差 0.01，95% CI −0.01 到 0.02，中等確定性證據）。和只有行為支持或沒有支持比，高約 75%（RR 1.75，95% CI 1.39–2.20，低確定性證據）。
+- 證據等級: A
+- 來源: Lindson N, Livingstone-Banks J, Butler AR, et al. (2026). Electronic cigarettes for smoking cessation. Cochrane Database of Systematic Reviews, 8, CD010216. <https://doi.org/10.1002/14651858.CD010216.pub11>；国家烟草专卖局 (2022). 电子烟管理办法（国家烟草专卖局公告 2022 年第 1 号，2022 年 5 月 1 日施行）第十八条：从事电子烟零售业务，要向烟草专卖行政主管部门申领烟草专卖零售许可证。第二十二条：「禁止向未成年人出售电子烟产品。」第二十三条第二款：「任何个人、法人或者其他组织不得通过本办法规定的电子烟交易管理平台以外的信息网络销售电子烟产品、雾化物和电子烟用烟碱等。」第二十六条：「禁止销售除烟草口味外的调味电子烟和可自行添加雾化物的电子烟。」. <http://www.gov.cn/gongbao/content/2022/content_5697988.htm>；World Health Organization (2023-12-14). Urgent action needed to protect children and prevent the uptake of e-cigarettes：「E-cigarettes as consumer products are not shown to be effective for quitting tobacco use at the population level」「it is not recommended that governments permit sale of e-cigarettes as consumer products in pursuit of a cessation objective」「Whilst long-term health effects are not fully understood」. <https://www.who.int/news/item/14-12-2023-urgent-action-needed-to-protect-children-and-prevent-the-uptake-of-e-cigarettes>；Department of Health and Social Care (2023-04-11). Smokers urged to swap cigarettes for vapes in world first scheme：「almost 1 in 5 of all smokers in England will be provided with a vape starter kit alongside behavioural support」. <https://www.gov.uk/government/news/smokers-urged-to-swap-cigarettes-for-vapes-in-world-first-scheme>；最高人民检察院 (2021). 江苏苏州吴江区：办案检察官揭秘披着潮流外衣的新型毒品：「这种“上头”电子烟内含有被国家整类列管的合成大麻素成分」. <https://www.spp.gov.cn/spp/zdgz/202110/t20211011_531831.shtml>
+- 備註: 僅限中國大陸：爭議。世界衛生組織 2023 年說，電子菸當普通商品賣，沒有證據顯示能在人群裡幫人戒菸。它不建議政府為了戒菸放開賣電子菸，要用就當藥來管。它還說長期健康影響沒完全弄清，擔心孩子和年輕人因此開始抽。英格蘭 2023 年起反過來做，給約一百萬吸菸者發電子菸入門套裝，配上戒菸輔導。國內不是全面禁售電子菸，但管得很嚴，規矩寫在《電子菸管理辦法》裡。只准賣菸草口味的，果味的和能自己加菸油的都不准賣。只能在拿了菸草專賣零售許可證的實體店買。除了國家統一的電子菸交易管理平台，在別的網站、網店和社群軟體上賣都不合法。也不准賣給未成年人。所以還能買到的水果味電子菸走的是非法管道，不在監管之內。摻了合成大麻素的「上頭電子菸」就是這麼流出來的，見第 22 節第 4 條（不接別人遞的菸彈）。綜述裡測的都是受監管的含尼古丁產品，來路不明的菸油不在其內。順序上先試本節第 3 條（戒菸藥），那邊的證據更硬、也更便宜。
+
+### 7. 不喝含糖飲料，換成無糖的也不算解決
+<!-- tags: money=0 time=low will=some gain=high scope=health -->
+- 成本: 不花錢，也不佔時間。換成白開水或無糖茶還省錢。難在要改掉喝甜飲料的習慣，包括無糖的。
+- 白話說明: 美國的研究裡，每天喝兩份以上甜飲料的人，同期死亡的機率比幾乎不喝的人高約兩成。每天一到兩份的，也高一成多。換成無糖的也沒見著好處：每天喝兩杯以上代糖飲料的人，反而高約四分之一。
+- 收益: 美國有兩項追蹤一群人的大型研究。這兩項只紀錄、不分組，約 11.8 萬人、3.6 萬例死亡。每天喝 2 份以上的人，死亡風險比每月不到 1 份的人高約 21%（HR 1.21）。每天喝 1–2 份的，高約 14%（HR 1.14）。歐洲 EPIC 追蹤研究只紀錄、不分組，有 45 萬人、10 個國家。每天喝 2 杯以上的人和每月不到 1 杯的人比：含糖軟性飲料這項高約 8%（HR 1.08，95% CI 1.01–1.16）。人工甜味劑飲料（無糖版）高約 26%（HR 1.26，1.16–1.35）。所有軟性飲料合起來算，高約 17%（HR 1.17，1.11–1.22）。
+- 證據等級: A
+- 來源: Malik VS 等 (2019). Long-Term Consumption of Sugar-Sweetened and Artificially Sweetened Beverages and Risk of Mortality in US Adults. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.118.037401>；Mullee A, Romaguera D, Pearson-Stuttard J, et al. (2019). Association Between Soft Drink Consumption and Mortality in 10 European Countries. JAMA Internal Medicine, 179(11), 1479-1490. <https://doi.org/10.1001/jamainternmed.2019.2478>
+- 備註: 爭議在於無糖飲料。代糖飲料的關聯反而比含糖的更強，這很可能是因果反過來了：已經超重或者得了糖尿病的人，才改喝無糖版。所以別據此說代糖更毒。但它至少說明，「換成無糖就沒事」這個說法沒有證據支持。換成白開水或者無糖茶最穩妥。另外，這類研究只是追蹤紀錄，沒做分組試驗，喝甜飲料多的人本來生活方式就更差，所以數字可能偏大。
+
+### 8. 不嚼檳榔
+<!-- tags: money=0 time=low will=some gain=high scope=health -->
+- 成本: 不花錢，也不佔時間，還省下買檳榔的錢。難在要戒掉嚼的習慣。
+- 白話說明: 嚼檳榔的人，同期死亡的機率比不嚼的人高約兩成。糖尿病和代謝症候群的風險高約五成。口腔癌和食道癌的風險還要另外算。
+- 收益: 把 17 項亞洲研究、38.8 萬人合起來算。嚼檳榔的人死亡風險比不嚼的人高約 21%（相對風險 1.21，P=0.02）。死亡這一項算的是其中的 17.96 萬人。得糖尿病的風險高約 47%（1.47）。得代謝症候群的風險高約 51%（1.51）。檳榔本身也是口腔癌和食道癌的已知危險因素。口腔癌：50 篇研究合起來算，在印度次大陸，嚼不加菸草的檳榔，口腔和口咽癌風險約是不嚼的 2.56 倍（95% CI 2.00–3.28）。加了菸草的約 7.74 倍（5.38–11.13）。臺灣嚼不加菸草的檳榔約 10.98 倍（4.86–24.84）。在印度和臺灣，每天嚼得越多、嚼的年頭越長，風險越高。食道癌：12 項亞洲研究合起來算，嚼檳榔的人食道鱗狀細胞癌風險約是不嚼的 3.05 倍（2.41–3.87）。又嚼檳榔又抽菸的約 6.79 倍（4.71–9.79）。戒掉以後：13 項研究合起來算，戒了加菸草檳榔的人，頭頸部癌風險比還在嚼的低約 34%（RR 0.66，0.54–0.81）。戒了不加菸草的低約 27%（RR 0.73，0.56–0.95）。戒滿 20 年以上的低約 63%（RR 0.37，0.22–0.61）。
+- 證據等級: A
+- 來源: Yamada T, Hara K, Kadowaki T (2013). Chewing betel quid and the risk of metabolic disease, cardiovascular disease, and all-cause mortality: a meta-analysis. PLoS One, 8(8), e70679. <https://doi.org/10.1371/journal.pone.0070679>；Guha N, Warnakulasuriya S, Vlaanderen J, Straif K (2014). Betel quid chewing and the risk of oral and oropharyngeal cancers: a meta-analysis with implications for cancer control. International Journal of Cancer, 135(6), 1433-1443. <https://doi.org/10.1002/ijc.28643>；Akhtar S (2013). Areca nut chewing and esophageal squamous-cell carcinoma risk in Asians: a meta-analysis of case-control studies. Cancer Causes & Control, 24(2), 257-265. <https://doi.org/10.1007/s10552-012-0113-9>；Shah K, Boffetta P, Seyyedsalehi MS (2025). Reversal of head and neck cancer risk after the cessation of use of smokeless tobacco and betel quid use: meta-analysis. Cancer Epidemiology, Biomarkers & Prevention, 34(5), 619-626. <https://doi.org/10.1158/1055-9965.EPI-24-1502>
+- 備註: 嚼的年頭越長、每天嚼得越多，口腔癌風險越高。戒了以後，風險會隨時間往下走。在印度的研究裡，加了菸草的檳榔比不加的更危險。臺灣嚼的多是不加菸草的，風險也很高。
+
+### 9. 把家裡的食鹽換成低鈉鹽（鉀鹽）
+<!-- tags: money=low time=low will=no gain=mid scope=health -->
+- 成本: 一袋比普通鹽貴幾元。買的時候順手換，不額外佔時間。口味幾乎不變。
+- 白話說明: 中國農村得過中風或 60 歲以上有高血壓的人，把家裡的鹽換成低鈉鹽，跟了近五年，死亡的機率低約 12%，中風低約 14%。
+- 收益: 一項把人隨機分成兩組的試驗，在中國農村做的，20,995 人，都是得過中風的人或者 60 歲以上的高血壓病人，追蹤了 4.74 年。結果：用低鈉鹽的那組比用普通鹽的那組，死亡風險低約 12%（RR 0.88）。中風低約 14%（RR 0.86）。主要心血管事件低約 13%（RR 0.87）。血鉀過高的事件，兩組沒看出統計上的差別。
+- 證據等級: A
+- 來源: Neal B 等 (2021). Effect of Salt Substitution on Cardiovascular Events and Death. NEJM. <https://doi.org/10.1056/NEJMoa2105675>；O'Donnell M 等 (2014). Urinary sodium and potassium excretion, mortality, and cardiovascular events. NEJM. <https://doi.org/10.1056/NEJMoa1311889>（争议方 PURE）
+- 備註: 爭議。PURE 這項研究只長期追蹤紀錄，不分組。它報告：一天排鈉不到 3 g 的人，死亡加心血管事件的風險高約 27%。一天排鈉 7 g 以上的人，高約 15%。按它的結果，吃太少和吃太多都不好，中間最好。但本條所引的那項中國農村隨機試驗裡，低鈉鹽只是替換掉一部分，不會把鈉壓得那麼低。另外要注意，試驗對象是高風險的老年人。健康的年輕人換鹽得到的好處要小得多。腎功能不全的人，或者正在吃保鉀類藥物的人，換鹽前先問醫生。
+
+### 10. 認真刷牙，每天清一次牙縫，缺了牙去看牙醫
+<!-- tags: money=low time=low will=some gain=mid scope=health -->
+- 成本: 牙線或牙縫刷一年幾十元，洗牙每次一兩百元。每天多花兩三分鐘。難在要把清牙縫變成每天都做的事。手動牙刷刷不乾淨的，可以換電動牙刷，一支幾百元，刷頭要定期換。
+- 白話說明: 日本一項研究裡，用牙線或牙縫刷的人，同期死亡的機率低約一成。牙掉光的老人，死亡的機率高約九成。剩不到 20 顆牙的，高約一倍。電動牙刷比手動刷多去掉一到兩成牙菌斑，牙齦發炎也輕一些，但這點差別有多大用還說不清。
+- 收益: 日本有一項研究，9,676 人，追蹤 6 年。用牙縫清潔工具的人，死亡風險低約 11%（風險比 0.89）。用舌苔清潔工具的人，低約 23%（0.77）。另外把多項研究合起來算，對象是住在社區的老人。一顆牙都沒有的人，死亡的機會約為 1.87 倍（比值比，95% CI 1.35–2.59，這是可信範圍）。牙齒少於 20 顆的，約為 2.04 倍（1.67–2.49）。電動和手動比：把 51 項隨機試驗合起來算，用 1 到 3 個月，電動刷的牙菌斑少約 11%，3 個月以上少約 21%。牙齦炎分別輕約 6% 和 11%。綜述作者說，這些差別對健康有多重要還不清楚。
+- 證據等級: B
+- 來源: Wang K, Matsuyama Y, Kiuchi S, et al. (2026). Routine oral health practices and all-cause mortality. Journal of Dentistry. <https://doi.org/10.1016/j.jdent.2026.106789>；Ko MJ, Seo S, So JS, et al. (2026). Deteriorated oral health and function as risk factors for physical disability and mortality in community-dwelling older adults: a systematic review and meta-analysis. European Geriatric Medicine. <https://doi.org/10.1007/s41999-025-01319-4>；Yaacob M, Worthington HV, Deacon SA, et al. (2014). Powered versus manual toothbrushing for oral health. Cochrane Database of Systematic Reviews. <https://doi.org/10.1002/14651858.CD002281.pub3>；Deacon SA, Glenny AM, Deery C, et al. (2010). Different powered toothbrushes for plaque control and gingival health. Cochrane Database of Systematic Reviews. <https://doi.org/10.1002/14651858.CD004971.pub2>
+- 備註: 僅限中國大陸：爭議。這類研究只是追蹤紀錄。牙不好的人，往往整體健康和經濟狀況也差。到底是牙拖累了身體，還是身體不好連累了牙，說不清。但這件事成本極低，而且牙周炎和缺牙本身就影響吃東西。電動牙刷裡，刷頭來回轉動的圓頭試驗最多（27 項），和手動刷比，短期和長期都看到牙菌斑和牙齦炎明顯減少。缺了牙去補能不能少死人，沒有研究測過。建議補是因為缺牙影響吃東西，這是作者的判斷。不同類型的電動牙刷之間誰更好，獨立綜述因為試驗太少，沒下結論。種一顆牙要花多少、看牙哪些項目可以用醫保報銷（中國大陸的基本醫療保險），見第 24 節第 12 條（種牙之前先問清包乾價）。
+
+### 11. 每天走到 7000–8000 步，或者每週累計快走 150–300 分鐘
+<!-- tags: money=0 time=high will=some gain=high scope=health -->
+- 成本: 不花錢。按步數算，每天走 60–90 分鐘，可以拆進上下班和買菜裡。按運動時間算，每天 20–45 分鐘。難在要長期堅持下來。
+- 白話說明: 每天走 7800 步左右的人，同期死亡的機率比只走 3500 步的人低約四成半。按時間算也一樣，每週快走 150–300 分鐘，比不運動低約三成。多到一定量就不再往下降了，60 歲以上走到 6000–8000 步就夠。兩種數法達標一個就行。
+- 收益: 把 15 項追蹤一群人的研究合起來算，只紀錄、不分組。這 15 項共 47,471 人、3,013 例死亡。按每天步數把人分成四檔，最低那檔中位是 3,553 步/天。另外三檔的中位是 5,801、7,842、10,901 步/天。這三檔的死亡風險比最低檔分別低約 40%、45%、53%（HR 0.60、0.55、0.47）。60 歲以上的人走到 6000–8000 步以後，再多走收益就趨平了。60 歲以下的人是在 8000–10000 步以後趨平。另有一項分析把多項研究合起來算：從約 3,867 步/天開始有效。之後每多走 1,000 步/天，死亡風險降約 15%。按運動時間算：把多項追蹤研究匯總到一起算（只紀錄、不分組），運動量達到指南下限 1–2 倍的人，死亡風險比不運動的人低約 31%（HR 0.69）。這個量是 7.5–15 MET·h/週，大約合快走 150–300 分鐘/週。沒達到下限的人也低約 20%（HR 0.80）。達到下限 3–5 倍的人低約 39%（HR 0.61），這是降幅的頂點。再往上加不會更低，但也沒害處（10 倍以上是 HR 0.69）。另一項用加速度計測量的匯總研究：中高強度活動最多的那四分之一人，比最少的那四分之一死亡風險低約 48%（HR 0.52）。加速度計是戴在身上實測活動量的儀器。這項匯總共 8 項研究、36,383 人，平均 62.6 歲，中位追蹤時間只有 5.8 年。論文作者把頭兩年內死亡的人去掉重算，結果基本沒變，但他們也說「病了才動得少」造成的偏差可能還在。
+- 證據等級: A
+- 來源: Paluch AE 等 (2022). Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts. Lancet Public Health. <https://doi.org/10.1016/S2468-2667(21)00302-9>；Banach M 等 (2023). The association between daily step count and all-cause and cardiovascular mortality: a meta-analysis. European Journal of Preventive Cardiology. <https://doi.org/10.1093/eurjpc/zwad229>；Arem H 等 (2015). Leisure time physical activity and mortality: a detailed pooled analysis of the dose-response relationship. JAMA Internal Medicine. <https://doi.org/10.1001/jamainternmed.2015.0533>；Ekelund U 等 (2019). Dose-response associations between accelerometry measured physical activity and sedentary time and all cause mortality: systematic review and harmonised meta-analysis. BMJ. <https://doi.org/10.1136/bmj.l4570>
+- 備註: 步數和運動時間說的是同一件事，只是換了個數法，達標一個就行。從 4,000 步加到 7,000 步這一段最划算，不必非要湊一萬步。要注意這類研究只是追蹤紀錄：走得最少、動得最少的那批人裡，混著本來就病著走不動的。他們是快不行了才動得少，不是因為少動才早死。所以算出的差距常常偏大。用儀器實測活動量的那幾項，追蹤時間短，參與者偏老。所以「風險降到 0.52 倍」可能說得偏大，這是本書的推斷。但越動越好的趨勢是清楚的。
+
+### 12. 成年後定期查血脂，40 歲前每 2 到 5 年一次、40 歲起每年一次；有高血壓、高血脂就依醫囑規律服藥，別自行停藥
+<!-- tags: money=low time=low will=some gain=high scope=health -->
+- 成本: 中國集中採購的降壓藥和他汀，每月幾元到幾十元人民幣。每天吃一次，花不了多少時間。難在要一直吃下去，不能覺得沒事了就停。查血脂要抽一管血。65 歲以上每年有一次免費體檢，裡面就有血脂，見第 6 節第 18 條（通用體檢套餐）。
+- 白話說明: 血壓裡的高壓每降 10 mmHg，死亡的機率降約 13%，中風降約 27%。他汀把低密度膽固醇降 1 個單位，死亡的機率降約一成。按時吃藥的人比經常漏吃的人，死亡的機率低三成到四成半。血脂 40 歲前每 2 到 5 年查一次，40 歲起每年查。
+- 收益: 把多項隨機分組試驗合起來算：收縮壓每降 10 mmHg，死亡風險低約 13%（RR 0.87）。收縮壓就是血壓裡的高壓。主要心血管事件低約 20%（RR 0.80）。中風低約 27%（RR 0.73）。心衰低約 28%（RR 0.72）。吃他汀讓低密度脂蛋白膽固醇（LDL）往下降。LDL 每降 1.0 mmol/L，死亡風險低約 10%（RR 0.90）。同樣這一降，主要血管事件低約 22%（RR 0.78）。另外把多項追蹤研究合起來算，只記錄、不分組。按醫囑吃到 ≥80% 的人，死亡風險比經常漏吃的人低。他汀這一項低約 45%（RR 0.55）。降壓藥這一項低約 29%（RR 0.71）。多久查一次血脂，按中國官方「健康中國行動」的建議：40 歲以下血脂正常的人每 2 到 5 年查一次。40 歲及以上的人至少每年查一次。心腦血管病高危的人每 6 個月查一次。2023 年版中國血脂管理指南對 40 歲前後的寫法相同，高危的人改成按個人需要查。
+- 證據等級: A
+- 來源: Ettehad D 等 (2016). Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet. <https://doi.org/10.1016/S0140-6736(15)01225-8>；Cholesterol Treatment Trialists' (CTT) Collaboration (2010). Efficacy and safety of more intensive lowering of LDL cholesterol: a meta-analysis of data from 170 000 participants in 26 randomised trials. Lancet. <https://doi.org/10.1016/S0140-6736(10)61350-5>；Chowdhury R 等 (2013). Adherence to cardiovascular therapy: a meta-analysis of prevalence and clinical consequences. European Heart Journal. <https://doi.org/10.1093/eurheartj/eht295>；健康中国行动推进委员会 (2019). 健康中国行动（2019—2030年），（十一）心脑血管疾病防治行动（湖南省卫生健康委员会转载）. <https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/tzggzcfg/202003/t20200303_11359594.html>；Joint Committee on the Chinese Guidelines for Lipid Management (2023). 中国血脂管理指南（2023 年）. 中华心血管病杂志, 51(3), 221-255. <https://doi.org/10.3760/cma.j.cn112148-20230119-00038>；Li JJ 等 (2023). 2023 Chinese guideline for lipid management. Frontiers in Pharmacology, 14, 1190934（上一份指南的英文版，中文原文未取得，相关内容按英文版核对）. <https://doi.org/10.3389/fphar.2023.1190934>
+- 備註: 只有醫生判斷該吃藥的人才照這個做，健康人不用吃。查血脂多久一次是官方給的建議，沒有試驗比過幾年查一次最好。家裡有人得了家族性高膽固醇血症（天生膽固醇特別高的遺傳病），患者的一級、二級親屬都要去查血脂。父母總膽固醇 ≥6.2 mmol/L 的，孩子也該查。一級、二級親屬裡有男性 55 歲前、女性 65 歲前得過心肌梗塞、中風或猝死的，孩子也該查。「堅持吃藥」那組數字來自追蹤記錄，能堅持吃藥的人本身也更自律，所以會把好處說大。前面兩組隨機分組試驗的數字更可靠。本節沒有單獨列控制血糖這一條：把血糖壓得更低對總死亡率的好處，證據不像血壓、血脂那樣一致。有高血壓、糖尿病的每年查腎，見第 16 節第 13 條（尿白蛋白肌酐比）。
+
+### 13. 每晚睡 7 小時左右，作息固定
+<!-- tags: money=0 time=high will=some gain=mid scope=health -->
+- 成本: 不花錢。要拿出時間來睡，多數人是把滑手機的時間換成睡覺。難在要把上床和起床的時間固定住。
+- 白話說明: 長期睡不到 7 小時的人，同期死亡的機率高約一成。作息越亂，風險越高。和作息最亂的那批人比，其他人低兩成到近五成。作息規不規律比睡多久更能看出死亡風險。
+- 收益: 把 16 項追蹤研究合起來算，只記錄、不分組，138 萬人、11.3 萬例死亡。睡得短的人死亡風險高約 12%（RR 1.12）。睡得長的人高約 30%（RR 1.30）。另一項匯總按睡眠時長分檔：7 小時那檔風險最低。少於 7 小時的，每少 1 小時高約 6%（RR 1.06）。多於 7 小時的，每多 1 小時高約 13%（RR 1.13）。英國生物銀行有約 6.1 萬人的手錶記錄，只記錄、不分組。把人按作息規律程度分成五檔。較規律的那四檔比最不規律的那檔，死亡風險低 20%–48%。作息規不規律，比睡多久更能預測死亡。另有一項英國生物銀行的研究，用手錶測了 51,562 人的睡眠時刻，其間 3,853 人新發心血管病。社會時差指工作日和週末的睡眠中點差多少。社會時差達到 2 小時以上的人，心血管病風險高約 30%（HR 1.30，95% CI 1.11–1.54）。這個關聯在睡眠時長正常的人裡同樣存在。
+- 證據等級: A
+- 來源: Cappuccio FP 等 (2010). Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies. Sleep. <https://doi.org/10.1093/sleep/33.5.585>；Yin J 等 (2017). Relationship of Sleep Duration With All-Cause Mortality and Cardiovascular Events: A Systematic Review and Dose-Response Meta-Analysis of Prospective Cohort Studies. JAHA. <https://doi.org/10.1161/JAHA.117.005947>；Windred DP 等 (2024). Sleep regularity is a stronger predictor of mortality risk than sleep duration: A prospective cohort study. Sleep. <https://doi.org/10.1093/sleep/zsad253>；Kumar N, Krishnamurthy S (2026). Social jet lag is associated with incident cardiovascular disease independent of sleep duration and cardiac genetic risk. Journal of Internal Medicine. <https://doi.org/10.1111/joim.70133>
+- 備註: 要改的是睡得太少和作息亂這兩樣，不必刻意去壓縮睡眠時間。睡得長的人風險高，多半是因果反過來了：憂鬱、慢性病、睡眠呼吸中止症會讓人睡得多。另外，作息規律這一點目前有兩項追蹤研究支持，都是只記錄、不分組的，單獨看屬於 B 級證據。熬夜之後怎麼補見本節第 38 條（熬夜之後第二天晚上就補覺）。長期失眠怎麼治，見第 3 節第 26 條（長期失眠先做認知行為治療）。
+
+### 14. 常打網球、羽毛球、乒乓球這類球拍類運動
+<!-- tags: money=low time=mid will=some gain=high scope=health -->
+- 成本: 場地費每次幾十元人民幣。每週約 2 小時。難在要湊齊人和場地，還得每週都去。
+- 白話說明: 常打網球、羽毛球、乒乓球的人，同期死亡的機率比不打的人低約一半，心血管死亡低約 56%。游泳的人低約 28%。跑步和足球在這份數據裡沒看出差別。
+- 收益: 英國一項 8.03 萬人的追蹤研究，比的是做某項運動的人和不做這項運動的人。打球拍類運動的人，死亡風險低約 47%（風險比 0.53，95% CI 0.40–0.69，可信區間）。心血管死亡低約 56%（0.44，0.24–0.83）。球拍類指網球、羽毛球、乒乓球。游泳的人這兩個數分別是 0.72 和 0.59，有氧操是 0.73 和 0.64，騎車是 0.85。跑步和足球沒看出統計上的差別
+- 證據等級: A
+- 來源: Oja P, Kelly P, Pedisic Z, et al. (2017). Associations of specific types of sports and exercise with all-cause and cardiovascular-disease mortality: a cohort study of 80 306 British adults. British Journal of Sports Medicine, 51(10), 812-817. <https://doi.org/10.1136/bjsports-2016-096822>
+- 備註: 爭議。這類研究只是追蹤記錄。打球的人本身就更健康，社交也更多。跑步那組看不出差別，也說明起作用的可能是「什麼樣的人挑了什麼運動」。別因為這條就認為跑步沒用，本節另有按運動總量算的條目。
+
+### 15. 把爬樓梯、快走趕路這類零碎的用力活動攢到每天四五分鐘
+<!-- tags: money=0 time=low will=some gain=high scope=health -->
+- 成本: 不花錢，也不用額外擠出鍛鍊時間。難在要記著走樓梯、走快些，別圖省事。
+- 白話說明: 平時完全不鍛鍊的人，只要每天有三次一兩分鐘的用力活動，同期死亡的機率就比一點都沒有的人低約四成，心血管死亡低近一半。用力活動指爬樓梯、快步趕路這類。
+- 收益: 英國生物銀行有一項研究，對象是 2.52 萬名平時不專門鍛鍊的人。平均追蹤 6.9 年，其中 852 人去世。有的人每天有 3 次、每次 1–2 分鐘的零碎劇烈活動。和完全沒有的人比，他們的死亡風險和癌症死亡風險降低 38%–40%。心血管死亡風險降低 48%–49%。每天這類活動累計 4.4 分鐘的人，死亡風險和癌症死亡風險降低 26%–30%。心血管死亡風險降低 32%–34%
+- 證據等級: A
+- 來源: Stamatakis E, Ahmadi MN, Gill JMR, et al. (2022). Association of wearable device-measured vigorous intermittent lifestyle physical activity with mortality. Nature Medicine, 28, 2521-2529. <https://doi.org/10.1038/s41591-022-02100-x>
+- 備註: 爭議。這項研究用穿戴式設備實測活動量，比讓人填問卷回憶可靠。但它仍然只是追蹤記錄，沒有做分組試驗，而且只跟了 6.9 年。研究對象是完全不鍛鍊的人，已經在規律運動的人不適用這一條。
+
+### 16. 每週做 30–60 分鐘肌力訓練
+<!-- tags: money=0 time=mid will=some gain=mid scope=health -->
+- 成本: 徒手深蹲、伏地挺身不花錢。每週練 1–2 次，每次 20–30 分鐘。難在要把它排進每週的行程裡。
+- 白話說明: 每週練 30–60 分鐘肌力的人，同期死亡的機率比不練的人低一到兩成。再多練不會更好。肌力和有氧一起做效果最好。
+- 收益: 把多項追蹤研究合起來算（只記錄、不分組）：做肌力訓練的人比不做的人，死亡風險低 10%–17%。不是練得越多越好，每週約 30–60 分鐘時降幅最大，約 10%–20%，再多練不會多出好處。肌力和有氧都做的人，比兩樣都不做的人死亡風險更低。
+- 證據等級: A
+- 來源: Momma H 等 (2022). Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies. British Journal of Sports Medicine. <https://doi.org/10.1136/bjsports-2021-105061>
+- 備註: 這類研究只是追蹤記錄，運動量還是參與者自己報的。「練過頭反而變差」那一段的證據很弱，不必為此限制訓練量。肌力訓練對老年人還有防跌倒、保住肌肉的好處，那些寫在第 1 節。膝蓋退化疼的人練大腿肌肉比做關節鏡管用，見第 6 節第 33 條（關節鏡清理）。
+
+### 17. 別連著坐太久，隔一陣起身動一動
+<!-- tags: money=0 time=low will=some gain=high scope=health -->
+- 成本: 不花錢，起身幾下也用不了多少時間。難在坐進去就忘了時間，得設個提醒。
+- 白話說明: 坐得最久的人，同期死亡的機率是坐得最少的人的 2.6 倍。一次連著坐很久，還要另算一筆風險。但只要每天有 60–75 分鐘中等強度活動，久坐多出來的風險基本就被抵消了。
+- 收益: 美國有一項追蹤研究，只記錄、不分組，用加速度計實測。把人按每天久坐總時長分成四份。久坐最多的那份人，死亡風險是最少那份的 2.63 倍（HR 2.63）。再按一次連著坐多久分成四份：連坐最久的那份人，是連坐最短那份的 1.96 倍（HR 1.96）。所以坐的總量和一次連坐多久，各自單獨相關。另一項匯總把上百萬人的研究合起來算，只記錄、不分組。每天坐 8 小時以上、又幾乎不運動的人，死亡風險是另一類人的 1.59 倍（HR 1.59）。另一類人是每天坐不到 4 小時、又最活躍的。每天約 60–75 分鐘中等強度活動，可以抵消久坐多出來的風險。最活躍那組即使每天坐 8 小時以上，HR 也只有 1.04，沒看出統計上的差別。
+- 證據等級: A
+- 來源: Diaz KM 等 (2017). Patterns of Sedentary Behavior and Mortality in U.S. Middle-Aged and Older Adults: A National Cohort Study. Annals of Internal Medicine. <https://doi.org/10.7326/M17-0212>；Ekelund U 等 (2016). Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women. Lancet. <https://doi.org/10.1016/S0140-6736(16)30370-1>
+- 備註: 可靠的結論是：坐多久不如動多少重要，運動量夠的時候久坐的風險基本消失。要注意這類研究只是追蹤記錄，坐得最多的人裡有大量本來就病著的，「風險高到 2.63 倍」裡明顯含著「先病了才久坐」。另外同一份匯總裡，每天看電視 3 小時以上的風險在各個運動量的人身上都存在，最活躍那組只是把這個起點推到 5 小時。
+
+### 18. 少吃加工肉（火腿、培根、香腸、午餐肉）
+<!-- tags: money=0 time=low will=some gain=high scope=health -->
+- 成本: 不花錢，甚至省錢，也不佔時間。難在要少吃自己愛吃的那口。
+- 白話說明: 火腿、培根、香腸吃得最多的人，同期死亡的機率比吃得最少的人高約兩成。每天多吃一份加工肉，機率也高兩成。
+- 收益: 把多項追蹤研究合起來算（只記錄、不分組）：加工肉吃得最多的那組，比吃得最少的那組死亡風險高約 23%（RR 1.23）。紅肉合計高約 29%（RR 1.29）。沒加工的紅肉高約 10%（RR 1.10），但這一項沒看出統計上的差別。另一項匯總是按每天吃的量算的。加工肉每天多吃 1 份，死亡風險高約 23%（RR 1.23）。紅肉每天多吃 1 份，高約 10%（RR 1.10）。
+- 證據等級: A
+- 來源: Larsson SC, Orsini N (2014). Red meat and processed meat consumption and all-cause mortality: a meta-analysis. American Journal of Epidemiology. <https://doi.org/10.1093/aje/kwt261>；Schwingshackl L 等 (2017). Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies. American Journal of Clinical Nutrition. <https://doi.org/10.3945/ajcn.117.153148>；Johnston BC 等 (2019). Unprocessed Red Meat and Processed Meat Consumption: Dietary Guideline Recommendations From the NutriRECS Consortium. Annals of Internal Medicine. <https://doi.org/10.7326/M19-1621>（争议方 NutriRECS 指南）
+- 備註: 爭議。NutriRECS 指南用一套通行的證據打分法（GRADE），把這些研究評為「不太靠得住」。它只給了一句很弱的建議：照現在這麼吃就行。雙方爭的是證據夠不夠硬，不是方向。沒有研究說加工肉有好處。沒加工的紅肉影響小，也看不出統計上的差別。要管住的是加工肉。
+
+### 19. 少喝或不喝酒
+<!-- tags: money=0 time=low will=some gain=high scope=health -->
+- 成本: 不花錢，還省錢，也不佔時間。難在社交場合勸酒時的一點尷尬。
+- 白話說明: 每週喝超過 100 公克純酒精之後，喝得越多死得越早。100 公克純酒精大約是 2.5 公升啤酒。40 歲時每週喝 100–200 公克的人，少活半年左右；喝 200–350 公克的少一兩年；超過 350 公克的少四五年。按整體健康算，最划算的量是不喝。
+- 收益: 把 83 項往後追蹤的研究合起來算，只記錄、不分組，60 萬名在喝酒的人。死亡風險的最低點，在每週不超過 100 公克純酒精。這個量大約是 5% 的啤酒 2.5 公升，或者 40 度白酒 300 毫升。40 歲時每週喝 100–200 公克的人，預期壽命少約 6 個月。每週喝 200–350 公克的少 1–2 年。超過 350 公克的少 4–5 年。以上三項原文以壽命年數表示。全球疾病負擔研究 GBD 2016 把各類健康損失合起來算，風險最低的飲酒量是每週 0 杯。還有一項匯總把研究設計上的偏差校正過了。每天喝 1.3–24 公克的人和一輩子不喝的人比，死亡風險低約 7%（RR 0.93）。但這一項沒看出統計上的差別。每天喝 45–64 公克的高約 19%（RR 1.19）。每天 65 公克以上的高約 35%（RR 1.35）。
+- 證據等級: A
+- 來源: Wood AM 等 (2018). Risk thresholds for alcohol consumption: combined analysis of individual-participant data for 599 912 current drinkers in 83 prospective studies. Lancet. <https://doi.org/10.1016/S0140-6736(18)30134-X>；GBD 2016 Alcohol Collaborators (2018). Alcohol use and burden for 195 countries and territories, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016. Lancet. <https://doi.org/10.1016/S0140-6736(18)31310-2>；Zhao J 等 (2023). Association Between Daily Alcohol Intake and Risk of All-Cause Mortality: A Systematic Review and Meta-analyses. JAMA Network Open. <https://doi.org/10.1001/jamanetworkopen.2023.6185>；Di Castelnuovo A 等 (2006). Alcohol dosing and total mortality in men and women: an updated meta-analysis of 34 prospective studies. Archives of Internal Medicine. <https://doi.org/10.1001/archinte.166.22.2437>（争议方）
+- 備註: 爭議。認為「少喝有好處」的一方，是一份 34 項長期追蹤研究的匯總。它報告：少量飲酒的人總死亡率最多低 17%–18%。它給的量是男性每天不超過 4 杯、女性不超過 2 杯。在這個量以內，喝得多的人死亡率反而低。反方認為，「不喝酒」那一組裡混進了因病戒酒的人和本來身體就差的人。有一項匯總專門把這些干擾扣掉，做完以後保護作用就沒了。全球疾病負擔研究也給出 0 最安全。穩妥的讀法是：少喝不會明顯傷壽命，多喝會傷。「為了健康開始喝酒」沒有依據。想少喝怎麼辦見本節第 21 條（先數杯數再找醫生）。天天喝的人不能自己硬戒，見本節第 20 條（別自己硬戒）。
+
+### 20. 每天都喝酒、一停就手抖心慌的人，別自己硬戒
+<!-- tags: money=low time=mid will=some gain=high scope=health -->
+- 成本: 掛一次精神科或者成癮醫學科的號，幾元到幾十元人民幣。嚴重的要住幾天院。
+- 白話說明: 天天大量喝酒的人突然停，會出戒斷反應。輕的手抖、出汗、心慌、睡不著，重的會抽搐或者出現震顫譫妄，那是可能危及生命的急症。挪威追蹤了三萬多人，得過震顫譫妄的那批，往後每年有 8% 的人死亡。想戒就先去醫院，說清你每天喝多少。
+- 收益: 一篇 2026 年的臨床綜述寫明：長期大量飲酒的人在突然停酒或者大幅減量之後會出現戒斷症候群，表現包括震顫、自主神經興奮、焦慮、失眠、感知異常、癲癇發作和震顫譫妄，在普通內科診療中「常見且可能危及生命」。挪威的全國登記隊列納入 2009 到 2015 年診斷為酒精依賴、酒精戒斷狀態或震顫譫妄的 36287 人：震顫譫妄組的年死亡率 8.0%，戒斷狀態組 5.0%，酒精依賴組 3.6%。震顫譫妄組的標準化死亡比 9.8（95% CI 8.9–10.7，這是可信區間），意思是死亡風險約為同齡一般人群的 9.8 倍。
+- 證據等級: B
+- 來源: Caputo F, Lungaro L, Costanzini A, De Giorgio R, Addolorato G (2026). Alcohol withdrawal syndrome in hospitalized patients: a practical review. European Journal of Internal Medicine, 107103. <https://doi.org/10.1016/j.ejim.2026.107103>；Bramness JG, Heiberg IH, Høye A, Rossow I (2023). Mortality and alcohol-related morbidity in patients with delirium tremens, alcohol withdrawal state or alcohol dependence in Norway: A register-based prospective cohort study. Addiction, 118(12), 2352–2359. <https://doi.org/10.1111/add.16297>
+- 備註: 自己怎麼判斷：幾乎天天喝、一天不喝就手抖出汗心慌睡不著、早上要喝一點才舒服，符合其中一條就別自己硬停。醫院的常規做法是用苯二氮平類藥物把這幾天頂過去，同時補硫胺素（維生素 B1）。定 B 級是因為挪威那份隊列說的是「得過震顫譫妄的人後來怎麼樣」，不是「自己硬戒會怎麼樣」，兩者之間是推斷。不是勸你繼續喝，是讓你換個停法，去醫院戒。每週喝多少算多見本節第 19 條（少喝或不喝酒），想少喝怎麼辦見本節第 21 條（先數杯數再找醫生）。
+
+### 21. 想少喝酒，先把一週喝了多少數出來，再找醫生聊幾分鐘
+<!-- tags: money=0 time=low will=some gain=low scope=health -->
+- 成本: 不花錢。數杯數每天記一筆就行。在門診順口問一句也不額外花錢。
+- 白話說明: 醫生花幾分鐘看你的飲酒量、說清風險、幫你定個目標，一年後平均每週少喝 20 公克純酒精，大約半公升啤酒。談更久並沒有更多好處。已經停不下來的，國外有兩種藥被證明管用，大約每治 12 個人能多 1 個人不再回到一喝就喝多。
+- 收益: 34 項隨機試驗、15197 人合起來算，接受簡短干預的人在一年後比只接受最少干預或不干預的人每週少喝 20 公克純酒精（95% CI 少 12 到 28 公克，這是可信區間；中等品質證據）。這些研究裡受試者的基線飲酒量平均是每週 244 公克。簡短干預指的是不超過 5 次、總時長不到 60 分鐘的建議或生活方式諮詢；談得更久並沒有多出好處。藥物方面：122 項隨機試驗、22803 人合起來算，阿坎酸每治療 12 人（95% CI 8 到 26）可多讓 1 人不再回到任何飲酒；口服納曲酮每天 50 毫克，每治療 12 人（8 到 26）可多讓 1 人不再回到重度飲酒。
+- 證據等級: A
+- 來源: Kaner EF, Beyer FR, Muirhead C, et al. (2018). Effectiveness of brief alcohol interventions in primary care populations. Cochrane Database of Systematic Reviews, 2, CD004148. <https://doi.org/10.1002/14651858.CD004148.pub4>；Jonas DE, Amick HR, Feltner C, et al. (2014). Pharmacotherapy for adults with alcohol use disorders in outpatient settings: a systematic review and meta-analysis. JAMA, 311(18), 1889–1900. <https://doi.org/10.1001/jama.2014.3628>
+- 備註: 收益量級定「小」，是因為這兩份證據量到的都是喝了多少，不是死亡率，按本書的規矩只有替代終點就記「小」。藥物那部分的試驗多在國外做，受試者多數已達到酒精依賴的診斷標準，而且試驗裡都同時給了心理社會干預，數字是「在這個基礎上額外多出來的好處」。這兩種藥在中國大陸的適應症和能不能開，以醫生和藥品說明書為準，別自行網購。已經出現戒斷反應的見本節第 20 條（別自己硬戒）。
+
+### 22. 每天吃一小把堅果
+<!-- tags: money=low time=low will=no gain=high scope=health -->
+- 成本: 每天吃 28 公克，一年約兩三百元人民幣。順手就吃，不佔時間。
+- 白話說明: 常吃堅果的人，同期死亡的機率比不吃的人低約兩成。一週吃一次就能看出差別，低約一成。吃到每天一把，差別最明顯。
+- 收益: 兩項美國追蹤研究，11.9 萬人，300 多萬人年。人年就是人數乘以各自追蹤的年數。和不吃堅果的人比：每週吃不到 1 次的人死亡風險低約 7%（風險比 0.93，95% CI 0.90–0.96，這是可信區間）。每週吃 1 次的低約 11%（0.89，0.86–0.93）。每週 2–4 次的低約 13%（0.87，0.83–0.90）。每週 5–6 次的低約 15%（0.85，0.79–0.91）。每週 7 次以上的低約 20%（0.80，0.73–0.86）
+- 證據等級: A
+- 來源: Bao Y, Han J, Hu FB, et al. (2013). Association of nut consumption with total and cause-specific mortality. New England Journal of Medicine, 369(21), 2001-2011. <https://doi.org/10.1056/NEJMoa1307352>
+- 備註: 買原味不加鹽的。堅果熱量不低，別當零食敞開吃。要注意這類研究只是長期追蹤一群人，吃堅果的人整體生活方式更好，所以數字要打個折扣。
+
+### 23. 把一部分紅肉換成魚和禽肉
+<!-- tags: money=0 time=low will=some gain=low scope=health -->
+- 成本: 不花錢，也不佔時間。這是把肉換一種，不是多買。難在要改點口味偏好。
+- 白話說明: 每週多吃兩份加工肉或者紅肉，同期死亡的機率高約 3%。換成同樣份數的魚或者禽肉，就看不出升高。換肉的效應在本節裡偏小，屬於順手就換、不必較勁的事。
+- 收益: 把美國 6 項追蹤研究、近 3 萬人合起來算。每週多吃兩份加工肉，死亡風險高約 3%（風險比 1.03，95% CI 1.02–1.05，可信區間）。每週多吃兩份沒加工的紅肉，也高約 3%（1.03，1.01–1.05）。同樣的吃法換成禽肉，是 0.99（0.97–1.02）；換成魚，是 0.99（0.97–1.01）。這兩項都沒看出統計上的差別
+- 證據等級: A
+- 來源: Zhong VW, Van Horn L, Greenland P, et al. (2020). Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality. JAMA Internal Medicine, 180(4), 503-512. <https://doi.org/10.1001/jamainternmed.2019.6969>
+- 備註: 每週兩份帶來的差別很小，別指望靠換肉多活幾年。同樣花錢吃肉，可以優先挑魚和禽肉。
+
+### 24. 把一部分精白米麵換成全穀物
+<!-- tags: money=low time=low will=some gain=high scope=health -->
+- 成本: 糙米、燕麥、全麥麵比精白米麵貴一點，不占時間。難在口感要慢慢適應。
+- 白話說明: 每天多吃 90 g 全穀物的人，同期死亡的機率低約 17%。90 g 大約是三份。吃到每天 200 g 左右，風險還在繼續下降。
+- 收益: 把多項追蹤研究合起來算（只記錄、不分組）：全穀物每天多吃 90 g，死亡風險低約 17%（相對風險 RR 0.83）。90 g 大約是 3 份。這份好處一直持續到每天 210–225 g。另一項彙總裡，每天多吃 1 份低約 8%（RR 0.92）。
+- 證據等級: A
+- 來源: Aune D 等 (2016). Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. <https://doi.org/10.1136/bmj.i2716>；Schwingshackl L 等 (2017). Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies. American Journal of Clinical Nutrition. <https://doi.org/10.3945/ajcn.117.153148>
+- 備註: 不必全換成全穀物，換一半就已經在好處最明顯的那一段了。要注意這類研究只是追蹤記錄，吃全穀物的人本來就更健康，數字偏大。各項研究之間的結果差得也遠（I² 83%，這個數越大說明各研究結論越不一致）。
+
+### 25. 每週喝茶三次以上
+<!-- tags: money=low time=low will=no gain=mid scope=health -->
+- 成本: 一年幾十到幾百元。泡一杯幾分鐘，不占什麼時間。
+- 白話說明: 有喝茶習慣的人，同期死亡的機率低約 15%。從 50 歲算起，平均多活 1.26 年，多出 1.41 年不得心血管疾病的時間。
+- 收益: 中國一項 100,900 人的研究（China-PAR），其中一半人追蹤滿了 7.3 年。有喝茶習慣的人，死亡風險低約 15%（風險比 0.85，95% 信賴區間 0.79–0.90，這是可信範圍）。以 50 歲為起點算：有喝茶習慣的人，沒有得動脈粥狀硬化性心血管疾病的年數多 1.41 年，預期壽命多 1.26 年。
+- 證據等級: A
+- 來源: Wang X, Liu F, Li J, et al. (2020). Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project. European Journal of Preventive Cardiology, 27(18), 1956-1963. <https://doi.org/10.1177/2047487319894685>；茶葉黴菌毒素：Cui P 等 (2020). Quantitative analysis and dietary risk assessment of aflatoxins in Chinese post-fermented dark tea. Food and Chemical Toxicology. <https://doi.org/10.1016/j.fct.2020.111830>；Zhou H 等 (2022). Mycotoxins in Tea (Camellia sinensis (L.) Kuntze): Contamination and Dietary Exposure Profiling in the Chinese Population. Toxins. <https://doi.org/10.3390/toxins14070452>；綠茶萃取物與肝損傷：Hu J 等 (2018). The safety of green tea and green tea extract consumption in adults - Results of a systematic review. Regulatory Toxicology and Pharmacology. <https://doi.org/10.1016/j.yrtph.2018.03.019>
+- 備註: 爭議在於：這類研究只是追蹤記錄，中國男性喝茶的人裡抽菸喝酒的比例高。作者已經扣掉一部分這類影響，但扣不乾淨。還有一點，別喝滾燙的，熱飲溫度見本節第 30 條（不喝滾燙的茶）。有人擔心茶葉裡有黴菌毒素。國內查過 158 份黑茶，有 2 份檢出黃麴毒素，按喝茶的量算，吃進去的量低於國際上的可接受值。另一項查了 352 份茶、16 種黴菌毒素，只有黑茶裡的赭麴毒素 A 平均含量超過限量。按國人喝茶的量算，兩項都沒算出膳食風險。茶葉放在乾燥的地方，受潮發霉的別喝。綠茶萃取物膠囊不一樣：高濃度的兒茶素一次大量吞下去會傷肝，沖泡的茶沒有這個問題。所以這裡說的只是泡的茶，別拿萃取物保健品來代替。
+
+### 26. 每天喝三到四杯咖啡，咖啡因總量不超過 400 mg，不加糖、不加奶蓋
+<!-- tags: money=low time=low will=no gain=high scope=health -->
+- 成本: 自己沖，每天一兩元。沖一杯幾分鐘，不占什麼時間。買大杯的要留意一天喝了多少毫克咖啡因。
+- 白話說明: 每天喝三到四杯咖啡的人，同期死亡的機率比不喝的人低約 17%。另一項研究裡，咖啡集中在上午喝的人低約 12%，全天都喝的人看不出差別。一杯咖啡的咖啡因含量差很多，要按一天總量不超過 400 mg 來控制。
+- 收益: 一篇綜述把 201 項彙總分析再合在一起看，這些彙總底下的原始研究都只記錄、不分組。總死亡率這一項，綜述引用了其中一篇劑量與效果關係的彙總分析。每天 3–4 杯咖啡的人和不喝的人相比，死亡風險低 17%（相對風險 0.83，95% 信賴區間 0.79–0.88，這是可信範圍）。每天 7 杯時，降幅縮小到 10%（相對風險 0.90，95% 信賴區間 0.85–0.96），沒有看到風險回升。美國國家健康與營養調查（NHANES）的一項研究，追蹤了 40,725 名成年人，一半人追蹤滿了 9.8 年，也是只記錄、不分組。研究把喝咖啡的人分成兩類。「上午型」是咖啡集中在 4:00–11:59 喝、下午和晚上幾乎不喝的人，占 36%。他們和不喝咖啡的人相比，全因死亡風險低 12%（風險比 0.88，95% 信賴區間 0.81–0.96）。再扣除睡眠不足和睡眠困難的影響，低 16%（風險比 0.84，95% 信賴區間 0.74–0.95）。心血管疾病死亡風險低 19%（風險比 0.81，95% 信賴區間 0.70–0.94）。扣除睡眠影響後，低 31%（風險比 0.69，95% 信賴區間 0.55–0.87）。「全天型」是上午、下午和晚上都喝的人，占 16%。他們的全因死亡風險看不出差別（風險比 0.99，95% 信賴區間 0.90–1.10）。兩類人的癌症死亡風險都看不出差別。咖啡因的每日上限有官方依據。歐洲食品安全局（EFSA）和加拿大衛生部都把健康成年人的上限定為每天 400 mg。這是所有來源合計，茶、可樂和能量飲料也要算。EFSA 還要求分散在一天裡喝，單次不超過 200 mg。一杯咖啡的含量差很多。EFSA 的表裡，200 mL 一杯濾泡咖啡約 90 mg。加拿大衛生部的表裡，8 盎司（237 mL）一杯現煮咖啡平均 135 mg。美國食品藥物管理局（FDA）的表裡，12 盎司（約 355 mL）現煮咖啡含 113–247 mg。所以 FDA 把 400 mg 折算成約 2 到 3 杯 12 盎司的咖啡，綜述則折算成約 4 杯。
+- 證據等級: A
+- 來源: Poole R, Kennedy OJ, Roderick P, et al. (2017). Coffee consumption and health: umbrella review of meta-analyses of multiple health outcomes. BMJ, 359, j5024. <https://doi.org/10.1136/bmj.j5024>，含更正 BMJ (2018), 360, k194. <https://doi.org/10.1136/bmj.k194>（摘要裡總死亡率的可信範圍由 0.83–0.88 改為 0.79–0.88）；Wang X, Ma H, Sun Q, et al. (2025). Coffee drinking timing and mortality in US adults. European Heart Journal, 46(8), 749-759. <https://doi.org/10.1093/eurheartj/ehae871>；Yang R, Lei Q, Liu Z, et al. (2024). Relationship between timing of coffee and tea consumption with mortality (total, cardiovascular disease and diabetes) in people with diabetes: the U.S. National Health and Nutrition Examination Survey, 2003–2014. BMC Medicine, 22, 526. <https://doi.org/10.1186/s12916-024-03736-x>；EFSA Panel on Dietetic Products, Nutrition and Allergies (2015). Scientific Opinion on the safety of caffeine. EFSA Journal, 13(5), 4102. <https://doi.org/10.2903/j.efsa.2015.4102>；EFSA 咖啡因專題頁（每份含量表）<https://www.efsa.europa.eu/en/topics/topic/caffeine>；FDA. Spilling the Beans: How Much Caffeine Is Too Much? <https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much>；Health Canada. Caffeine in foods. <https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-additives/caffeine-foods.html>；加糖：Liu D, Li ZH, Shen D, et al. (2022). Association of Sugar-Sweetened, Artificially Sweetened, and Unsweetened Coffee Consumption With All-Cause and Cause-Specific Mortality. Annals of Internal Medicine, 175(7), 909-917. <https://doi.org/10.7326/M21-2977>；Treskes RW, Clausen J, Marott JL, et al. (2023). Use of sugar in coffee and tea and long-term risk of mortality in older adult Danish men. PLOS ONE, 18(10), e0292882. <https://doi.org/10.1371/journal.pone.0292882>；房顫：Wong CX, Cheung CC, Montenegro G, et al. (2026). Caffeinated Coffee Consumption or Abstinence to Reduce Atrial Fibrillation. JAMA, 335(4), 317-325. <https://doi.org/10.1001/jama.2025.21056>；Joglar JA, Chung MK, Armbruster AL, et al. (2024). 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation, 149(1). <https://doi.org/10.1161/CIR.0000000000001193>
+- 備註: 爭議在於：綜述作者寫明證據大部分來自只追蹤記錄的研究，要靠可靠的隨機對照試驗，才能判斷是不是因果。上午喝更好這一點只有一個美國研究，所以沒寫進標題。作者寫明結果不能解釋為因果，也可能只是上午喝咖啡的人整體生活更健康。另一項只含糖尿病患者的美國研究裡，黎明到上午喝咖啡的人死亡風險高 25%，上午到中午喝的人低 20%，結果相反。這些研究都沒有比較 12 點和 14 點哪個更合適。第 3 節第 4 條（下午兩點以後不碰咖啡因）講的是睡眠，要按自己的就寢時間往前推，和這條不衝突。400 mg 是安全上限，不是有益的劑量。無咖啡因的咖啡也有類似的好處，只是略小，所以不用為了湊量多喝。孕婦每天不超過 200 mg（EFSA）或 300 mg（加拿大衛生部）。骨折風險高的女性不適用這一條。焦慮、失眠的人也不適用，這是本書的判斷，綜述裡沒有這兩類人的結論。有心房顫動的人不必一律戒咖啡。一項試驗裡，持續性心房顫動電復律後每天喝約 1 杯咖啡的人，復發比戒咖啡的人少（47% 對 64%）。2023 年美國心房顫動指南也不建議為預防發作戒咖啡，但喝了會誘發症狀的人要減。其他心律失常沒有證據，聽醫生的。死亡率這一項沒有看到加糖會抵消好處。但糖漿和奶蓋類飲品沒有研究，糖量又大，所以仍然建議不加。
+
+### 27. 每天吃夠 5 份（約 400 g）水果和蔬菜
+<!-- tags: money=low time=mid will=some gain=mid scope=health -->
+- 成本: 每天幾元到十幾元。每天要花點時間洗和切。難在要天天買、天天吃夠量。
+- 白話說明: 每天多吃 200 g 蔬果，同期死亡的機率低約一成。每天吃夠 5 份的人，比只吃 2 份的人低約 13%。美國的研究裡，再往上吃不會更低。
+- 收益: 把多項追蹤研究合起來算（只記錄、不分組）：每天多吃 200 g 蔬果，死亡風險低約 10%（RR 0.90）。這份好處一直持續到每天 800 g。美國兩項大型追蹤研究加上 26 項研究的彙總：每天吃夠 5 份的人，比只吃 2 份的人死亡風險低約 13%（HR 0.87）。最好的搭配是 2 份水果加 3 份蔬菜，再多不再降。
+- 證據等級: A
+- 來源: Aune D 等 (2017). Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality: a systematic review and dose-response meta-analysis of prospective studies. International Journal of Epidemiology. <https://doi.org/10.1093/ije/dyw319>；Wang DD 等 (2021). Fruit and Vegetable Intake and Mortality: Results From 2 Prospective Cohort Studies of US Men and Women and a Meta-Analysis of 26 Cohort Studies. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.120.048996>
+- 備註: 兩項研究在吃多少最好這一點上說法不同，美國那項到 5 份就不再往下降。要注意這類研究只是追蹤記錄，干擾明顯：吃菜多的人，收入、教育、運動都和別人不一樣。所以「風險低約 10%」已經是上限了。
+
+### 28. 少吃超加工食品（洋芋片、泡麵、糕點、速食）
+<!-- tags: money=0 time=high will=high gain=high scope=health -->
+- 成本: 不花錢，換著買而已。要自己做飯，或者花時間挑沒怎麼加工過的食材，每天都得占些時間。難在要長期對抗「方便就好」的慣性。
+- 白話說明: 超加工食品吃得最多的人，同期死亡的機率比吃得最少的人高約兩成，心血管死亡高五成。不過這類證據被評為不太確定，數字要打個折扣來看。
+- 收益: 一篇綜述把多項彙總研究又合在一起算，這些彙總底下的原始研究都只記錄、不分組。結果：超加工食品吃得多的人比吃得少的人，死亡風險高約 21%（RR 1.21），心血管疾病死亡高約 50%（RR 1.50）。這兩項的證據分級分別是「高度提示」和「令人信服」。但按通行的證據評分法（GRADE）評，確定性是低或極低。
+- 證據等級: A
+- 來源: Lane MM 等 (2024). Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses. BMJ. <https://doi.org/10.1136/bmj-2023-077310>
+- 備註: 爭議在三點。這套分類（NOVA）把營養差別很大的食物劃成了一類。它和含糖飲料、加工肉（第 7、18 條）大量重疊，分不清到底是哪一項在起作用。按通行的證據評分法（GRADE）評，等級也低。所以做到那兩條之後，這一條還能多帶來多少好處，說不準。反方的證據就是同一篇綜述給出的低評級本身，目前沒有得出相反結論的原始研究。所以先把第 7、18 條（不喝含糖飲料、少吃加工肉）做到，再看這一條。
+
+### 29. 煮飯、取暖不燒煤和柴，改用電或瓦斯
+<!-- tags: money=high time=low will=no gain=high scope=health -->
+- 成本: 農村家庭要換灶具，加上燃料費，一年幾百到上千元。換一次就完事，不長期占時間。城裡人基本已經是電或瓦斯了。
+- 白話說明: 煮飯燒煤或燒柴的人，同期死亡的機率高約一成；取暖燒煤柴的高約 14%。已經改用電或瓦斯的人，比還在燒煤柴的人死亡機率低 13%–33%。
+- 收益: 中國一項慢性病往後追蹤的研究，只記錄、不分組，對象是 271,000 名沒有心血管疾病的成人。煮飯用煤柴這類固體燃料的人，死亡風險比用電或瓦斯的人高約 11%（HR 1.11）。取暖用固體燃料的人高約 14%（HR 1.14）。已經從固體燃料換成清潔燃料的人，和還在燒的人相比，煮飯這項低約 13%（HR 0.87）。取暖這項低約 33%（HR 0.67）。室外的 PM2.5 另有一筆帳。把 104 項追蹤研究合起來算，長期吸到的濃度每高 10 µg/m³，自然原因死亡風險高約 8%（RR 1.08）。自然原因就是非意外的病死。
+- 證據等級: A
+- 來源: Yu K 等 (2018). Association of Solid Fuel Use With Risk of Cardiovascular and All-Cause Mortality in Rural China. JAMA. <https://doi.org/10.1001/jama.2018.2151>；Chen J, Hoek G (2020). Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis. Environment International. <https://doi.org/10.1016/j.envint.2020.105974>
+- 備註: 這類研究只是追蹤記錄。換了燃料的家庭往往也更富裕，「風險降到 0.67 倍」這個數裡混著家境的影響。至於室外的 PM2.5，個人能做的有限，無非是搬家、戴口罩、用空氣清淨機。空氣清淨機沒有以死亡率為終點的研究，所以本節不給數字。
+
+### 30. 熱的東西放一放再喝，不喝滾燙的茶、湯和咖啡
+<!-- tags: money=0 time=low will=some gain=high scope=health -->
+- 成本: 不花錢，每次多等兩三分鐘。難在嘴饞的時候忍住不喝。
+- 白話說明: 伊朗一個食道癌高發區的研究裡，喝很燙的茶，得食道癌的機率是喝溫茶的 8 倍。就算只是「熱」，也有 2 倍。倒出來不到兩分鐘就喝，風險是等四分鐘以上再喝的 5 倍。
+- 收益: 在伊朗北部的食道癌高發區，拿 300 名患者和 571 名沒得病的人對比。以下比較的對象都是喝溫茶的人。喝「熱」茶的人，得食道鱗狀細胞癌的機會約為 2.07 倍（比值比，95% 信賴區間 1.28–3.35，可信範圍）。喝「很熱」的約為 8.16 倍（3.93–16.9）。倒出後不到 2 分鐘就喝的人，約為等 4 分鐘以上再喝的人的 5.41 倍（2.63–11.1）。
+- 證據等級: A
+- 來源: Islami F, Pourshams A, Nasrollahzadeh D, et al. (2009). Tea drinking habits and oesophageal cancer in a high risk area in northern Iran: population based case-control study. BMJ, 338, b929. <https://doi.org/10.1136/bmj.b929>；Loomis D, Guyton KZ, Grosse Y, et al. (2016). Carcinogenicity of drinking coffee, mate, and very hot beverages. Lancet Oncology, 17(7), 877-878. <https://doi.org/10.1016/S1470-2045(16)30239-X>；Yu C, Tang H, Guo Y, et al. (2018). Hot tea consumption and its interactions with alcohol and tobacco use on the risk for esophageal cancer: a population-based cohort study. Annals of Internal Medicine, 168(7), 489-497. <https://doi.org/10.7326/M17-2000>
+- 備註: 國際癌症研究機構把 65 ℃ 以上的熱飲列為 2A 類，意思是很可能致癌。同一份評估認定咖啡本身不致癌。中國一項研究追蹤了 456,000 人，中位 9.2 年。喝很燙的茶、每天還喝 15 克以上酒的人，食道癌風險最高。他們約是很少喝茶、每天喝酒不到 15 克的人的 5 倍（HR 5.00，3.64–6.88）。吸菸又天天喝燙茶的，風險比是 2.03（1.55–2.67）。論文作者的結論是，燙茶和過量喝酒或吸菸疊在一起時，食道癌風險更高。
+
+### 31. 白天出門曬曬太陽，別整天不見光
+<!-- tags: money=0 time=low will=no gain=mid scope=health -->
+- 成本: 不花錢。每天十幾分鐘，上下班路上和午休就夠了。
+- 白話說明: 瑞典一項研究裡，刻意躲太陽的女性，預期壽命比曬得最多的人少 0.6 到 2.1 年。不吸菸但躲太陽的人，壽命和曬得最多的吸菸者差不多。
+- 收益: 瑞典一項研究，29,500 名女性，追蹤 20 年。和曬太陽最多的那組相比，刻意迴避曬太陽的人預期壽命少 0.6 到 2.1 年。作者寫道「不吸菸但迴避曬太陽的人，預期壽命與曬太陽最多組裡的吸菸者相當」。
+- 證據等級: B
+- 來源: Lindqvist PG, Epstein E, Nielsen K, et al. (2016). Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. Journal of Internal Medicine, 280(4), 375-387. <https://doi.org/10.1111/joim.12496>
+- 備註: 爭議在於：瑞典緯度高、日照少，結論不能直接搬到中國。而且迴避曬太陽的人，可能本來就體弱、不愛出門，這是作者的推測。論文作者自己也寫明，常曬太陽的女性得皮膚癌的風險更高。所以別曬到曬傷，正午強光下還是要遮擋。
+
+### 32. 把 BMI 控制在 20–25，超重就減重
+<!-- tags: money=0 time=high will=high gain=high scope=health -->
+- 成本: 不花錢。飲食加運動每天都要占時間。這是全節最費毅力的一條：要長期管住嘴、邁開腿，減下來之後維持比減更難。
+- 白話說明: 死亡的機率在 BMI 20–25 這一段最低。BMI 到 27.5–30 高約兩成，30–35 高約四成半，35–40 接近翻倍。東亞人 BMI 在 25 以上的，每高 5，風險高約四成。
+- 收益: 把 239 項往後追蹤的研究的個人資料合起來算（只記錄、不分組）。這份分析只留了三類人：從不吸菸的、入組時沒有慢性病的、入組後又活過 5 年的。結果：死亡風險在 BMI 20–25 最低。BMI 25–27.5 高約 7%（HR 1.07）。27.5–30 高約 20%（HR 1.20）。30–35 高約 45%（HR 1.45）。35–40 高約 94%（HR 1.94）。40–60 是 2.76 倍（HR 2.76）。BMI 25 以上的人每高 5 kg/m²，東亞人群的風險高約 39%（HR 1.39）。
+- 證據等級: A
+- 來源: Global BMI Mortality Collaboration (2016). Body-mass index and all-cause mortality: individual-participant-data meta-analysis of 239 prospective studies in four continents. Lancet. <https://doi.org/10.1016/S0140-6736(16)30175-1>；Flegal KM 等 (2013). Association of all-cause mortality with overweight and obesity using standard body mass index categories: a systematic review and meta-analysis. JAMA. <https://doi.org/10.1001/jama.2012.113905>（爭議方）
+- 備註: 爭議。有一方認為「胖一點反而活得久」。他們彙總後得到：超重的人死亡風險低約 6%，輕度肥胖的低約 5%。雙方分歧主要在要不要把三類資料剔掉：抽菸的人、已經得病的人、剛入組頭幾年的資料。之所以要剔，是因為重病的人會先瘦下來。那項彙總 239 項研究的分析把這三類剔掉之後，超重帶來的風險又出現了。另外還要注意，沒有隨機試驗證明減重本身能降低總死亡率。上面的收益是拿不同胖瘦的人橫著比出來的，不代表減掉就能降這麼多。要減重的人不必在吃飯時間上下功夫，早餐和 16:8 輕斷食都沒有額外好處，見第 6 節第 26 條（不要指望吃早餐或 16:8 幫你控制體重）。
+
+### 33. 每週吃辣椒四次以上
+<!-- tags: money=0 time=low will=no gain=high scope=health -->
+- 成本: 不花錢，也不占時間。
+- 白話說明: 義大利一項研究裡，每週吃辣椒四次以上的人，同期死亡的機率比很少吃的人低約 23%，心血管死亡低約三分之一。
+- 收益: 義大利一項 22,800 人的研究，其中一半人追蹤滿了 8.2 年，共 1,236 人去世。每週吃辣椒 4 次以上的人，死亡風險比很少吃的人低約 23%（風險比 0.77，95% 信賴區間 0.66–0.90，可信範圍）。心血管死亡低約 34%（0.66，0.50–0.86）。
+- 證據等級: B
+- 來源: Bonaccio M, Di Castelnuovo A, Costanzo S, et al. (2019). Chili Pepper Consumption and Mortality in Italian Adults. Journal of the American College of Cardiology, 74(25), 3139-3149. <https://doi.org/10.1016/j.jacc.2019.09.068>
+- 備註: 爭議在於：這是在地中海飲食的背景下做的追蹤記錄，吃辣的人可能整體飲食更接近當地的傳統吃法。還要注意，有胃食道逆流、痔瘡、腸躁症的人，吃辣可能加重症狀，不必勉強。這是作者經驗，沒有找到專門的研究。
+
+### 34. 每天喝一到兩份奶或優格
+<!-- tags: money=low time=low will=no gain=high scope=health -->
+- 成本: 每天幾元，不占時間。
+- 白話說明: 每天喝兩份以上奶或優格的人，同期死亡的機率比不喝的人低約 17%。
+- 收益: PURE 追蹤研究涵蓋 21 個國家、136,000 人，平均追蹤 9.1 年，共 6,796 人去世。每天吃兩份以上奶製品的人，死亡風險比不吃的人低約 17%（風險比 0.83，95% 信賴區間 0.72–0.96，可信範圍），趨勢 P=0.0052。
+- 證據等級: B
+- 來源: Dehghan M, Mente A, Rangarajan S, et al. (2018). Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study. Lancet, 392(10161), 2288-2297. <https://doi.org/10.1016/S0140-6736(18)31812-9>
+- 備註: 爭議在於：PURE 納入了大量中低收入國家，在那裡能天天喝奶本身就說明家境不錯，這層干擾很難排乾淨。另外乳糖不耐受的人改喝優格或低乳糖奶，不必硬喝牛奶。
+
+### 35. 雞蛋不用戒，一天一顆以內就好
+<!-- tags: money=0 time=low will=no gain=low scope=health -->
+- 成本: 不花錢，也不占時間。
+- 白話說明: 每天多吃半顆全蛋，同期死亡的機率高約 7%。把這半顆換成蛋白、魚、禽肉或堅果，死亡風險反而更低。但另一批研究發現，每天一顆雞蛋以內，和心血管疾病沒看出關聯，所以不用戒雞蛋。
+- 收益: 美國一項 521,000 人的追蹤研究，共 129,000 人去世。每天多吃半顆全蛋，死亡風險高約 7%（風險比 1.07，95% 信賴區間 1.06–1.08，這是可信範圍）。把這半顆全蛋換成等量的蛋白、禽肉、魚、奶製品或堅果豆類，死亡風險會更低，心血管、癌症、呼吸系統這三項的死亡風險也都更低。反方的證據：美國三項大型研究共 216,000 人，最長跟了 32 年。每天至少一顆雞蛋的人，和一個月不到一顆的人相比，心血管疾病風險沒有差別（HR 0.93，95% 信賴區間 0.82–1.05）。同一篇把 33 組資料、1,720,000 人合起來算，每天多吃一顆雞蛋，心血管疾病風險也沒變（RR 0.98，0.93–1.03）。論文作者的結論是，每天最多一顆雞蛋和心血管疾病沒有關聯。
+- 證據等級: B
+- 來源: Zhuang P, Wu F, Mao L, et al. (2021). Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study. PLoS Medicine, 18(2), e1003508. <https://doi.org/10.1371/journal.pmed.1003508>；Drouin-Chartier JP, Chen S, Li Y, et al. (2020). Egg consumption and risk of cardiovascular disease: three large prospective US cohort studies, systematic review, and updated meta-analysis. BMJ, 368, m513. <https://doi.org/10.1136/bmj.m513>；U.S. Department of Health and Human Services, U.S. Department of Agriculture (2015). 2015–2020 Dietary Guidelines for Americans, Chapter 1：「The Key Recommendation from the 2010 Dietary Guidelines to limit consumption of dietary cholesterol to 300 mg per day is not included in the 2015 edition, but this change does not suggest that dietary cholesterol is no longer important to consider」「individuals should eat as little dietary cholesterol as possible while consuming a healthy eating pattern」. <https://www.dietaryguidelines.gov/sites/default/files/2019-05/2015-2020_Dietary_Guidelines.pdf>
+- 備註: 爭議很大：也有長期追蹤大批人的研究，以及多項研究的彙總，沒發現每天一顆雞蛋和心血管疾病有關。美國膳食指南 2015 版取消了膽固醇每天 300 毫克的上限。但它同時說，這不等於膽固醇不重要，吃得健康的前提下要盡量少吃。一天一顆，目前看和心血管疾病沒有關聯。標題裡「一天一顆以內」按的就是這個結果，更多的量則沒有研究直接測過。
+
+### 36. 有條件就泡澡，別只沖淋浴
+<!-- tags: money=low time=mid will=no gain=high scope=health -->
+- 成本: 多花一些水費和電費。每次半小時。
+- 白話說明: 日本一項研究中，幾乎每天泡澡的人，心血管事件的風險比每週泡不到兩次的人低約 28%，腦出血則低約 46%。
+- 收益: 日本一項 30,000 人的研究，參加者 40 到 59 歲，追蹤 19 年，共 2,097 例心血管事件。幾乎每天泡澡的人，比每週泡澡不超過兩次的人，心血管事件風險低約 28%（風險比 0.72，95% CI 0.62–0.84，即可信區間）。冠心病低約 35%（0.65，0.45–0.94）。腦中風低約 26%（0.74，0.62–0.87）。腦出血低約 46%（0.54，0.40–0.73）。
+- 證據等級: B
+- 來源: Ukai T, Iso H, Yamagishi K, et al. (2020). Habitual tub bathing and risks of incident coronary heart disease and stroke. Heart, 106(10), 732-737. <https://doi.org/10.1136/heartjnl-2019-315752>；消費者庁. 年末年始、高齢者の事故に注意しましょう（页面没写发布日期，数字引自日本厚生劳动省 2024 年人口动态统计）：「「浴槽内での及び浴槽への転落による溺死及び溺水」による死亡者数は、令和6年に7,776人となっています」「暖かい室内と寒い脱衣所や浴室との温度差などによる急激な血圧の変動や、熱いお湯をはった浴槽内に長くつかることによる体温上昇での意識障害などが挙げられています」. <https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_084/>
+- 備註: 爭議在於：這是在日本人群和浴缸文化下得出的結果，中國多數家庭沒有條件天天泡。另外水別太燙，也別泡太久。對老年人和有心腦血管病的人，水溫過高、泡太久反而危險。日本 2024 年在浴缸裡溺死的有 7,776 人。日本消費者廳說，常見原因是冬天屋內和浴室溫差大、在熱水裡泡太久。喝了酒別泡澡、別泡溫泉和三溫暖，見第 22 節第 11 條（喝了酒別泡溫泉）。
+
+### 37. 把午睡控制在半小時內，別超過一小時，非得睡一兩小時才撐得住就去查原因
+<!-- tags: money=0 time=low will=no gain=mid scope=health -->
+- 成本: 不花錢。睡前定個鬧鐘就行，幾乎不用毅力。
+- 白話說明: 午睡不超過一小時的人，死亡和慢性病的風險沒有升高，腦子還更清醒一些。睡過一小時的人，冠心病風險高約三成，糖尿病和肥胖則高約兩成。所以定個鬧鐘，半小時就叫醒自己。要是每天非得睡一兩小時才撐得住，那是該去查身體的訊號。
+- 收益: 一篇傘狀綜論彙整了 16 篇統合分析、244 項健康結局。傘狀綜論就是把既有的統合研究再統合一次。結論是：午睡少於 60 分鐘的人，總死亡率和慢性病風險都沒有升高，腦力改善也最明顯（SMD 0.69，95% CI 0.37–1.00，即可信區間）。20 到 30 分鐘的短午睡，對運動表現的改善最大（SMD 0.99，0.67–1.31）。午睡超過 60 分鐘的人，冠心病風險高約 30%，糖尿病和肥胖風險高約 20%。另一項研究讓 1,338 名 56 歲以上的老人戴腕錶實測午睡，而不是靠自己填問卷。追蹤最長 19 年，期間 926 人去世。午睡每多 1 小時，死亡風險高約 13%（HR 1.13，95% CI 1.04–1.23）。每天多睡一次，高約 7%（HR 1.07，1.02–1.13）。在上午睡的人，比在下午較早時段睡的人高約 30%（HR 1.30，1.03–1.64）。
+- 證據等級: B
+- 來源: Du P, Li J, Hua Z, 等 (2026). Multiple Health Outcomes of Daytime Napping: A Comprehensive Umbrella Review. Public Health Reviews. <https://doi.org/10.3389/phrs.2026.1609013>；Gao C, Cai R, Zheng X, 等 (2026). Objectively Measured Daytime Napping Patterns and All-Cause Mortality in Older Adults. JAMA Network Open. <https://doi.org/10.1001/jamanetworkopen.2026.7938>；Dashti HS 等 (2021). Genetic determinants of daytime napping and effects on cardiometabolic health. Nature Communications. <https://doi.org/10.1038/s41467-020-20585-3>
+- 備註: 爭議。上面兩項都是只記錄、不分組的研究。午睡時間長的人，本來就更可能有睡眠呼吸中止、貧血、甲狀腺功能低下、憂鬱或其他慢性病。所以「睡得久的人死得多」裡，有多少是午睡本身造成的，說不清。用基因做的因果推論（孟德爾隨機化，453,000 人加 541,000 人）只支持一件事：午睡越頻繁，血壓和腰圍越高一點。它沒有查到午睡對冠心病和糖尿病有因果影響。所以別把「少睡午覺」當成降低死亡率的手段。「去查原因」這部分是作者的建議，屬於 C 級：白天困到必須長睡，先查夜裡的睡眠，打呼和睡覺憋氣要查睡眠呼吸中止，再查血液常規和甲狀腺。短午睡怎麼提神，見第 3 節第 11 條（下午困了睡 10 分鐘）。夜間睡多久，見本節第 13 條（每晚睡 7 小時）。打鼾憋氣怎麼查、怎麼治，見第 3 節第 27 條（睡眠呼吸中止）。
+
+### 38. 熬夜之後第二天晚上就補覺，別攢到週末
+<!-- tags: money=0 time=low will=no gain=mid scope=health -->
+- 成本: 不花錢。補的那一兩個小時本來就想睡。
+- 白話說明: 少睡之後，第二天晚上沒補回來的人，死亡風險比作息規律的人高約 15%；少得厲害又不補的，高約 42%。補回來的人，看不出風險升高。所以熬了夜，第二天晚上就早點上床。
+- 收益: 英國生物銀行 85,618 人，平均年齡 61.8 歲，戴腕錶記錄逐日睡眠，中位追蹤 8 年。研究先依每人自己的睡眠需求算出「少睡的夜」，指比自己需要的少睡 2.5 小時以上。少睡那段之後的第一晚算「補覺夜」，這一晚比自己需要的多睡，就算補回來了。依此分成五種模式。與作息規律的人相比，少睡又不補的全死因死亡風險高約 15%（HR 1.15，95% CI 1.01–1.31，即可信區間）。累計少睡超過 3.5 小時又不補的，高約 42%（HR 1.42，1.24–1.63）。補回來的兩組都沒有顯著關聯，其中少睡後補的是 HR 1.12（0.98–1.28）。本來就睡得短的人裡，少睡不補高約 19%（1.19，1.01–1.40），嚴重少睡不補高約 38%（1.38，1.17–1.63）。這個結果在另一批 4,586 人的美國健康調查裡也重現了。
+- 證據等級: B
+- 來源: Li X, Zhang M, Li Z, 等 (2026). Acute sleep rebound following sleep restriction is associated with reduced mortality risk. Nature Communications. <https://doi.org/10.1038/s41467-026-72461-1>
+- 備註: 這是只記錄、不分組的研究。補不回來的人，可能本來就更忙、身體更差，這一層沒辦法完全排除。「補回來的兩組看不出風險升高」只是沒查出差別，它們的估計值仍大於 1，補了也不等於沒事。所以熬了夜要盡快補回來，也不能因此隨便熬夜。這項研究裡的補覺，指少睡之後第一晚多睡一點，不包括攢到週末一次補。把「平日熬、週末補」固定成每週的節奏，是另一回事，叫社會時差，本身就和心血管病有關，見本節第 13 條（每晚睡 7 小時左右，作息固定）。週末也固定起床的那條，見第 3 節第 2 條（固定起床時間，週末也一樣），與本條不衝突：本條是讓你當晚早點上床，不是讓你第二天睡到中午。
+
+### 39. 上夜班幹得越久心血管風險越高，能轉崗就趁早轉
+<!-- tags: money=high time=mid will=high gain=high scope=health -->
+- 成本: 轉崗或換工作，可能少拿錢，夜班津貼也沒了。找工作要花時間，下決心也難。如果挑工作時就把這筆帳算進去，成本是零。
+- 白話說明: 上夜班的人，心血管病比不上夜班的人多約 13%，心血管死亡多約 27%。而且幹得越久越多：每多上 5 年夜班，心血管病再多約 7%。所以這筆帳要按年數算，能轉崗就趁早。
+- 收益: 把 23 項追蹤研究合起來算，只記錄、不分組。上夜班的人心血管事件風險高約 13%（RR 1.13，95% CI 1.10–1.16，即可信區間）。心血管死亡高約 27%（RR 1.27，1.18–1.36）。按年數看：每多上 5 年夜班，心血管病發生率再高約 7%（RR 1.07，1.04–1.09），心血管死亡再高約 5%（RR 1.05，1.03–1.06）。分病看：冠心病發生高約 22%（1.22，1.16–1.28），冠心病死亡高約 22%（1.22，1.10–1.36），缺血性心臟病死亡高約 39%（1.39，1.06–1.84），腦中風死亡高約 49%（1.49，1.04–2.12）。腦中風的發生率這一項不顯著（1.06，0.95–1.18）。
+- 證據等級: A
+- 來源: Xi J, Ma W, Tao Y, 等 (2025). Association between night shift work and cardiovascular disease: a systematic review and dose-response meta-analysis. Frontiers in Public Health. <https://doi.org/10.3389/fpubh.2025.1668848>；Esposito G, Bravi F, Santucci C, 等 (2025). Night shift work and breast cancer risk in healthcare workers: a systematic review and meta-analysis. Occupational Medicine. <https://doi.org/10.1093/occmed/kqaf040>；Shen QM, Li ZY, Tan YT, 等 (2026). Night shift work and risk of total and site-specific cancer: results from a prospective cohort study among Chinese men. Scandinavian Journal of Work, Environment & Health. <https://doi.org/10.5271/sjweh.4290>；Czeisler CA, Johnson MP, Duffy JF, 等 (1990). Exposure to bright light and darkness to treat physiologic maladaptation to night work. New England Journal of Medicine, 322(18), 1253-1259. <https://doi.org/10.1056/NEJM199005033221801>；Eastman CI, Stewart KT, Mahoney MP, Liu L, Fogg LF (1994). Dark goggles and bright light improve circadian rhythm adaptation to night-shift work. Sleep, 17(6), 535-543：「Both bright light and goggles were significant factors for producing circadian rhythm phase shifts. The combination of bright light plus goggles was the most effective」「Goggles were necessary for producing phase delays」. <https://doi.org/10.1093/sleep/17.6.535>；Crowley SJ, Lee C, Tseng CY, Fogg LF, Eastman CI (2003). Combinations of bright light, scheduled dark, sunglasses, and melatonin to facilitate circadian entrainment to night shift work. Journal of Biological Rhythms, 18(6), 513-523：「With bright light during the night shift, almost all of the earlier participants achieved complete re-entrainment, and the phase delay shift was so large that darker sunglasses and melatonin could not increase its magnitude」. <https://doi.org/10.1177/0748730403258422>
+- 備註: 這些都是只記錄、不分組的研究。上夜班的人在吸菸、體重、收入上本來就和別人不一樣，校正不乾淨。夜班致癌這件事，證據比流傳的說法軟得多。彙整 12 項研究、12,132 例乳癌的分析裡，做過夜班的人風險只高約 5%，可信區間跨過了 1（RR 1.05，0.96–1.14）。做滿 20 年那一檔高約 25%（1.25，1.01–1.55）。但作者做影響分析後，這一項就不顯著了。校正可能的發表偏誤後接近 1，作者的原話是這個關聯「遠未確立」。另一項追蹤中國男性 16.1 年、8,202 例癌症的研究，夜班和總癌症及多數常見癌都沒有關聯。只有胰臟癌在累計做 11 到 20 年那一檔高約 59%（HR 1.59，1.09–2.31）。所以這條是按心血管算帳，不是按癌症算。本書不主張誰都該離開夜班崗位，只是把按年數算的這筆帳擺出來，讓你自己算。已經在做的，先把能改的改掉：戒菸見本節第 1 條（戒菸，越早越好），血壓血脂見本節第 12 條（有高血壓、高血脂就按醫囑規律吃藥），夜班之後的覺怎麼補，見本節第 38 條（熬夜之後第二天晚上就補覺）。另有兩條可以試的對策：把進食集中在白天，以及用強光加白天嚴格遮光，把生理時鐘搬過去。後者在實驗裡真的把生理時鐘搬了過去。普通室內照明下連上六個夜班，生理時鐘紋風不動；換成 7,000 到 12,000 勒克斯的強光加白天近乎全黑，四天就整個倒過來了。**夜裡的光要夠亮、白天睡覺要嚴格遮光、下班路上戴墨鏡擋晨光，研究者建議三樣一起做。** 一項 50 人的模擬夜班實驗裡，夜裡的強光和下班後的墨鏡各自都有用，兩樣一起效果最好。不戴墨鏡的人，生理時鐘只往提前的方向挪，往推遲的方向挪不動，作者認為是下班路上的日光在擋著。另一項 67 人的實驗裡，生理時鐘本來偏早的人，夜裡有強光的幾乎都整個倒過來了，墨鏡換成更黑的也沒有再多挪。只有室內照明的，墨鏡越黑越有用。兩條對策的終點都只到代謝指標和睡眠，沒有試驗測過照做能不能把心血管風險降下來。休息日過回白天的生活，鐘還會被打回去。劑量、原始數字和其餘來源，連同身體怎麼認時間，都在 [docs/生物钟和夜班.md](../docs/生物钟和夜班.md)。
+
+### 40. 買預包裝、有 SC 編號的食用油，不買小作坊散裝自榨花生油
+<!-- tags: money=0 time=low will=no gain=mid scope=health -->
+- 成本: 換個地方買，錢差不多。看一眼包裝上有沒有 SC 開頭的食品生產許可編號就行。難在說服習慣買自榨油的長輩。
+- 白話說明: 花生受潮發霉會長出黃麴毒素，它是明確的致癌物，主要傷肝。廣州管住小作坊之後，常吃自榨油的居民，肝功能異常的情況少了約三成半。廣西的孕婦吃自榨花生油，孩子出生體重偏低的風險高約九成，早產的風險高約八成。
+- 收益: 黃麴毒素是國際癌症研究機構定的 1 類致癌物（確定能讓人得癌），主要致肝癌。廣州一項研究測了 2010 到 2022 年小作坊自榨花生油裡的黃麴毒素 B1。中位數是 1.29 μg/kg，中間一半的樣品落在 0.12 到 6.58 之間。當地出台小作坊管理條例後，油裡的毒素立刻降了 2.865 μg/kg，之後每年再降 2.593。常吃自榨油那片居民的肝功能異常比例隨之下降（PR 0.650，95% CI 0.469–0.902，即可信區間），低約 35%。廣西一項追蹤 1,611 名孕婦的研究裡，81.7% 吃自榨花生油。吃的人，孩子低出生體重的風險高約九成（aOR 1.9，1.1–3.2），早產高約八成（aOR 1.8，1.1–3.0）。
+- 證據等級: B
+- 來源: Lei J, Li Y, Wang Y, 等 (2024). The impact of small food workshops management regulations on aflatoxin B1 in home-made peanut oil and the liver function of high-consumption area residents: an interrupted time series study in Guangzhou, China. Frontiers in Public Health, 12. <https://doi.org/10.3389/fpubh.2024.1484414>；Zhong Y, Lu H, Jiang Y, 等 (2024). Effect of homemade peanut oil consumption during pregnancy on low birth weight and preterm birth outcomes: a cohort study in Southwestern China. Global Health Action, 17. <https://doi.org/10.1080/16549716.2024.2336312>；IARC (2012). Chemical Agents and Related Occupations. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol 100F. <https://publications.iarc.fr/123>；国家卫生计生委、国家食品药品监督管理总局 (2017). 食品安全国家标准 食品中真菌毒素限量（GB 2761-2017）
+- 備註: 兩項研究都只是追蹤記錄、沒有分組對照。廣州那項的終點是肝功能化驗，不是肝癌和死亡。自榨油的毒素中位數其實低於國家標準對花生油的限量 20 μg/kg，風險來自長年吃和個別偏高的批次。國家標準的限量對所有花生油都適用，但預包裝油要經過生產許可和出廠檢驗，小作坊則依各省的管理辦法管，抽檢少得多。家裡囤的花生、玉米、堅果發了霉怎麼處理，見本節第 46 條（發了霉整包扔掉）。本條的受益人主要是你和一起吃飯的家人。
+
+### 41. 做飯用植物油代替豬油和奶油，不必為了健康換著買油，也別指望亞麻仁油護心
+<!-- tags: money=0 time=low will=some gain=mid scope=health -->
+- 成本: 不多花錢。植物油本來就是大多數家庭的主力。難在改掉用豬油炒菜、拌飯的口味習慣。
+- 白話說明: 少吃豬油、奶油這類飽和脂肪、改吃植物油，心臟病和中風這類事件少約一成七，但總死亡風險看不出變化。大豆油、玉米油的主要成分多吃一些，沒看出好處，也沒看出壞處。亞麻仁油吃多了，心臟病風險也沒看出下降。
+- 收益: Cochrane 彙整了 15 項隨機試驗、56,675 人，每項至少做兩年。少吃飽和脂肪，心血管事件合計低約 17%（RR 0.83，0.70–0.98）。總死亡率幾乎不變（RR 0.96，0.90–1.03），心血管死亡也不變（RR 0.95，0.80–1.12）。換成多元不飽和脂肪（大豆油、玉米油的主要成分）和換成碳水化合物，效果看不出差別。換成單元不飽和脂肪（菜籽油、橄欖油的主要成分）的資料太少，說不清。另一篇 Cochrane 彙整 19 項隨機試驗、6,461 人，多吃 omega-6（亞麻油酸）對總死亡率 RR 1.00（0.88–1.12），對心血管事件 RR 0.97（0.81–1.15），看不出好處也看不出壞處。第三篇彙整 86 項隨機試驗、162,796 人，多吃植物來源的 omega-3（亞麻仁油、紫蘇油的主要成分），總死亡率 RR 1.01（0.84–1.20），冠心病事件 RR 1.00（0.82–1.22），基本沒有作用。
+- 證據等級: A
+- 來源: Hooper L, Martin N, Jimoh OF, 等 (2020). Reduction in saturated fat for cardiovascular disease. Cochrane Database of Systematic Reviews, (5), CD011737. <https://doi.org/10.1002/14651858.CD011737.pub3>；Hooper L, Al-Khudairy L, Abdelhamid AS, 等 (2018). Omega-6 fats for the primary and secondary prevention of cardiovascular disease. Cochrane Database of Systematic Reviews, (11), CD011094. <https://doi.org/10.1002/14651858.CD011094.pub4>；Abdelhamid AS, Brown TJ, Brainard JS, 等 (2020). Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease. Cochrane Database of Systematic Reviews, (3), CD003177. <https://doi.org/10.1002/14651858.CD003177.pub5>；中国营养学会 (2022). 中国居民膳食指南（2022）. 人民卫生出版社
+- 備註: 爭議：有人主張大豆油、玉米油裡的 omega-6 太多會促發炎，所以要少吃、換油。上面 omega-6 那篇的隨機試驗沒看出壞處，證據品質作者自評為低。收益量級按心血管事件低 17% 定為中，總死亡率沒有變。哪一種油都要控制用量，膳食指南建議每人每天烹調油 25 到 30 克。
+
+### 42. 炒菜、煎炸時打開抽油煙機，從開火一直開到做完
+<!-- tags: money=0 time=low will=some gain=high scope=health -->
+- 成本: 家裡裝了抽油煙機的，只多花一點電費。沒裝的，買一台連安裝要數百到上千元人民幣。難在每次開火都記得開，別嫌吵就關掉。
+- 白話說明: 不吸菸的中國女性，炒菜時不開或很少開抽油煙機，得肺癌的風險約是常開的兩倍。住過廚房通風差的房子，風險也高約五成，燒煤的人家最明顯。
+- 收益: 把 10 項病例對照研究合起來算，對象都是不吸菸的中國女性。病例對照是拿肺癌病人和沒病的人比，回頭問過去的習慣。接觸做飯油煙的人，得肺癌的機會約為 1.74 倍（比值比，95% CI 1.57–1.94，即可信區間）。其中 4 項比的是接觸油煙又不用抽油煙機的人，約為 2.11 倍（1.54–2.89）。台灣一項研究拿 1,302 名不吸菸的女性肺癌病人，和 1,302 名沒病的人對比，只看做飯十年以上的人。三分之二以上的年頭都開抽油煙機的，和三分之一以下的比，風險低約一半（比值比 0.49，0.32–0.76）。上海有一項往後追蹤的研究，71,000 名不吸菸的女性，從 1996 年追到 2009 年，查出 429 例肺癌。自己說住過廚房通風差的房子的，得肺癌的風險高約 49%（HR 1.49，1.15–1.95）。燒煤又通風差 20 年以上的，約為 2.03 倍（HR 2.03，1.35–3.05）。單看燒沒燒過煤，沒看出差別（HR 1.03，0.84–1.26）。炒菜用哪種油，也沒看出差別。
+- 證據等級: B
+- 來源: Xue Y, Jiang Y, Jin S, Li Y (2016). Association between cooking oil fume exposure and lung cancer among Chinese nonsmoking women: a meta-analysis. OncoTargets and Therapy, 9, 2987-2992. <https://doi.org/10.2147/OTT.S100949>；Chen TY, Fang YH, Chen HL, 等 (2020). Impact of cooking oil fume exposure and fume extractor use on lung cancer risk in non-smoking Han Chinese women. Scientific Reports, 10, 6774. <https://doi.org/10.1038/s41598-020-63656-7>；Kim C, Gao YT, Xiang YB, 等 (2015). Home kitchen ventilation, cooking fuels, and lung cancer risk in a prospective cohort of never smoking women in Shanghai, China. International Journal of Cancer, 136(3), 632-638. <https://doi.org/10.1002/ijc.29020>
+- 備註: 爭議：支持開抽油煙機的數字，主要來自病例對照研究。病人確診後回憶過去，容易少報開抽油煙機的次數，數字可能偏大。上海那項往後追蹤的研究裡，風險升高主要落在燒煤又通風差的人家。只燒瓦斯的人家，開與不開差多少，那項研究給不出單獨的數字。所以證據等級只給 B，收益量級按約兩倍的風險差定為大。做飯不燒煤柴，見本節第 29 條（做飯、取暖不燒煤和柴）。本條的受益人主要是家裡常掌勺的人。
+
+### 43. 更年期前後熱潮紅、盜汗影響到生活，就去婦科評估荷爾蒙治療，別硬扛也別自己買藥，更別拿它防心臟病
+<!-- tags: money=low time=mid will=no gain=high scope=health who=women+35plus -->
+- 成本: 去婦科或更年期門診看一次。醫生會問病史，看你有沒有不適合用荷爾蒙的情況，合適的再開處方。用上以後要按醫生的要求複查。難在放下「荷爾蒙一碰就會得癌」的害怕，也別聽說它能抗老就自己去買。
+- 白話說明: 更年期前後的熱潮紅、盜汗，用荷爾蒙治療後，熱潮紅的次數比吃安慰劑少約 75%。代價是乳癌、血栓、中風會多一點，每年每 10,000 名女性裡各多出約 8 人。50 到 59 歲開始用的人，總死亡率沒有升高。它不能用來防心臟病和失智症。
+- 收益: Cochrane 彙整 24 項隨機試驗、3,329 人，比的是口服荷爾蒙和安慰劑。用荷爾蒙的人，每週熱潮紅次數比安慰劑少約 75%（95% CI 64.3–82.3，即可信區間）。熱潮紅的嚴重程度也明顯減輕（OR 0.13，0.07–0.23）。吃安慰劑的人，熱潮紅也少了約 57.7%，所以說能治熱潮紅的東西，都要和安慰劑比過才算數。風險看美國 WHI 隨機試驗。16,608 名有子宮的 50 到 79 歲女性，用雌激素加黃體素，平均追蹤 5.2 年。冠心病高約 29%（HR 1.29，1.02–1.63）。浸潤性乳癌高約 26%（HR 1.26，1.00–1.59）。中風高約 41%（HR 1.41，1.07–1.85）。肺栓塞約為 2.13 倍（HR 2.13，1.39–3.25）。折成絕對數，每 10,000 名女性每年多 7 例冠心病、8 例中風、8 例肺栓塞、8 例浸潤性乳癌，同時少 6 例大腸直腸癌、5 例髖部骨折。切除了子宮、只用雌激素的女性，累計追蹤 13 年，乳癌反而低約 21%（HR 0.79，0.65–0.97）。兩項試驗合起來追蹤 18 年，總死亡率沒有變化（HR 0.99，0.94–1.03）。按開始用藥的年齡分，50 到 59 歲那組在用藥那幾年，總死亡率低約 31%（HR 0.69，0.51–0.94）。60 到 69 歲是 1.04（0.87–1.25），70 到 79 歲是 1.13（0.94–1.36），都不顯著。追蹤到 18 年，50 到 59 歲那組是 0.89（0.79–1.01），也不顯著了。Cochrane 2017 年的綜述單看 50 到 59 歲的女性，唯一明顯升高的是雌激素與黃體素合用時的血栓，絕對風險不到 1/500。65 歲以上用雌激素與黃體素合用的女性，4 年內失智從每千人 9 例升到 11 到 30 例。美國預防服務工作組 2022 年反對用荷爾蒙預防慢性病（D 級建議），結論是沒有淨好處。
+- 證據等級: A
+- 來源: MacLennan AH, Broadbent JL, Lester S, Moore V (2004). Oral oestrogen and combined oestrogen/progestogen therapy versus placebo for hot flushes. Cochrane Database of Systematic Reviews, (4), CD002978. <https://doi.org/10.1002/14651858.CD002978.pub2>；Writing Group for the Women's Health Initiative Investigators, Rossouw JE, Anderson GL, Prentice RL, 等 (2002). Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results from the Women's Health Initiative randomized controlled trial. JAMA, 288(3), 321-333. <https://doi.org/10.1001/jama.288.3.321>；Manson JE, Chlebowski RT, Stefanick ML, 等 (2013). Menopausal hormone therapy and health outcomes during the intervention and extended poststopping phases of the Women's Health Initiative randomized trials. JAMA, 310(13), 1353-1368. <https://doi.org/10.1001/jama.2013.278040>；Manson JE, Aragaki AK, Rossouw JE, 等 (2017). Menopausal hormone therapy and long-term all-cause and cause-specific mortality: the Women's Health Initiative randomized trials. JAMA, 318(10), 927-938. <https://doi.org/10.1001/jama.2017.11217>；Marjoribanks J, Farquhar C, Roberts H, 等 (2017). Long-term hormone therapy for perimenopausal and postmenopausal women. Cochrane Database of Systematic Reviews, (1), CD004143. <https://doi.org/10.1002/14651858.CD004143.pub5>；US Preventive Services Task Force, Mangione CM, Barry MJ, 等 (2022). Hormone therapy for the primary prevention of chronic conditions in postmenopausal persons: US Preventive Services Task Force recommendation statement. JAMA, 328(17), 1740-1746. <https://doi.org/10.1001/jama.2022.18625>
+- 備註: 爭議：WHI 的女性平均 63 歲，用的是一種固定的口服方案。現在多數人是 50 來歲、剛停經時為了症狀才用，和試驗裡的人不完全一樣。50 到 59 歲那組死亡率低，是分年齡組看出來的，追蹤到 18 年就不顯著了，所以不能說荷爾蒙能延壽。Cochrane 也寫明，試驗的規模不夠看清停經 10 年內女性的風險。下面幾類人一般不適合用：得過乳癌的、有過血栓的、心血管病風險高的、很胖的，具體由醫生判斷。有子宮的人只用雌激素，子宮內膜癌會增加，所以要同時用黃體素。切了子宮的才可以只用雌激素。荷爾蒙也能減少骨折，但一般只在不適合用其他抗骨質疏鬆藥時才考慮。骨質疏鬆先看第 1 節第 39 條（骨質密度檢查）和第 1 節第 40 條（查出骨質疏鬆就用藥）。收益量級按熱潮紅次數少約 75% 定為大，終點是症狀，不是總死亡率。本條的受益人主要是你自己，也包括你的母親和配偶。
+
+### 44. 本來就想養狗的，把每天遛狗算進走路量，別為了長壽專門去養狗
+<!-- tags: money=high time=high will=high gain=high scope=health -->
+- 成本: 養狗是一直要花的錢，狗糧、疫苗、驅蟲、看病、辦證件都要掏，要一直管到狗老死。每天要抽時間遛狗，出差旅行要找人照看。難在要天天堅持，養了就不能想停就停。中國大陸沒有官方統計養一隻狗要花多少錢，這裡不寫數字。
+- 白話說明: 養狗的人，同期死亡的機率平均低約四分之一，得過冠心病的人降得更多。但扣掉其他差別之後，英國和挪威的大型研究都看不出差別，養貓也看不出關聯。所以別為了長壽專門養狗，本來想養的，就把每天遛狗當成走路。
+- 收益: 把 10 項追蹤研究合起來算，約 3,840,000 人，平均追蹤 10.1 年。養狗的人死亡風險低約 24%（RR 0.76，95% CI 0.67–0.86，即可信區間）。心血管死亡低約 31%（RR 0.69，0.67–0.71）。得過冠心病的人裡，家裡有狗的，低約 65%（RR 0.35，0.17–0.69）。作者寫明，這個彙整沒有扣除其他因素。瑞典全國約 3,430,000 人的登記研究扣除了收入、婚姻等因素。所有人合在一起，養狗的死亡風險低約 20%（HR 0.80，0.79–0.82）。獨居的人養狗，死亡風險低約 33%（HR 0.67，0.65–0.69）。和別人同住的低約 11%（HR 0.89，0.87–0.91）。瑞典心肌梗塞之後的病人裡，獨居養狗的死亡風險低約 33%（HR 0.67，0.61–0.75），和伴侶或孩子同住的低約 15%（HR 0.85，0.80–0.90）。缺血性中風之後分別低約 27%（HR 0.73，0.66–0.80）和 12%（HR 0.88，0.83–0.93）。反方的研究：英國 6 批健康調查共 59,352 人，平均追蹤 11.5 年。全部校正後，養狗和死亡沒有關聯（HR 1.03，0.98–1.09），和心血管死亡也沒有（HR 1.07，0.96–1.18）。挪威一項研究追蹤中位 18.5 年，養狗的人死亡風險幾乎一樣（HR 1.00，0.91–1.09）。那裡養狗的人活動量也不比別人多。瑞典雙胞胎登記裡有 34,202 人能問到生活習慣，在他們身上，養狗和心血管病、死亡風險低的關係沒能重現。澳洲一項研究 15,735 人追蹤 4 年，養狗的人死亡風險低約 23%（OR 0.77，0.59–0.99），其中一部分能用活動量多來解釋。養貓、養鳥、養魚都看不出和死亡有關。美國心臟協會 2013 年的聲明說，養寵物尤其是養狗，用來降低心血管風險「可能合理」，這是最弱一檔的建議。同一份聲明明確反對主要為了降低心血管風險而領養、救助或購買寵物。
+- 證據等級: B
+- 來源: Kramer CK, Mehmood S, Suen RS (2019). Dog ownership and survival: a systematic review and meta-analysis. Circulation: Cardiovascular Quality and Outcomes, 12(10), e005554. <https://doi.org/10.1161/CIRCOUTCOMES.119.005554>；Mubanga M, Byberg L, Nowak C, 等 (2017). Dog ownership and the risk of cardiovascular disease and death – a nationwide cohort study. Scientific Reports, 7, 15821. <https://doi.org/10.1038/s41598-017-16118-6>；Mubanga M, Byberg L, Egenvall A, Ingelsson E, Fall T (2019). Dog ownership and survival after a major cardiovascular event: a register-based prospective study. Circulation: Cardiovascular Quality and Outcomes, 12(10), e005342. <https://doi.org/10.1161/CIRCOUTCOMES.118.005342>；Ding D, Bauman AE, Sherrington C, 等 (2018). Dog ownership and mortality in England: a pooled analysis of six population-based cohorts. American Journal of Preventive Medicine, 54(2), 289-293. <https://doi.org/10.1016/j.amepre.2017.09.012>；Torske MO, Krokstad S, Stamatakis E, Bauman A (2017). Dog ownership and all-cause mortality in a population cohort in Norway: the HUNT study. PLoS ONE, 12(6), e0179832. <https://doi.org/10.1371/journal.pone.0179832>；Taniguchi Y, Ikeuchi T, Yong J (2024). Dog, cat, bird, fish, and other pet ownership and mortality: evidence from the HILDA cohort. PLoS ONE, 19(8), e0305546. <https://doi.org/10.1371/journal.pone.0305546>；Mubanga M, Byberg L, Egenvall A, 等 (2019). Dog ownership and cardiovascular risk factors: a nationwide prospective register-based cohort study. BMJ Open, 9(3), e023447. <https://doi.org/10.1136/bmjopen-2018-023447>；Levine GN, Allen K, Braun LT, 等 (2013). Pet ownership and cardiovascular risk: a scientific statement from the American Heart Association. Circulation, 127(23), 2353-2363. <https://doi.org/10.1161/CIR.0b013e31829201e1>
+- 備註: 爭議。上面全是追蹤記錄，沒有分組對照，所以推不出「為了長壽去養狗」。會養狗的人可能本來就更健康、更愛動，有病或殘疾的人可能本來就不太會養狗，這些差別扣不乾淨。彙整裡那個 24% 沒有扣任何因素，能問到生活習慣的幾項研究裡，差別都消失了。瑞典另一項研究裡，養狗的人開始吃降血壓藥、降血脂藥的反而略多一點，所以就算死亡風險真的低，也不是靠血壓血脂降下來的。能落地的只有一件事：已經養了或本來就想養的，把每天遛狗算進走路的量，夠不夠看本節第 11 條（每天走到 7,000–8,000 步）。牽繩、打疫苗、狗傷人要賠的事，見第 8 節第 30 條（養狗必須牽繩）。家裡老人遛狗怎麼握繩防摔，見第 17 節第 10 條（老人遛狗）。收益量級按彙整的 24% 機械定為大，但這個數沒有扣其他因素。本條的受益人主要是你自己。
+
+### 45. 查出糖尿病前期（血糖偏高、還沒到糖尿病），就靠少吃、減重、多動把糖尿病往後推，每半年複查一次血糖
+<!-- tags: money=0 time=high will=high gain=high scope=health -->
+- 成本: 不花錢，少吃還能省一點。每週快走這類中等強度活動至少 150 分鐘，攤到每天二十來分鐘。每天比原來少吃 400 到 500 大卡。難在要一直堅持，體重減下來以後還要維持住。每半年抽一次血複查，空腹血糖十幾元人民幣。
+- 白話說明: 血糖偏高、還沒到糖尿病的人，少吃、多動、減掉一點體重，得糖尿病的風險能降低三到六成。中國大慶的試驗追蹤了 30 年，這樣做的人死亡機率低約四分之一，平均多活約一年半。但美國和芬蘭的同類試驗沒有看出死亡率有差別。
+- 收益: 大慶研究是在黑龍江大慶做的隨機分組試驗，按診所分組。577 名糖耐量受損（糖尿病前期的一種）的成年人分進對照組，或三種干預組：只管飲食、只加運動、兩樣都做。干預做了 6 年。6 年裡得糖尿病的累計比例，對照組是 67.7%。飲食組 43.8%，運動組 41.1%，飲食加運動組 46.0%。扣掉體重指數和空腹血糖的差別後，三組得糖尿病的風險分別低約 31%、46%、42%。偏瘦和超重的人（以 BMI 25 為界）降幅差不多。追蹤到 23 年，干預組心血管死亡低約 41%（HR 0.59，95% CI 0.36–0.96，即可信區間）。總死亡低約 29%（HR 0.71，0.51–0.99）。得糖尿病的低約 45%（HR 0.55，0.40–0.76）。追蹤到 30 年，干預組得糖尿病的時間往後推了 3.96 年（按中位數算）。心血管事件低約 26%（HR 0.74，0.59–0.92）。眼底、腎臟、神經的嚴重小血管併發症低約 35%（HR 0.65，0.45–0.95）。心血管死亡低約 33%（HR 0.67，0.48–0.94）。總死亡低約 26%（HR 0.74，0.61–0.89）。平均多活 1.44 年（0.20–2.68）。美國 DPP 試驗把 3,234 名血糖偏高的人隨機分組。生活方式組的目標是體重至少減 7%，每週活動至少 150 分鐘。平均追蹤 2.8 年，生活方式組得糖尿病的風險比安慰劑組低 58%（95% CI 48%–66%）。吃二甲雙胍的組低 31%（17%–43%），比改生活方式差。追蹤到平均 15 年，生活方式組仍低 27%（HR 0.73，0.65–0.83），但差距逐年縮小。追蹤到中位 21 年，生活方式組的總死亡率和安慰劑組沒有差別（HR 1.02，0.81–1.28）。心血管死亡也沒有差別（HR 1.18，0.77–1.81）。芬蘭 DPS 試驗隨機分了 522 名超重的糖耐量受損者。4 年累計得糖尿病的，干預組 11%，對照組 23%。試驗期間風險低 58%。停掉一對一輔導後接著追蹤，到中位 7 年時仍低 43%。平均追蹤到 10.6 年，總死亡沒有明顯差別（HR 0.57，0.21–1.58）。心血管病也沒有（HR 1.04，0.72–1.51）。「健康中國行動」（中國政府推出的國家健康計畫）給的界線是：空腹血糖 6.1 到 7.0 mmol/L（不含 7.0）就算糖尿病前期。喝下糖水後 2 小時血糖 7.8 到 11.1 mmol/L（不含 11.1）也算。它建議超重或肥胖的人把體重指數降到或接近 24，或體重至少減 7%。每天飲食總熱量至少少 400 到 500 大卡，中等強度活動每週至少 150 分鐘。每半年查一次空腹血糖或餐後 2 小時血糖。
+- 證據等級: A
+- 來源: Pan XR, Li GW, Hu YH, 等 (1997). Effects of diet and exercise in preventing NIDDM in people with impaired glucose tolerance. The Da Qing IGT and Diabetes Study. Diabetes Care, 20(4), 537-544. <https://doi.org/10.2337/diacare.20.4.537>；Li G, Zhang P, Wang J, 等 (2014). Cardiovascular mortality, all-cause mortality, and diabetes incidence after lifestyle intervention for people with impaired glucose tolerance in the Da Qing Diabetes Prevention Study: a 23-year follow-up study. Lancet Diabetes & Endocrinology, 2(6), 474-480. <https://doi.org/10.1016/S2213-8587(14)70057-9>；Gong Q, Zhang P, Wang J, 等 (2019). Morbidity and mortality after lifestyle intervention for people with impaired glucose tolerance: 30-year results of the Da Qing Diabetes Prevention Outcome Study. Lancet Diabetes & Endocrinology, 7(6), 452-461. <https://doi.org/10.1016/S2213-8587(19)30093-2>；Knowler WC, Barrett-Connor E, Fowler SE, 等 (2002). Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. NEJM, 346(6), 393-403. <https://doi.org/10.1056/NEJMoa012512>；Diabetes Prevention Program Research Group (2015). Long-term effects of lifestyle intervention or metformin on diabetes development and microvascular complications over 15-year follow-up: the Diabetes Prevention Program Outcomes Study. Lancet Diabetes & Endocrinology, 3(11), 866-875. <https://doi.org/10.1016/S2213-8587(15)00291-0>；Lee CG, Heckman-Stoddard B, Dabelea D, 等 (2021). Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care, 44(12), 2775-2782. <https://doi.org/10.2337/dc21-1046>（争议方）；Tuomilehto J, Lindström J, Eriksson JG, 等 (2001). Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance. NEJM, 344(18), 1343-1350. <https://doi.org/10.1056/NEJM200105033441801>；Lindström J, Ilanne-Parikka P, Peltonen M, 等 (2006). Sustained reduction in the incidence of type 2 diabetes by lifestyle intervention: follow-up of the Finnish Diabetes Prevention Study. Lancet, 368(9548), 1673-1679. <https://doi.org/10.1016/S0140-6736(06)69701-8>；Uusitupa M, Peltonen M, Lindström J, 等 (2009). Ten-year mortality and cardiovascular morbidity in the Finnish Diabetes Prevention Study—secondary analysis of the randomized trial. PLoS ONE, 4(5), e5656. <https://doi.org/10.1371/journal.pone.0005656>（争议方）；健康中国行动推进委员会 (2019). 健康中国行动（2019—2030年），（十四）糖尿病防治行动（湖南省卫生健康委员会转载）. <https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/tzggzcfg/202003/t20200303_11359594.html>
+- 備註: 爭議。三項試驗都看到得糖尿病的人少了、得的時間晚了。但能不能少死，只有大慶試驗看到了。大慶只有 577 人，作者自己也說人數少，因為試驗本來是為看糖尿病設計的。美國 DPP 試驗結束後，每個人都被請去上了改過的生活方式課，安慰劑組也不例外。芬蘭試驗的作者寫明，人數可能不夠，看不出小的差別。所以推遲糖尿病是確定的，延壽還沒有定論。美國和芬蘭試驗裡的人平均體重指數在 30 以上。大慶的人平均只有 25.7。試驗只勸體重指數超過 25 的人減重，體重也沒減多少。作者認為主要靠改吃法和多動。所以不胖的人也照樣要改吃法、多動。先停掉甜飲料，見本節第 7 條（不喝含糖飲料）。運動量夠不夠，對照本節第 11 條（每天走到 7,000–8,000 步）。體重減到哪裡，對照本節第 32 條（把 BMI 控制在 20–25）。怎麼查出來，見第 1 節第 8 條（查一次空腹血糖）。二甲雙胍也能減少得糖尿病，但效果不如改生活方式，要不要吃由醫生決定。收益量級按大慶總死亡率低約 26% 定為大，但美國和芬蘭的試驗沒有重現。本條的受益人主要是你自己。
+
+### 46. 家裡的花生、玉米、堅果和米麵發了霉，整包扔掉，別挑掉霉的吃剩下的；嚼到發苦的堅果馬上吐掉
+<!-- tags: money=0 time=low will=some gain=mid scope=health -->
+- 成本: 扔掉一包花生、堅果或一袋米麵，幾元到幾十元人民幣。平時把糧食和堅果放在乾燥、通風、陰涼的地方，買小包裝，少囤貨。難在捨不得扔，尤其是說服家裡的長輩。
+- 白話說明: 花生、玉米發霉會長出黃麴毒素，它能讓人得肝癌。上海一項研究裡，尿裡查出這種毒素的人，得肝癌的風險約是查不出的人的 3.4 倍。帶 B 型肝炎病毒又查出毒素的人，約是兩樣都沒有的人的 59.4 倍。這種毒素炒、煮、油炸都很難去除。
+- 收益: 黃麴毒素是國際癌症研究機構定的 1 類致癌物（確定能讓人得癌），致的是肝癌。它在花生和玉米裡最常見，炒、煮、油炸這類一般烹調都很難破壞它。上海一項研究從 1986 年起追蹤 18,244 名中年男性，入組時各留一次尿。追蹤約 70,000 人年，查出 55 例肝癌。拿其中 50 例和同一批人裡 267 名沒得病的人比。尿裡查出黃麴毒素的，肝癌風險約為 3.4 倍（RR 3.4，95% CI 1.1–10.0，即可信區間）。B 型肝炎表面抗原陽性的約為 7.3 倍（2.2–24.4）。兩樣都有的約為 59.4 倍（16.6–212.0），比的是兩樣都沒有的人。同一批人早期的分析裡，扣掉 B 型肝炎、吸菸、喝酒和教育程度，查出毒素的約為 3.8 倍（1.2–12.2）。江蘇啟東過去是肝癌高發區，1980 年代起當地主食從玉米換成了大米。居民血液裡的毒素標記中位數，從 1989 年的 19.3 pg/mg 降到 2009 年查不出（低於 0.5）。35 歲以下居民的肝癌死亡率，1960 年代到 1980 年代出生的幾批人降了一半以上。這幾批人都出生在新生兒普遍接種 B 型肝炎疫苗之前。作者估算，肝癌死亡的下降裡約 65% 可以歸到少吃了毒素，其中 83% 落在 B 型肝炎感染者身上。按全球的估算，B 型肝炎帶原者吃進同樣多的毒素，致癌能力約為不帶病毒的人的 30 倍。中國每年有一批肝癌可以歸到這種毒素。其中約 5,300 到 14,400 例出在 B 型肝炎帶原者身上，約 1,990 到 4,430 例出在不帶病毒的人身上。
+- 證據等級: B
+- 來源: IARC (2012). Aflatoxins. In: Chemical Agents and Related Occupations. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol 100F, 225-248. <https://publications.iarc.fr/123>；Qian GS, Ross RK, Yu MC, 等 (1994). A follow-up study of urinary markers of aflatoxin exposure and liver cancer risk in Shanghai, People's Republic of China. Cancer Epidemiology, Biomarkers & Prevention, 3(1), 3-10. <https://pubmed.ncbi.nlm.nih.gov/8118382/>；Ross RK, Yuan JM, Yu MC, 等 (1992). Urinary aflatoxin biomarkers and risk of hepatocellular carcinoma. Lancet, 339(8799), 943-946. <https://doi.org/10.1016/0140-6736(92)91528-G>；Chen JG, Egner PA, Ng D, 等 (2013). Reduced aflatoxin exposure presages decline in liver cancer mortality in an endemic region of China. Cancer Prevention Research, 6(10), 1038-1045. <https://doi.org/10.1158/1940-6207.CAPR-13-0168>；Liu Y, Wu F (2010). Global burden of aflatoxin-induced hepatocellular carcinoma: a risk assessment. Environmental Health Perspectives, 118(6), 818-824. <https://doi.org/10.1289/ehp.0901388>；农业农村部油料产品质量安全风险评估实验室（武汉）(2020). 农产品及食品中黄曲霉毒素污染识别与预防. 农业农村部农产品质量安全监管司科普天地. <https://jgs.moa.gov.cn/kptd/202011/t20201110_6356097.htm>；广东省卫生健康委员会 (2015). 勿吃霉变食物 谨防黄曲霉素中毒. <https://wsjkw.gd.gov.cn/gkmlpt/content/2/2129/post_2129622.html>；USDA Food Safety and Inspection Service. Molds on Food: Are They Dangerous? <https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/molds-food-are-they-dangerous>
+- 備註: 收益欄的數字算的是「吃進多少毒素」和肝癌的關係，沒有研究直接測過「家裡扔掉發霉的東西」能少多少肝癌。上海那項只在入組時驗過一次尿。依飲食問卷估算的吃進量，和肝癌看不出關聯，說明問卷估不準，要靠化驗。啟東居民的毒素標記到 2009 年已經查不出。眼下多數家庭吃進的量很可能遠低於當年，這是判斷，沒有全國數字。所以收益量級沒有照 3.4 倍機械定為大，而是依判斷定為中。為什麼整包扔：廣東省衛健委提醒，堅果花生打開一聞有變味，就整袋扔掉，免得抖開後霉菌孢子飛散。有霉味的食物要堅決丟棄。美國農業部的食品安全指南寫明，花生醬、豆類和堅果發了霉一律扔掉，煮好的米飯麵條、麵包也是。只有高麗菜、紅蘿蔔這類水分少的硬蔬菜，可以切掉霉點周圍至少 2.5 公分再吃。農業農村部提醒，發霉的花生吃進嘴裡會有苦味和異味，誤吃了要馬上吐出來並漱口。B 型肝炎帶原者的風險疊加最明顯，沒查過 B 型肝炎的，見第 1 節第 14 條（查 B 型肝炎兩對半）。買油的事見本節第 40 條（不買小作坊散裝自榨花生油），本條管家裡囤的糧食和堅果。泡發木耳、酵米麵那類急性中毒是另一種毒素，見第 1 節第 48 條（家裡不自製酵米麵）。沒發霉的堅果照樣值得吃，見本節第 22 條（每天吃一小把堅果）。本條的受益人主要是你和一起吃飯的家人。
+
+### 47. 別吃淡水魚蝦做的魚生、生魚片、魚生粥和醉蝦，常吃過的去醫院查一次肝吸蟲，查出來按醫囑吃吡喹酮
+<!-- tags: money=low time=low will=some gain=mid scope=health -->
+- 成本: 不吃魚生不花錢，難在改掉多年的口味，聚餐時還得推掉。常吃過的去醫院驗一次大便查蟲卵，費用各地不同。查出來按醫生開的劑量吃吡喹酮，一般吃 1 到 2 天。
+- 白話說明: 生吃淡水魚蝦會染上肝吸蟲。它是確定能致癌的寄生蟲，染上的人得膽管癌的機會約是沒染上的四到五倍。醋、酒、芥末都無法有效殺死它。染上了吃兩天藥，九成以上能治好。
+- 收益: 華支睪吸蟲俗稱肝吸蟲。世界衛生組織下屬的國際癌症研究機構 2009 年開會評定，長期感染它對人致癌。它會導致膽管癌，列為 1 類。1994 年那次評定只給了 2A 類（很可能致癌）。把已發表的研究合起來算，感染肝吸蟲的人得膽管癌的風險約為 4.8 倍。原文是相對風險 4.8（95% CI 2.8–8.4，即可信區間）。這個數把東南亞另一種肝吸蟲也算在內。同一篇裡，B 型肝炎是 2.6 倍，C 型肝炎是 1.8 倍，肝吸蟲是最強的一項。另一篇彙整了 36 項研究。病例對照研究裡，膽管癌約為 4.37 倍（OR 4.37，2.84–6.72）。追蹤研究裡約為 10.43 倍（RR 10.43，2.90–37.47）。膽管炎、膽囊炎約為 7.80 倍（RR 7.80）。膽結石約為 2.42 倍（RR 2.42）。肝細胞癌約為 4.69 倍（OR 4.69）。肝硬化沒看出顯著關聯。感染越重，這些病越多。2014 到 2015 年全國調查，感染率 0.47%，約 6,000,000 人。感染率超過 1% 的是廣東、廣西、黑龍江、吉林四省。用 2016 到 2021 年的監測資料推算，2020 年全國約 0.67%，約 9,460,000 人。其中廣西約 8.92%，廣東約 2.99%。國家疾控局等 15 個部門 2024 年發布了防治方案。方案以 2018 到 2022 年監測點平均感染率為基線。廣西 8.75%，吉林 4.38%，黑龍江 3.16%，廣東 2.95%。國家食品安全風險評估中心 2026 年提示：酒、醋、芥末等調味料無法有效殺滅肝吸蟲。冷凍要在零下 20℃ 以下連續凍至少 7 天。加熱要讓食物中心達到 70℃ 以上，持續 10 分鐘以上。國際癌症研究機構也寫明，醃過、燻過的淡水魚一樣會傳染。治療看 2022 年一篇彙整，共 26 項試驗、3,340 人。世界衛生組織推薦的吡喹酮用法是依體重每次 25 毫克每公斤，一天 3 次，吃 2 天。對華支睪吸蟲的預測治癒率為 98.5%（85.4%–99.9%）。
+- 證據等級: B
+- 來源: IARC Working Group on the Evaluation of Carcinogenic Risks to Humans (2012). Opisthorchis viverrini and Clonorchis sinensis. In: Biological Agents. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol. 100B, 341-370. <https://publications.iarc.who.int/119>；Shin HR, Oh JK, Masuyer E, 等 (2010). Epidemiology of cholangiocarcinoma: an update focusing on risk factors. Cancer Science, 101(3), 579-585. <https://doi.org/10.1111/j.1349-7006.2009.01458.x>；Xia J, Jiang SC, Peng HJ (2015). Association between liver fluke infection and hepatobiliary pathological changes: a systematic review and meta-analysis. PLoS ONE, 10(7), e0132673. <https://doi.org/10.1371/journal.pone.0132673>；Qian MB, Chen J, Bergquist R, 等 (2019). Neglected tropical diseases in the People's Republic of China: progress towards elimination. Infectious Diseases of Poverty, 8, 86. <https://doi.org/10.1186/s40249-019-0599-4>；Qian MB, Huang JL, Wang L, 等 (2025). Clonorchiasis in China: geospatial modeling of the population infected and at risk, based on national surveillance. Journal of Infection, 91(1), 106528. <https://doi.org/10.1016/j.jinf.2025.106528>；国家疾控局等 15 部门 (2024). 关于印发全国包虫病等重点寄生虫病综合防治实施方案（2024—2030 年）的通知，附表 7. <https://www.gov.cn/zhengce/zhengceku/202405/content_6950309.htm>；国家食品安全风险评估中心 (2026). 关于慎食淡水生鲜食品预防肝吸虫病的风险提示（重庆市疾病预防控制中心转载）. <https://www.cqcdc.org/index.php?a=shows&catid=179&id=3861>；Qian MB, Patel C, Palmeirim MS, 等 (2022). Efficacy of drugs against clonorchiasis and opisthorchiasis: a systematic review and network meta-analysis. The Lancet Microbe, 3(8), e616-e624. <https://doi.org/10.1016/S2666-5247(22)00026-X>；中国疾病预防控制中心寄生虫病预防控制所 (2020). 华支睾吸虫病（肝吸虫病）防治知识（广东省疾病预防控制中心转载）. <https://cdcp.gd.gov.cn/jkjy/jkzt/jscbfz/content/post_3439516.html>；广东省疾病预防控制中心 (2023). 吃鱼生没余生？警惕潜伏在鱼生中的“凶手”肝吸虫！ <https://cdcp.gd.gov.cn/jkjy/jkts/content/post_4274108.html>；香港食物安全中心. 淡水鱼刺身的食物安全. <https://www.cfs.gov.hk/sc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_148_01.html>
+- 備註: 上面的風險數字都來自病例對照和追蹤記錄，沒有分組對照。也沒有研究直接比較過「查了再治」能不能少得膽管癌。膽管癌本來就少見，所以倍數雖高，落到每個人頭上多出的風險不大。證據等級因此給 B。約 4.8 倍比的是染上和沒染上的人，不是這個做法能少多少病，所以收益量級依判斷定為中，和本節第 46 條（發了霉整包扔掉）的定法一樣。廣東疾控說，肝吸蟲在人體裡能活 20 到 30 年。輕的常常沒有症狀，所以常吃魚生的人，別等不舒服才查。驗大便找蟲卵是確診的辦法，B 超、電腦斷層、抽血只能輔助。吡喹酮要由醫生依體重和感染輕重定劑量。寄生蟲病預防控制所寫明，在有囊蟲病的地方用大劑量前，要先問清病史。治好了接著吃魚生，還會再染上。切生魚的刀和砧板要和熟食分開。海魚生魚片裡常見的是異尖線蟲這類別的寄生蟲。香港食物安全中心建議買持牌店的，老人、小孩、孕婦別吃生魚。孩子染上會影響長身體。B 型、C 型肝炎同樣會傷肝致癌，見第 1 節第 14 條（查 B 型肝炎兩對半）和第 1 節第 45 條（查一次 C 型肝炎抗體）。本條的受益人主要是你自己和一起吃飯的家人。
