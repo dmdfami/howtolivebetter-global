@@ -1,0 +1,82 @@
+{
+  "lang": "fr",
+  "name": "Français",
+  "country": "",
+  "siteTitle": "Le guide de la vie rentable",
+  "tagline": "Dépenser le moins d’argent, de temps et d’efforts possible, pour gagner le plus de longévité, d’argent et de liberté",
+  "backLink": "[← Sommaire](../README.md)",
+  "fields": {
+    "成本": "Coût",
+    "说人话": "En clair",
+    "收益": "Bénéfice",
+    "证据等级": "Niveau de preuve",
+    "来源": "Sources",
+    "备注": "Notes"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "Chine uniquement :",
+  "disputedMarker": "Contesté",
+  "refStyle": "section N, point M",
+  "tags": {
+    "money": {
+      "0": "Aucun",
+      "label": "Argent",
+      "low": "Faible",
+      "high": "Élevé"
+    },
+    "time": {
+      "label": "Temps",
+      "low": "Peu",
+      "mid": "Moyen",
+      "high": "Beaucoup"
+    },
+    "will": {
+      "label": "Volonté",
+      "no": "Inutile",
+      "some": "Un peu",
+      "high": "Beaucoup"
+    },
+    "gain": {
+      "label": "Bénéfice",
+      "high": "Grand",
+      "mid": "Moyen",
+      "low": "Petit"
+    },
+    "scope": {
+      "label": "Type de bénéfice",
+      "health": "Santé, longévité",
+      "money": "Argent",
+      "time": "Temps",
+      "freedom": "Liberté, sécurité juridique"
+    },
+    "who": {
+      "label": "Public",
+      "35plus": "Dès 35 ans",
+      "60plus": "Dès 60 ans",
+      "women": "Femmes",
+      "infant": "Nourrissons",
+      "child": "Enfants",
+      "pregnancy": "Grossesse",
+      "elderly": "Personnes âgées"
+    }
+  },
+  "ui": {
+    "search": "Rechercher un point…",
+    "allSections": "Toutes les sections",
+    "items": "points",
+    "evidence": "Preuves",
+    "listen": "Écouter",
+    "readMore": "Voir le détail",
+    "source": "Original en chinois",
+    "license": "Contenu sous licence CC BY 4.0, traduit et adapté de",
+    "translatedFrom": "Traduit de l’original, synchronisé au commit",
+    "cnOnly": "Applicable uniquement en Chine",
+    "filters": "Filtrer",
+    "clear": "Effacer",
+    "noResults": "Aucun point ne correspond.",
+    "prev": "Point précédent",
+    "next": "Point suivant",
+    "section": "Section",
+    "item": "Point"
+  }
+}

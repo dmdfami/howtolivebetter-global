@@ -32,10 +32,14 @@ function linkRefs(html, loc, nn) {
     .replace(/\u0000(\d+)\u0000/g, (m, i) => held[i]);
 }
 
+const RTL = new Set(['ar', 'he', 'fa', 'ur']);
+const ready = l => Object.keys(readBookDir(resolve(localeDir(l), 'book'))).length > 0;
+const LANGS = locales().filter(ready).map(code => ({ code, name: readJson(resolve(localeDir(code), 'locale.json')).name ?? code }));
+
 function page({ loc, L, title, desc, path, body, crumbs = [], alternates = [], extraCss = [], extraJs = [] }) {
   const url = `${BASE}/${path}`;
   return `<!doctype html>
-<html lang="${loc}">
+<html lang="${loc}"${RTL.has(loc) ? ' dir="rtl"' : ''}>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -57,6 +61,7 @@ ${extraCss.map(c => `<link rel="stylesheet" href="/assets/${c}.css">`).join('\n'
   <a class="brand" href="/${loc}/">${esc(L.siteTitle)}</a>
   ${L.landing ? `<a class="navlink" href="/${loc}/game/">${esc(L.landing.game.title)}</a>` : ''}
   <form class="search" action="/${loc}/search/" role="search"><input name="q" type="search" placeholder="${esc(L.ui.search)}" aria-label="${esc(L.ui.search)}"></form>
+  <select class="langsel" aria-label="Language" data-loc="${loc}">${LANGS.map(l => `<option value="${l.code}"${l.code === loc ? ' selected' : ''}>${esc(l.name)}</option>`).join('')}</select>
   <button class="theme" type="button" aria-label="Theme">◐</button>
 </header>
 ${crumbs.length ? `<nav class="crumbs">${crumbs.map(c => c.href ? `<a href="${c.href}">${esc(c.text)}</a>` : `<span>${esc(c.text)}</span>`).join(' / ')}</nav>` : ''}
@@ -103,10 +108,10 @@ ${plainLine ? `<p class="plain">${linkRefs(mdInline(plainLine), loc, nn)}</p>` :
 }
 
 const sitemap = [];
-for (const loc of locales()) {
+for (const { code: loc } of LANGS) {
   const L = readJson(resolve(localeDir(loc), 'locale.json'));
   const sync = readJson(resolve(localeDir(loc), 'sync.json'));
-  L._commit = sync.commit.slice(0, 7);
+  L._commit = (sync.commit ?? readJson(resolve(ROOT, 'tools/x/chunks.json')).commit).slice(0, 7);
   const landingPath = resolve(localeDir(loc), 'landing.json');
   if (existsSync(landingPath)) L.landing = readJson(landingPath);
   const audioPath = resolve(localeDir(loc), 'audio.json');
@@ -185,7 +190,22 @@ ${ch.items.map(it => itemCard(loc, L, nn, it, audio, { full: false })).join('\n'
   writeFileSync(resolve(DIST, loc, 'index.json'), JSON.stringify({ sections: Object.fromEntries(sections.map(([nn, ch]) => [ch.number, ch.title])), items: index }));
 }
 
-writeFileSync(resolve(DIST, 'index.html'), `<!doctype html><meta charset="utf-8"><title>HowToLiveBetter</title><meta http-equiv="refresh" content="0; url=/vi/"><a href="/vi/">Tiếng Việt</a>`);
+const codes = LANGS.map(l => l.code);
+writeFileSync(resolve(DIST, 'index.html'), `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>HowToLiveBetter</title>
+<script>
+const codes = ${JSON.stringify(codes)};
+let to = null;
+try { to = localStorage.getItem('lang'); } catch {}
+if (!codes.includes(to)) {
+  for (const l of navigator.languages || [navigator.language]) {
+    const low = String(l).toLowerCase();
+    to = codes.find(c => c.toLowerCase() === low) ?? (/^zh-(tw|hk|hant)/.test(low) ? 'zh-Hant' : codes.find(c => c.toLowerCase() === low.split('-')[0]));
+    if (to) break;
+  }
+}
+location.replace('/' + (to ?? (codes.includes('en') ? 'en' : codes[0])) + '/');
+</script>
+<noscript>${LANGS.map(l => `<a href="/${l.code}/">${esc(l.name)}</a>`).join(' · ')}</noscript>`);
 writeFileSync(resolve(DIST, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemap.map(p => `<url><loc>${BASE}/${p}</loc></url>`).join('\n')}\n</urlset>\n`);
 writeFileSync(resolve(DIST, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${BASE}/sitemap.xml\n`);
 writeFileSync(resolve(DIST, '_headers'), `/assets/*\n  Cache-Control: public, max-age=86400\n/*/index.json\n  Cache-Control: public, max-age=3600\n`);

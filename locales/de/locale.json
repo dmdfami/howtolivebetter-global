@@ -1,0 +1,82 @@
+{
+  "lang": "de",
+  "name": "Deutsch",
+  "country": "",
+  "siteTitle": "Der kluge Lebensratgeber",
+  "tagline": "Mit dem geringsten Geld-, Zeit- und Kraftaufwand die meisten Lebensjahre, das meiste Geld und die größte Freiheit gewinnen",
+  "backLink": "[← Inhalt](../README.md)",
+  "fields": {
+    "成本": "Kosten",
+    "说人话": "Klartext",
+    "收益": "Nutzen",
+    "证据等级": "Evidenzgrad",
+    "来源": "Quellen",
+    "备注": "Anmerkungen"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "Nur China:",
+  "disputedMarker": "Umstritten",
+  "refStyle": "Abschnitt N, Eintrag M",
+  "tags": {
+    "money": {
+      "0": "Kostenlos",
+      "label": "Geld",
+      "low": "Wenig",
+      "high": "Viel"
+    },
+    "time": {
+      "label": "Zeit",
+      "low": "Wenig",
+      "mid": "Mittel",
+      "high": "Viel"
+    },
+    "will": {
+      "label": "Willenskraft",
+      "no": "Nicht nötig",
+      "some": "Etwas",
+      "high": "Viel"
+    },
+    "gain": {
+      "label": "Nutzen",
+      "high": "Groß",
+      "mid": "Mittel",
+      "low": "Gering"
+    },
+    "scope": {
+      "label": "Art des Nutzens",
+      "health": "Gesundheit, Lebensdauer",
+      "money": "Geld",
+      "time": "Zeit",
+      "freedom": "Freiheit, Rechtssicherheit"
+    },
+    "who": {
+      "label": "Für",
+      "35plus": "Ab 35 Jahren",
+      "60plus": "Ab 60 Jahren",
+      "women": "Frauen",
+      "infant": "Säuglinge",
+      "child": "Kinder",
+      "pregnancy": "Schwangerschaft",
+      "elderly": "Ältere Menschen"
+    }
+  },
+  "ui": {
+    "search": "Eintrag suchen…",
+    "allSections": "Alle Abschnitte",
+    "items": "Einträge",
+    "evidence": "Belege",
+    "listen": "Anhören",
+    "readMore": "Details",
+    "source": "Chinesisches Original",
+    "license": "Inhalt unter CC BY 4.0, übersetzt und angepasst aus",
+    "translatedFrom": "Übersetzt aus dem Original, synchronisiert bis Commit",
+    "cnOnly": "Nur in China gültig",
+    "filters": "Filter",
+    "clear": "Filter zurücksetzen",
+    "noResults": "Keine passenden Einträge.",
+    "prev": "Vorheriger Eintrag",
+    "next": "Nächster Eintrag",
+    "section": "Abschnitt",
+    "item": "Eintrag"
+  }
+}

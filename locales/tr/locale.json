@@ -1,0 +1,82 @@
+{
+  "lang": "tr",
+  "name": "Türkçe",
+  "country": "",
+  "siteTitle": "Değer Katan Yaşam Rehberi",
+  "tagline": "En az parayı, zamanı ve emeği harcayarak en çok ömre, paraya ve özgürlüğe kavuşun",
+  "backLink": "[← İçindekiler](../README.md)",
+  "fields": {
+    "成本": "Maliyet",
+    "说人话": "Sade anlatım",
+    "收益": "Fayda",
+    "证据等级": "Kanıt düzeyi",
+    "来源": "Kaynaklar",
+    "备注": "Notlar"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "Yalnızca Çin için:",
+  "disputedMarker": "Tartışmalı",
+  "refStyle": "bölüm N, madde M",
+  "tags": {
+    "money": {
+      "0": "Yok",
+      "label": "Para",
+      "low": "Az",
+      "high": "Çok"
+    },
+    "time": {
+      "label": "Zaman",
+      "low": "Az",
+      "mid": "Orta",
+      "high": "Çok"
+    },
+    "will": {
+      "label": "İrade",
+      "no": "Gerekmez",
+      "some": "Biraz",
+      "high": "Çok"
+    },
+    "gain": {
+      "label": "Kazanç",
+      "high": "Büyük",
+      "mid": "Orta",
+      "low": "Küçük"
+    },
+    "scope": {
+      "label": "Kazanç türü",
+      "health": "Sağlık, ömür",
+      "money": "Para",
+      "time": "Zaman",
+      "freedom": "Özgürlük, yasal güvence"
+    },
+    "who": {
+      "label": "Kimler için",
+      "35plus": "35 yaş ve üzeri",
+      "60plus": "60 yaş ve üzeri",
+      "women": "Kadınlar",
+      "infant": "Bebekler",
+      "child": "Çocuklar",
+      "pregnancy": "Hamilelik",
+      "elderly": "Yaşlılar"
+    }
+  },
+  "ui": {
+    "search": "Madde ara…",
+    "allSections": "Tüm bölümler",
+    "items": "madde",
+    "evidence": "Kanıt",
+    "listen": "Dinle",
+    "readMore": "Ayrıntılar",
+    "source": "Çince orijinal",
+    "license": "İçerik CC BY 4.0 lisansı altındadır; şu kaynaktan çevrilip yerelleştirilmiştir:",
+    "translatedFrom": "Orijinalinden çevrildi, commit:",
+    "cnOnly": "Yalnızca Çin'de geçerli",
+    "filters": "Filtre",
+    "clear": "Filtreyi temizle",
+    "noResults": "Eşleşen madde yok.",
+    "prev": "Önceki madde",
+    "next": "Sonraki madde",
+    "section": "Bölüm",
+    "item": "Madde"
+  }
+}

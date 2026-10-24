@@ -1,0 +1,82 @@
+{
+  "lang": "es",
+  "name": "Español",
+  "country": "",
+  "siteTitle": "Guía para una vida que vale la pena",
+  "tagline": "Gasta el mínimo de dinero, tiempo y esfuerzo, y obtén la mayor longevidad, dinero y libertad",
+  "backLink": "[← Índice](../README.md)",
+  "fields": {
+    "成本": "Coste",
+    "说人话": "En palabras sencillas",
+    "收益": "Beneficio",
+    "证据等级": "Nivel de evidencia",
+    "来源": "Fuentes",
+    "备注": "Notas"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "Solo China:",
+  "disputedMarker": "Disputado",
+  "refStyle": "sección N, ítem M",
+  "tags": {
+    "money": {
+      "0": "Nada",
+      "label": "Dinero",
+      "low": "Poco",
+      "high": "Mucho"
+    },
+    "time": {
+      "label": "Tiempo",
+      "low": "Poco",
+      "mid": "Medio",
+      "high": "Mucho"
+    },
+    "will": {
+      "label": "Voluntad",
+      "no": "No hace falta",
+      "some": "Algo",
+      "high": "Mucha"
+    },
+    "gain": {
+      "label": "Beneficio",
+      "high": "Grande",
+      "mid": "Medio",
+      "low": "Pequeño"
+    },
+    "scope": {
+      "label": "Tipo de beneficio",
+      "health": "Salud, longevidad",
+      "money": "Dinero",
+      "time": "Tiempo",
+      "freedom": "Libertad, seguridad legal"
+    },
+    "who": {
+      "label": "Para",
+      "35plus": "Desde los 35",
+      "60plus": "Desde los 60",
+      "women": "Mujeres",
+      "infant": "Bebés",
+      "child": "Niños",
+      "pregnancy": "Embarazo",
+      "elderly": "Personas mayores"
+    }
+  },
+  "ui": {
+    "search": "Buscar ítem…",
+    "allSections": "Todas las secciones",
+    "items": "ítems",
+    "evidence": "Evidencia",
+    "listen": "Escuchar",
+    "readMore": "Ver detalles",
+    "source": "Original en chino",
+    "license": "Contenido bajo licencia CC BY 4.0, traducido y adaptado de",
+    "translatedFrom": "Traducido del original, sincronizado con el commit",
+    "cnOnly": "Solo aplica en China",
+    "filters": "Filtrar",
+    "clear": "Quitar filtros",
+    "noResults": "No hay ítems que coincidan.",
+    "prev": "Ítem anterior",
+    "next": "Ítem siguiente",
+    "section": "Sección",
+    "item": "Ítem"
+  }
+}

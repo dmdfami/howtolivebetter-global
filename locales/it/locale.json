@@ -1,0 +1,82 @@
+{
+  "lang": "it",
+  "name": "Italiano",
+  "country": "",
+  "siteTitle": "Guida alla vita che conviene",
+  "tagline": "Spendere il meno possibile di denaro, tempo e fatica, e ottenere il massimo in longevità, denaro e libertà",
+  "backLink": "[← Indice](../README.md)",
+  "fields": {
+    "成本": "Costo",
+    "说人话": "In parole semplici",
+    "收益": "Beneficio",
+    "证据等级": "Livello di evidenza",
+    "来源": "Fonti",
+    "备注": "Note"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "Solo per la Cina:",
+  "disputedMarker": "Controverso",
+  "refStyle": "sezione N, voce M",
+  "tags": {
+    "money": {
+      "0": "Nessuno",
+      "label": "Denaro",
+      "low": "Poco",
+      "high": "Molto"
+    },
+    "time": {
+      "label": "Tempo",
+      "low": "Poco",
+      "mid": "Medio",
+      "high": "Molto"
+    },
+    "will": {
+      "label": "Forza di volontà",
+      "no": "Non serve",
+      "some": "Un po'",
+      "high": "Molta"
+    },
+    "gain": {
+      "label": "Beneficio",
+      "high": "Grande",
+      "mid": "Medio",
+      "low": "Piccolo"
+    },
+    "scope": {
+      "label": "Tipo di beneficio",
+      "health": "Salute, longevità",
+      "money": "Denaro",
+      "time": "Tempo",
+      "freedom": "Libertà, sicurezza legale"
+    },
+    "who": {
+      "label": "Destinato a",
+      "35plus": "Dai 35 anni",
+      "60plus": "Dai 60 anni",
+      "women": "Donne",
+      "infant": "Neonati",
+      "child": "Bambini",
+      "pregnancy": "In gravidanza",
+      "elderly": "Anziani"
+    }
+  },
+  "ui": {
+    "search": "Cerca voce…",
+    "allSections": "Tutte le sezioni",
+    "items": "voci",
+    "evidence": "Evidenze",
+    "listen": "Ascolta",
+    "readMore": "Leggi di più",
+    "source": "Originale in cinese",
+    "license": "Contenuto con licenza CC BY 4.0, tradotto e adattato da",
+    "translatedFrom": "Tradotto dall'originale, allineato al commit",
+    "cnOnly": "Valido solo in Cina",
+    "filters": "Filtri",
+    "clear": "Rimuovi filtri",
+    "noResults": "Nessuna voce corrisponde.",
+    "prev": "Voce precedente",
+    "next": "Voce successiva",
+    "section": "Sezione",
+    "item": "Voce"
+  }
+}

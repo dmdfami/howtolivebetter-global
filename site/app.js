@@ -37,3 +37,13 @@ if (box) {
     render();
   });
 }
+
+// Language switcher: stay on the same page when it exists in the other language, else go to its home.
+document.querySelector('.langsel')?.addEventListener('change', async e => {
+  const from = e.target.dataset.loc, to = e.target.value;
+  const rest = location.pathname.replace(new RegExp(`^/${from}/?`), '');
+  let target = `/${to}/${rest}`;
+  try { if (!(await fetch(target, { method: 'HEAD' })).ok) target = `/${to}/`; } catch { target = `/${to}/`; }
+  try { localStorage.setItem('lang', to); } catch {}
+  location.href = target;
+});

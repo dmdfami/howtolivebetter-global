@@ -1,0 +1,82 @@
+{
+  "lang": "zh-Hant",
+  "name": "繁體中文",
+  "country": "",
+  "siteTitle": "高CP值人生指南",
+  "tagline": "用最少的金錢、時間和心力，換取最多的壽命、財富與自由",
+  "backLink": "[← 目錄](../README.md)",
+  "fields": {
+    "成本": "成本",
+    "说人话": "白話說明",
+    "收益": "收益",
+    "证据等级": "證據等級",
+    "来源": "來源",
+    "备注": "備註"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "僅限中國大陸：",
+  "disputedMarker": "有爭議",
+  "refStyle": "第 N 節，第 M 項",
+  "tags": {
+    "money": {
+      "0": "免費",
+      "label": "金錢",
+      "low": "少",
+      "high": "多"
+    },
+    "time": {
+      "label": "時間",
+      "low": "少",
+      "mid": "適中",
+      "high": "多"
+    },
+    "will": {
+      "label": "意志力",
+      "no": "不需要",
+      "some": "少許",
+      "high": "大量"
+    },
+    "gain": {
+      "label": "收益",
+      "high": "大",
+      "mid": "中",
+      "low": "小"
+    },
+    "scope": {
+      "label": "收益類型",
+      "health": "健康、壽命",
+      "money": "金錢",
+      "time": "時間",
+      "freedom": "自由、法律安全"
+    },
+    "who": {
+      "label": "適用對象",
+      "35plus": "35 歲以上",
+      "60plus": "60 歲以上",
+      "women": "女性",
+      "infant": "嬰幼兒",
+      "child": "兒童",
+      "pregnancy": "孕婦",
+      "elderly": "老年人"
+    }
+  },
+  "ui": {
+    "search": "搜尋項目…",
+    "allSections": "所有章節",
+    "items": "項",
+    "evidence": "證據",
+    "listen": "朗讀",
+    "readMore": "閱讀更多",
+    "source": "中文原文",
+    "license": "內容採用 CC BY 4.0 授權，翻譯並在地化自",
+    "translatedFrom": "翻譯自原文，同步至 commit",
+    "cnOnly": "僅適用於中國大陸",
+    "filters": "篩選",
+    "clear": "清除篩選",
+    "noResults": "沒有符合的項目。",
+    "prev": "上一項",
+    "next": "下一項",
+    "section": "章節",
+    "item": "項目"
+  }
+}

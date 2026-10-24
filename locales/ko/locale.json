@@ -1,0 +1,82 @@
+{
+  "lang": "ko",
+  "name": "한국어",
+  "country": "",
+  "siteTitle": "가성비 인생 가이드",
+  "tagline": "돈, 시간, 노력은 가장 적게 쓰고, 수명, 재산, 자유는 가장 많이 얻으세요",
+  "backLink": "[← 목차](../README.md)",
+  "fields": {
+    "成本": "비용",
+    "说人话": "쉬운 설명",
+    "收益": "이익",
+    "证据等级": "증거 등급",
+    "来源": "출처",
+    "备注": "메모"
+  },
+  "seedCredit": "",
+  "cnOnlyMarker": "중국에서만 참고:",
+  "disputedMarker": "논란 있음",
+  "refStyle": "섹션 N, 항목 M",
+  "tags": {
+    "money": {
+      "0": "없음",
+      "label": "돈",
+      "low": "적음",
+      "high": "많음"
+    },
+    "time": {
+      "label": "시간",
+      "low": "적음",
+      "mid": "보통",
+      "high": "많음"
+    },
+    "will": {
+      "label": "의지",
+      "no": "불필요",
+      "some": "약간",
+      "high": "많음"
+    },
+    "gain": {
+      "label": "이익",
+      "high": "큼",
+      "mid": "보통",
+      "low": "작음"
+    },
+    "scope": {
+      "label": "이익 유형",
+      "health": "건강, 수명",
+      "money": "돈",
+      "time": "시간",
+      "freedom": "자유, 법적 안전"
+    },
+    "who": {
+      "label": "대상",
+      "35plus": "35세 이상",
+      "60plus": "60세 이상",
+      "women": "여성",
+      "infant": "영유아",
+      "child": "어린이",
+      "pregnancy": "임신부",
+      "elderly": "노인"
+    }
+  },
+  "ui": {
+    "search": "항목 검색…",
+    "allSections": "모든 섹션",
+    "items": "항목",
+    "evidence": "증거",
+    "listen": "듣기",
+    "readMore": "자세히 보기",
+    "source": "중국어 원문",
+    "license": "콘텐츠는 CC BY 4.0 라이선스이며, 다음 원문을 번역·현지화함:",
+    "translatedFrom": "원문 번역, 다음 커밋까지 동기화:",
+    "cnOnly": "중국에서만 적용",
+    "filters": "필터",
+    "clear": "필터 해제",
+    "noResults": "일치하는 항목이 없습니다.",
+    "prev": "이전 항목",
+    "next": "다음 항목",
+    "section": "섹션",
+    "item": "항목"
+  }
+}
