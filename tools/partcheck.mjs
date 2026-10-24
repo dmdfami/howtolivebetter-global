@@ -49,7 +49,7 @@ for (const key of chunk.keys) {
   if (t.length < s.length * 0.7) problems.push(`${key}: too short (${t.length} chars for ${s.length} Chinese chars), translate everything`);
   if (!CJK_LANG) {
     const body = t.split('\n').filter(l => !l.startsWith(`- ${locale.fields['来源']}:`)).join('\n');
-    if (cjk(body) > 6) problems.push(`${key}: Chinese characters left in the translation (${cjk(body)}); translate or transliterate them`);
+    if (cjk(body.replace(/\]\([^)]*\)/g, ']').replace(/https?:\/\/\S+/g, '')) > 6) problems.push(`${key}: Chinese characters left in the translation (${cjk(body.replace(/\]\([^)]*\)/g, ']').replace(/https?:\/\/\S+/g, ''))}); translate or transliterate them`);
   }
 }
 if (problems.length) { console.log(problems.join('\n')); process.exit(1); }
