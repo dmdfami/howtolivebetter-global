@@ -70,3 +70,5 @@ dd.f-来源 { font-size: 14px; color: var(--muted); }
 .navlink { color: var(--text); text-decoration: none; font-weight: 600; font-size: 15px; white-space: nowrap; }
 .navlink:hover { color: var(--accent); }
 .hero h1, .sec-title, h1.item-title { font-family: "Fraunces", Georgia, serif; font-weight: 600; letter-spacing: -.02em; }
+.local { margin-top: 32px; padding: 16px; border: 1px solid var(--line); border-radius: 8px; }
+.local h2 { margin-top: 0; }

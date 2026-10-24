@@ -35,7 +35,18 @@ node tools/translate.mjs vi --only 01 --limit 5   # dịch thử 5 mục của p
 npm run build                            # tạo dist/
 ```
 
-`translate.mjs` cần `ANTHROPIC_API_KEY`. Model mặc định là `claude-opus-5-5`, đổi bằng biến `TRANSLATE_MODEL`.
+`translate.mjs` chọn backend bằng biến môi trường:
+
+| Biến | Ý nghĩa |
+|---|---|
+| `TRANSLATE_API_BASE` | Endpoint của bạn, ví dụ `https://router.example.com/v1`. Gọi `POST <base>/chat/completions` (kiểu OpenAI). |
+| `TRANSLATE_API_KEY` | Token của endpoint đó. |
+| `TRANSLATE_MODEL` | Tên model endpoint hiểu. Bắt buộc với kiểu OpenAI. |
+| `TRANSLATE_API_FORMAT` | `openai` (mặc định khi có `TRANSLATE_API_BASE`) hoặc `anthropic` (endpoint kiểu Anthropic Messages). |
+
+Không đặt biến nào thì dùng thẳng API Anthropic với `ANTHROPIC_API_KEY` (model mặc định `claude-opus-5-5`). Dù dùng model nào, bản dịch phải qua kiểm tra: đủ các trường, đúng số mục, giữ nguyên URL nguồn. Mục không đạt sẽ thử lại một lần, rồi để lại cho lần chạy sau.
+
+Trong GitHub Actions: đặt `TRANSLATE_API_BASE`, `TRANSLATE_MODEL` ở Settings → Variables, và `TRANSLATE_API_KEY` ở Secrets.
 
 ### Audio
 
@@ -56,6 +67,12 @@ Mỗi mục thành một file MP3 (`audio-out/vi/NN/N.mp3`). Mục nào nội du
 3. Gắn domain riêng nếu có. Mỗi lần merge vào `main`, Pages tự build lại.
 
 Đồng bộ tự động (`.github/workflows/sync.yml`) cần secret `ANTHROPIC_API_KEY` trong Settings → Secrets → Actions, và quyền "Allow GitHub Actions to create pull requests".
+
+## Cài đặt một lần (checklist)
+
+1. **Cloudflare Pages**: Create → Pages → Connect to Git → repo này. Build command `npm ci && npm run build`, output `dist`, biến `NODE_VERSION=22` và `SITE_URL=https://<domain>`. Repo đã có `wrangler.toml` và `.nvmrc`, không cần file cấu hình nào khác.
+2. **Đồng bộ tự động**: Settings → Secrets and variables → Actions. Variables: `TRANSLATE_API_BASE`, `TRANSLATE_MODEL` (ví dụ Haiku 5.5 qua endpoint kiểu OpenAI). Secret: `TRANSLATE_API_KEY`. Settings → Actions → General → bật "Allow GitHub Actions to create pull requests". Workflow `Sync with upstream` chạy mỗi ngày lúc 01:00 UTC, hoặc chạy tay từ tab Actions.
+3. Không đưa khóa vào repo, commit, PR hay prompt. Chỉ để trong Secrets.
 
 ## Thêm một ngôn ngữ
 

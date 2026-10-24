@@ -1,7 +1,7 @@
 // Static site for Cloudflare Pages: dist/<locale>/… with one page per section
 // and one page per item, plus a search index per locale.
 //   node tools/build.mjs [--base https://example.com]
-import { cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from 'node:fs';
+import { cpSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { marked } from 'marked';
 import { ROOT, localeDir, locales, readBookDir, readJson } from './lib/book.mjs';
@@ -66,6 +66,12 @@ ${crumbs.length ? `<nav class="crumbs">${crumbs.map(c => c.href ? `<a href="${c.
 ${extraJs.map(j => `<script src="/assets/${j}.js" defer></script>`).join('\n')}
 </body>
 </html>`;
+}
+
+// Optional per-country layer: locales/<loc>/local/<NN>.md, appended after the items.
+function localLayer(loc, nn) {
+  const f = resolve(localeDir(loc), 'local', `${nn}.md`);
+  return existsSync(f) ? `\n<section class="local">${md(readFileSync(f, 'utf8'))}</section>` : '';
 }
 
 function tagChips(L, tags) {
@@ -156,7 +162,7 @@ for (const loc of locales()) {
     const crumbs = [{ text: L.siteTitle, href: `/${loc}/` }, { text: `${ch.number}. ${ch.title}` }];
     const body = `<h1 class="sec-title"><span class="num">${ch.number}</span> ${esc(ch.title)}</h1>
 <div class="intro">${linkRefs(md(ch.intro), loc, nn)}</div>
-${ch.items.map(it => itemCard(loc, L, nn, it, audio, { full: false })).join('\n')}`;
+${ch.items.map(it => itemCard(loc, L, nn, it, audio, { full: false })).join('\n')}${localLayer(loc, nn)}`;
     write(`${loc}/${nn}`, page({ loc, L, title: `${ch.number}. ${ch.title} · ${L.siteTitle}`, desc: plain(ch.intro), path: `${loc}/${nn}/`, body, crumbs }));
     sitemap.push(`${loc}/${nn}/`);
 
