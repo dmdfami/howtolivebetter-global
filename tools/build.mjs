@@ -38,6 +38,9 @@ const LANGS = locales().filter(ready).map(code => ({ code, name: readJson(resolv
 
 function page({ loc, L, title, desc, path, body, crumbs = [], alternates = [], extraCss = [], extraJs = [] }) {
   const url = `${BASE}/${path}`;
+  const rest = path.slice(loc.length + 1);
+  const alt = [...LANGS.map(l => ({ lang: l.code, path: `${l.code}/${rest}` })), { lang: 'x-default', path: `vi/${rest}` }];
+  alternates = alternates.length || rest.startsWith('game') ? alternates : alt;
   return `<!doctype html>
 <html lang="${loc}"${RTL.has(loc) ? ' dir="rtl"' : ''}>
 <head>
