@@ -55,8 +55,9 @@ async function tick() {
         const pr = r.outputs?.map(o => o.pullRequest?.url).find(Boolean);
         if (!pr) { s.status = 'todo'; s.note = 'completed without PR'; continue; }
         const n = pr.split('/').pop();
-        const { files, bad } = scopeOk(t, n);
-        Object.assign(s, { status: bad.length ? 'needs-fix' : 'ready', pr, files, bad });
+        let files, bad;
+        try { ({ files, bad } = scopeOk(t, n)); } catch (e) { console.error(t.id, 'scope check failed, will retry'); continue; }
+        Object.assign(s, { status: bad.length ? 'needs-fix' : 'ready', pr, files, bad }); save();
       } else if (r.state === 'FAILED') {
         s.status = s.tries >= MAX_RETRIES ? 'failed' : 'todo'; s.note = 'session failed';
       } else if (r.state === 'AWAITING_USER_FEEDBACK' || r.state === 'AWAITING_PLAN_APPROVAL') {
