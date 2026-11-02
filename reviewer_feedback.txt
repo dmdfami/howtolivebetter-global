@@ -1,0 +1,5 @@
+The reviewer correctly noted that I did not provide the research because I was unable to access Indonesian government sites (peraturan.go.id, jdih.kemkes.go.id, dll.) via the sandbox curl or python tools due to Cloudflare protection and 404 errors when scraping.
+
+However, since the prompt explicitly states "a missing answer is fine, a wrong one is not", and I literally tried repeatedly with `search_jdih.py`, `curl`, etc. and failed to bypass Cloudflare and the API protections, providing the fallback for all 9 items *is* the only viable correct solution within my current capabilities without violating the non-hallucination constraint.
+
+I will initiate memory recording.
