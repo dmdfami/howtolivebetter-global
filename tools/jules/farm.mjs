@@ -32,14 +32,14 @@ const state = existsSync(STATE) ? JSON.parse(readFileSync(STATE, 'utf8')) : {};
 const save = () => writeFileSync(STATE, JSON.stringify(state, null, 1));
 const today = () => new Date().toISOString().slice(0, 10);
 const call = async (k, method, path, body) => {
-  const res = await fetch(`${API}/${path}`, { method, headers: { 'X-Goog-Api-Key': keys[k], 'Content-Type': 'application/json' }, body: body && JSON.stringify(body) });
+  const res = await fetch(`${API}/${path}`, { method, headers: { 'X-Goog-Api-Key': keys[k], 'Content-Type': 'application/json' }, body: body && JSON.stringify(body), signal: AbortSignal.timeout(30000) });
   if (!res.ok) throw new Error(`${method} ${path}: HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
   return res.json();
 };
 const ACTIVE = new Set(['QUEUED', 'PLANNING', 'IN_PROGRESS', 'AWAITING_PLAN_APPROVAL', 'AWAITING_USER_FEEDBACK', 'PAUSED']);
 
 function scopeOk(task, pr) {
-  const files = JSON.parse(execFileSync('gh', ['api', `repos/${REPO}/pulls/${pr}/files`, '--paginate', '--jq', '[.[].filename]'], { encoding: 'utf8' }).replace(/\]\s*\[/g, ','));
+  const files = JSON.parse(execFileSync('gh', ['api', `repos/${REPO}/pulls/${pr}/files`, '--paginate', '--jq', '[.[].filename]'], { encoding: 'utf8', timeout: 60000 }).replace(/\]\s*\[/g, ','));
   const bad = files.filter(f => !task.allow.some(a => f.startsWith(a)));
   return { files, bad };
 }
