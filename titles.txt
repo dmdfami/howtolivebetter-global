@@ -1,0 +1,21 @@
+### 1. Antes de actuar, pregúntese: ¿El fabricante, la plataforma o la empresa presentarán una denuncia? Una vez investigado, busque un abogado penalista de inmediato
+### 2. No cree ni venda cheats ni herramientas de asistencia para juegos, incluidos los asistentes de inteligencia artificial que «solo leen la pantalla y no tocan la memoria», y tampoco venda versiones modificadas que añadan funciones a aplicaciones como WeChat
+### 3. No escriba ni venda scripts para acaparar entradas, inflar ventas, aprovechar ofertas o comprar en ventas relámpago, aunque solo sea «hacer clic en botones automáticamente»
+### 4. Que los rastreadores (crawlers) solo recopilen páginas públicas que no requieran inicio de sesión, no evada las medidas antirastreo, no toque información personal y no venda los datos recopilados
+### 5. No acepte encargos de desarrollo de aplicaciones de apuestas, fraude o pornografía, y no configure canales de pago ni desbloquee cuentas para «clientes»
+### 6. Al renunciar, entregue todos los permisos de las cuentas, no borre bases de datos, no deje puertas traseras ni cambie contraseñas para bloquear el sistema, incluso si la empresa le debe dinero
+### 7. Al renunciar, no se lleve el código fuente, la lista de clientes ni la documentación técnica, no los suba a su disco duro en la nube personal ni los reutilice en su próxima empresa
+### 8. No ejecute sus propios programas en los ordenadores, servidores o cámaras de otros, y no use las máquinas de la empresa para minar criptomonedas
+### 9. No pruebe los sistemas de otros sin autorización por escrito; en la ley, ni las «buenas intenciones» ni «informar a posteriori» son eximentes para evitar la condena
+### 10. Reporte las vulnerabilidades según las normativas: no publique detalles, no distribuya herramientas de explotación y no las entregue al extranjero antes de que sean parcheadas
+### 11. No venda herramientas para saltar bloqueos o cuentas de VPN, ni configure estos nodos para otros
+### 12. Si firmó un acuerdo de no competencia, reclame por escrito si la empresa no le paga la compensación mensual tras su renuncia; puede rescindirlo si no pagan durante 3 meses. Para puestos sin acceso a secretos comerciales, puede solicitar que la cláusula no entre en vigor
+### 13. El código escrito durante las horas de trabajo o con recursos de la empresa pertenece a esta; haga sus propios proyectos de código abierto en su tiempo libre y con sus dispositivos, sin mezclar código de la empresa
+### 14. Si utiliza código abierto como GPL para crear productos, abra el código según su licencia o cambie de licencia, no asuma que "nadie se dará cuenta"
+### 15. Al crear una App, recopile solo la información personal necesaria; requiere el consentimiento del tutor para menores de 14 años, y las políticas de privacidad deben ser claras
+### 16. Registre su sitio web o App con ICP antes de su lanzamiento y conserve registros durante al menos 6 meses de acuerdo con los requisitos de protección
+### 17. Evalúe la seguridad y registre el algoritmo antes de ofrecer servicios de IA generativa al público, y añada etiquetas al contenido generado
+### 18. No cree ni distribuya herramientas que salten o bloqueen automáticamente los anuncios de otras Apps, ya que, aunque sean gratis, pueden considerarse competencia desleal
+### 19. No cree "nodos intermediarios de IA" para revender acceso a grandes modelos extranjeros; un webmaster en Shanghái ya fue detenido
+### 20. No cree, venda ni difunda parches de crack, generadores de claves o versiones crackeadas de software; si gana suficiente dinero, será condenado por infringir los derechos de autor
+### 21. No ayude a otros a lanzar ataques DDoS de tráfico, ni venda o alquile plataformas de "prueba de estrés" que generan tráfico; si pierde en un juego, no ataque el servidor contrario
